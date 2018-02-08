@@ -204,7 +204,6 @@ Supertramp
 William Onyeabor
 Winner
 Sneaks
-Marcus D
 Ghost Brigade
 Pearl Jam
 Bear Hands
@@ -497,7 +496,6 @@ Kazy Lambist
 АИГЕЛ
 James Heather
 Atlas Genius
-Brainstorm
 Macklemore
 dukeellington
 Mila J
@@ -622,7 +620,6 @@ Mark Knight
 VAX
 Icehouse
 Townes Van Zandt
-Arcangel
 Kush Kush
 Opia
 Rob Thomas
@@ -972,7 +969,6 @@ Katzenjammer
 Jinjer
 Liam Payne & Rita Ora
 Love And Rockets
-Kano
 Simple Minds
 Keith Kenniff
 Rysy
@@ -1018,7 +1014,6 @@ Meat Beat Manifesto
 Lewis Del Mar
 Ana Vilela
 Imagination
-Saiko
 Kelvin Jones
 Felix da Housecat
 Taron Egerton
@@ -1030,7 +1025,6 @@ High on Fire
 Marcus & Martinus
 Cage the Elephant
 Dr. Dre
-Riot
 Sonique
 Bobby
 L'Âme Immortelle
@@ -1056,7 +1050,6 @@ janesaddiction
 88GLAM
 Black Kids
 Robert Ellis
-Sanni
 Margaret Glaspy
 Saving Abel
 Cheat Codes
@@ -1124,7 +1117,6 @@ Wintergatan
 Goose
 Bully
 Lemuria
-Pharaoh
 Scarlett Johansson
 Listenbee
 Groundislava
@@ -1424,7 +1416,6 @@ R.E.M.
 Stone Temple Pilots
 Chevelle
 Mai Lan
-Orchid
 Fern Jones
 Menomena
 Clawfinger
@@ -1542,7 +1533,6 @@ OG Maco
 Savant
 Dawn Landes
 Flobots
-Jaws
 Spinvis
 Chic
 Spor
@@ -1652,7 +1642,6 @@ Telefon Tel Aviv
 Pim Miles
 BAYNK
 Breton
-Bones
 Voicians
 Rooverb
 Anya Marina
@@ -1870,8 +1859,6 @@ Korn
 Nhato
 dollyparton
 Robin S
-Capsule
-Blondie
 Eisbrecher
 Dram
 White Lies
@@ -1987,7 +1974,6 @@ Lost Kings
 Slowdive
 The Crüxshadows
 Juliana
-Arsenal
 Nautilus Pompilius
 The Sounds
 Nashville Cast
@@ -2325,7 +2311,6 @@ Basil Poledouris
 Alannah Myles
 Johnny Flynn
 Rustie
-Hibou
 Donna Summer
 Fractures
 Vader
@@ -2477,7 +2462,6 @@ Frànçois & The Atlas Mountains
 Darude
 Edward Sharpe & The Magnetic Zeros
 Little Green Cars
-Weekend
 UVERworld
 Fuse ODG
 Étienne de Crécy
@@ -2772,7 +2756,6 @@ Martin Garrix
 Rosie Carney
 Ibrahim Maalouf
 Illy
-Mino
 Mina
 jillscott
 Howie Day
@@ -3077,7 +3060,6 @@ Rose Dive
 Afterlife
 The Algorithm
 Héroes del Silencio
-Abra
 Mali Music
 Sigríður
 buzzcocks
@@ -3226,7 +3208,6 @@ Do Make Say Think
 brooksanddunn
 Gregory Porter
 Bohren & der Club of Gore
-Clay Edwards
 Sir Sly
 Machine Head
 Box Car Racer
@@ -3293,7 +3274,6 @@ anthrax
 Black Uhuru
 BCee
 Skizzy Mars
-Witch
 The Dead Texan
 Father John Misty
 Nils Petter Molvær
@@ -3343,7 +3323,6 @@ Tokio Hotel
 Phantogram
 Hamferð
 Shaggy
-RuPaul
 Yves Montand
 Aitana Ocaña
 The Struts
@@ -3411,7 +3390,6 @@ Bernard Herrmann
 АФФИНАЖ
 MSTRKRFT
 The Cult
-Exodus
 John Fogerty
 Land of Talk
 S.O.S. Band
@@ -3491,12 +3469,10 @@ johannsebastianbach
 Magic Man
 Chancha Via Circuito
 Joshua James
-Antwon
 Bud Powell
 Lee Dorsey
 Moo Latte
 Yaeji
-Enzo
 Doom
 Rammstein
 RÜFÜS DU SOL
@@ -3558,7 +3534,6 @@ London Music Works
 Junkie XL
 Johann Sebastian Bach
 Elvis Depressedly
-Jason Walker
 808 State
 The Palms
 Charlie key
@@ -3577,7 +3552,6 @@ Eddie Floyd
 Buzzcocks
 Ravyn Lenae
 Said The Sky
-Greenleaf
 muddywaters
 Alice Boman
 Bros
@@ -3640,9 +3614,7 @@ Random Rab
 Babasónicos
 Skid Row
 Charlie Puth
-The Bluetones
 David Byrne
-Erra
 Ambrosia
 Jacques Brel
 Jimmy Buffett
@@ -3695,7 +3667,6 @@ John Prine
 Emma Louise
 Offset
 Travi$ Scott
-Alphabeat
 Kungs
 Samael
 Molotov
@@ -3781,7 +3752,6 @@ Molly Nilsson
 FrankJavCee
 Manu Chao
 Nine Days
-Total Control
 Handhabits
 Fallujah
 Soul II Soul
@@ -3809,7 +3779,6 @@ Lyves
 missyelliot
 John Paul White
 Kraak & Smaak
-Niska
 Knorkator
 Elisa
 Kacey Musgraves
@@ -3838,7 +3807,6 @@ Nancy Sinatra
 Solee
 The Soft Boys
 Martin Luke Brown
-Portal
 Yusef Lateef
 Moss
 Women
@@ -3904,7 +3872,6 @@ Glasvegas
 Flora Matos
 Ben Gibbard
 Marc Scibilia
-Wild Beasts
 Black Sun Empire
 Suran
 Tim Halperin
@@ -4012,7 +3979,6 @@ Zombie Nation
 Vektor
 Yeasayer
 Axwell
-TC
 Good Old War
 Homeshake
 AK
@@ -4269,7 +4235,6 @@ Unearth
 The Hoosiers
 jamesbrown
 Marlon Roudette
-Myrkur
 Vampire Weekend
 Moldoni
 Ben Böhmer
@@ -4420,7 +4385,6 @@ Ben Khan
 Johnny Hallyday
 Shawn Wasabi
 Rolo Tomassi
-Exile
 Stacie Orrico
 Sam Eber
 Lars Meyer
@@ -4953,7 +4917,6 @@ Jovanotti
 Coez
 Electric Mantis
 CL
-Flor
 Flow
 Stalking Gia
 Танцы Минус
@@ -5093,7 +5056,6 @@ Soulsavers
 MCCAFFERTY
 The Drums
 Heidevolk
-DNA
 Limes
 Lissa
 Ini Kamoze
@@ -5116,7 +5078,6 @@ Nick Cave & Warren Ellis
 Puppet
 The Toy Dolls
 Devin Townsend Project
-Kele
 Natasha Bedingfield
 Jay Park
 Enrico Pieranunzi
@@ -5268,7 +5229,6 @@ Chicano Batman
 Antoine Dufour
 Future Generations
 Tubeway Army
-Rebour
 World's End Girlfriend
 Laibach
 Kalmah
@@ -5342,7 +5302,6 @@ The Protomen
 Justin Timberlake
 theyardbirds
 Jojo Maronttinni
-John Williams
 Villagers
 leehazlewood
 Uncle Kracker
@@ -5931,8 +5890,6 @@ Carissa's Wierd
 Neon Trees
 Job for a Cowboy
 carlcox
-Propaganda
-Ayla
 Trio X of Sweden
 O Rappa
 Lucas & Steve
@@ -5958,7 +5915,6 @@ Harold Budd
 Riley Pearce
 InkognitOne
 Lacrimas Profundere
-Vacant
 The Horrors
 Dude26
 Iron Butterfly
@@ -6089,7 +6045,6 @@ Paolo Conte
 Sonny Side Up
 Kayzo
 Billy Currington
-Hater
 Roberta Sá
 Erasure
 TR/ST
@@ -6166,7 +6121,6 @@ Meiko
 Handsome Boy Modeling School
 Abakus
 Leif Vollebekk
-Astro
 Ishome
 Christopher
 George McCrae
@@ -6214,7 +6168,6 @@ Apparat
 Highly Suspect
 The Proclaimers
 Cascada
-Boa
 quickly quickly
 Part Time
 Jenny Hval
@@ -6230,7 +6183,6 @@ Emil Bulls
 Chrome Sparks
 MiyaGi & Эндшпиль
 Jax Jones
-Lumen
 Vinícius de Moraes
 K. Michelle
 Emilie Nicolas
@@ -6380,7 +6332,6 @@ The Pillows
 Taj Mahal
 Poisonblack
 Thin Lizzy
-Dreamcatcher
 Andrés Calamaro
 Emma Hewitt
 Blue Hawaii
@@ -6412,7 +6363,6 @@ Red Snapper
 Primal Fear
 fatsdomino
 Riff Raff
-YG
 The Police
 The Stranglers
 Dr. Feelgood
@@ -6738,7 +6688,6 @@ Kaki King
 Ryan Bingham
 Linnea Henriksson
 Antimatter
-Jack Johnson
 KMD
 Nails
 The Stone Roses
@@ -6774,14 +6723,12 @@ Jessica Simpson
 The Champs
 Flunk
 Marlena Shaw
-Steve Lacy
 jayz
 Lance Allen
 Overkill
 Thirteen Senses
 Equiknoxx
 Tammy Wynette
-Fear
 Hugo Kant
 Kult
 Sikth
@@ -6840,7 +6787,6 @@ Dawin
 YEEK
 HO99O9
 Dev
-Madden
 Alejandro Fernández
 Shapeshifters
 buddyholly
@@ -6858,7 +6804,6 @@ Luniz
 Matt Fax
 Adore Delano
 Bauhaus
-Direct
 Scott McKenzie
 Kyle McEvoy
 Smile Empty Soul
@@ -6932,7 +6877,6 @@ Bayside
 HRVY
 Satin Jackets
 John Mellencamp
-TOPS
 Red Hot Chili Peppers
 Funki Porcini
 Gideon
@@ -7037,7 +6981,6 @@ Kamelot
 Dusty Springfield
 ilan Bluestone
 The 5.6.7.8's
-Maxwell
 Kirk Knight
 Jónsi
 The Used
@@ -7064,7 +7007,6 @@ Every Avenue
 Devlin
 Tiny Moving Parts
 Doro
-Tobu
 Hollow Light
 misc.inc
 Little Boots
@@ -7168,7 +7110,6 @@ Rosalía
 PARTYNEXTDOOR
 U.S. Girls
 Giacomo Puccini
-Omega
 Razihel
 Jesca Hoop
 Jaffna
@@ -7255,7 +7196,6 @@ Xylouris White
 Ruben
 greenday
 Torres
-Exo
 3OH!3
 Tame Impala
 Fox Stevenson
@@ -7665,7 +7605,6 @@ Speedy Ortiz
 Enter Shikari
 MC Jhowzinho e MC Kadinho
 Little Hurricane
-Tokyo Rose
 George Baker Selection
 Bad Sounds
 ukiyo
@@ -7819,7 +7758,6 @@ CoVet
 amazarashi
 Marteria
 John Mayer
-Cream
 Mahgreb Machine
 Ace Hood
 Faith Evans
@@ -7835,7 +7773,6 @@ Monuments
 Killy
 Wynton Kelly
 Diary of Dreams
-Typhoon
 Paulina Rubio
 The Monkees
 En Vogue
@@ -7889,11 +7826,9 @@ berhana
 Banks
 Swallow the Sun
 Death Angel
-Lifelike
 Madrugada
 RJD2
 Ugly Kid Joe
-glades
 Ella Vos
 Florist
 Ancient Astronauts
@@ -7981,7 +7916,6 @@ Ralph Vaughan Williams
 Better Than Ezra
 Joachim Pastor
 Information Society
-Infinite
 The Glorious Sons
 Waxahatchee
 2Pac
@@ -8073,7 +8007,6 @@ Pinkshinyultrablast
 Michelle Gurevich
 Y&T
 cannonballadderley
-Willow
 Gatecreeper
 Brian McBride
 Rage Against the Machine
@@ -8209,7 +8142,6 @@ prodigy
 Josh Groban
 Heaven Shall Burn
 The Libertines
-Face to Face
 Lao Che
 Fela Kuti
 Slick Rick
@@ -8223,7 +8155,6 @@ Era
 Barão Vermelho
 Tranquil Cove
 Gin Blossoms
-Ram
 Banda Eva
 Parachute
 Bloodbound
@@ -8267,7 +8198,6 @@ Marsheaux
 Christina Perri
 Datsik
 Iyaz
-Eloy
 Leon Noel
 Dorian
 Deaf Havana
@@ -8373,7 +8303,6 @@ IAM
 Camper Van Beethoven
 Dream Theater
 Generationals
-BK
 Kylesa
 The Strokes
 tbonewalker
@@ -8729,7 +8658,6 @@ Bridgit Mendler
 L'Orchestra Cinematique
 HAIM
 Minke
-Avishai Cohen
 Truckfighters
 Belinda Carlisle
 George Ogilvie
@@ -8860,7 +8788,6 @@ Dark Funeral
 All India Radio
 MØ
 Jesse Boykins III
-Cartoon
 Donell Jones
 Dream Team Do Passinho
 Can't Swim
@@ -8885,7 +8812,6 @@ Felix Jaehn
 Symphony X
 Parks, Squares and Alleys
 Poemme
-Graves
 Karol G
 Deepchord
 The Lively Ones
@@ -9076,7 +9002,6 @@ Delta Rae
 Plies
 Wingtip
 John Moreland
-Alma
 Helvetia
 Shout Out Louds
 R. Stevie Moore
@@ -9085,7 +9010,6 @@ Linkin Park
 The Sugarhill Gang
 The Range
 L'One
-Avatar
 Sharon Jones and the Dap-Kings
 The Vaccines
 Reik

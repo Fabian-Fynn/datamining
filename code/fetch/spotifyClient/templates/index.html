@@ -1,0 +1,10 @@
+<doctype html>
+	<html>
+	{% for item in sorted_array%}
+	<p> {{ item }} </p>
+	{% endfor %}
+	<form>
+		<input type="button" value="Refresh token" onclick="window.location.href='http://localhost:8080'" />
+	</form>
+
+	</html>
