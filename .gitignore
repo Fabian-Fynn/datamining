@@ -1,4 +1,5 @@
 .vscode
 **/**/secrets.py
 **/**/*.pyc
+**/**/*_token.txt
 data/fetched/

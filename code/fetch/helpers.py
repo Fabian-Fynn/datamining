@@ -1,5 +1,6 @@
 import glob
 import os
+import sys
 import urllib
 import urllib2
 import time
@@ -49,8 +50,12 @@ def get_last_fm_api_url(method, page="1", format="json", limit="500"):
 
 
 def get_spotify_api_url(method, query_type, query, offset="1", limit="50"):
-    url = config.SPOTIFY["API_URL"] + \
-        method + "?q=" + query + "&type=" + query_type + "&limit=" + limit
+    if method == "search":
+        url = config.SPOTIFY["API_URL"] + \
+            method + "?q=" + query + "&type=" + query_type + "&limit=" + limit
+    else:
+        url = config.SPOTIFY["API_URL"] + \
+            method + "/" + query + "/" + query_type + "?country=AT"
     return url
 
 
@@ -69,9 +74,9 @@ def make_spotify_api_call(url, max_retries=5):
             return data
         except urllib2.HTTPError as e:
             if e.code == 401:
-                print 'AccessToken expired!'
-                raw_input('Refresh token in Client and Press Enter')
-                print 'continuing...'
+                print 'Access token expired!'
+                # raw_input('Refresh token in Client and Press Enter')
+                print 'Refreshing Access token'
                 access_token = get_new_access_token()
                 continue
             elif e.code == 502:
@@ -110,3 +115,36 @@ def file_len(fname):
         for i, l in enumerate(f):
             pass
     return i + 1
+
+
+def startProgress(msg1, msg2="", msg3=""):
+    print "##############################################"
+    print msg1
+    if not msg2 == "":
+        print msg2
+    if not msg3 == "":
+        print msg3
+    print "##############################################"
+    global progress_x
+    sys.stdout.write("[" + "-" * 40 + "]" + chr(8) * 41)
+    sys.stdout.flush()
+    progress_x = 0
+
+
+def progress(x):
+    global progress_x
+    x = int(x * 40 // 100)
+    sys.stdout.write("#" * (x - progress_x))
+    sys.stdout.flush()
+    progress_x = x
+
+
+def endProgress(msg):
+    sys.stdout.write("#" * (40 - progress_x) + "]\n")
+    sys.stdout.flush()
+    CURSOR_UP_ONE = '\x1b[1A'
+    ERASE_LINE = '\x1b[2K'
+    print(CURSOR_UP_ONE + ERASE_LINE + CURSOR_UP_ONE)
+    print(CURSOR_UP_ONE + ERASE_LINE + CURSOR_UP_ONE)
+    print(msg)
+    print('##############################################')

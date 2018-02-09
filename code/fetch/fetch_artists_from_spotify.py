@@ -18,7 +18,7 @@ artist_info_file_path = os.path.join(
 if not os.path.exists(artist_info_file_path):
     open(artist_info_file_path, 'a').close()
 
-artist_amount = 6000
+artist_amount = 1000
 counter = 0
 covered_artists = []
 artist_names = []
@@ -45,8 +45,13 @@ for line in artist_file:
 
 covered_artists_amount = len(covered_artists)
 found_artists_amount = helpers.file_len(artist_info_file_path)
-print "Artists covered: " + str(covered_artists_amount)
-print "Artists found: " + str(found_artists_amount)
+# print "  Artists covered: " + str(covered_artists_amount)
+# print "  Artists found: " + str(found_artists_amount)
+
+helpers.startProgress(
+    "  Fetching next {0} Artists ".format(artist_amount),
+    "  Artists covered: " + str(covered_artists_amount),
+    "  Artists found: " + str(found_artists_amount))
 
 for artist in artist_names:
     if counter >= artist_amount:
@@ -117,10 +122,14 @@ for artist in artist_names:
         covered_artists_file.write("%s\n" % artist)
         found_artists_amount += 1
     counter += 1
-    if counter % 50 == 0:
-        print "New Artists processed: " + str(counter)
+
+    progress = ((counter + 0.0) / artist_amount) * 100
+    helpers.progress(progress)
+    # if counter % 50 == 0:
+    #     print "New Artists processed: " + str(counter)
 
 covered_artists_amount += counter
 
-print "Artists covered: " + str(covered_artists_amount)
-print "Artists found: " + str(found_artists_amount)
+# print "Artists covered: " + str(covered_artists_amount)
+# print "Artists found: " + str(found_artists_amount)
+helpers.endProgress("  Artists covered: " + str(covered_artists_amount))
