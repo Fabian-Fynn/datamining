@@ -33,6 +33,7 @@ covered_top_tracks_artists_file = open(
 
 artists_with_fetched_tracks_file = open(
     artists_with_fetched_tracks_file_path, 'a')
+
 artist_info_file = open(os.path.join(
     dir, "../../data/prepared/artist_info.txt"), "r")
 for line in artist_info_file:
@@ -60,7 +61,7 @@ for artist in artists:
     artist_id = artist["id"]
 
     url = helpers.get_spotify_api_url(
-        "artists", query_type="top-tracks", query=artist_id)
+        "artists", query=artist_id, query_type="top-tracks")
 
     raw = helpers.make_spotify_api_call(url)
     if not raw:

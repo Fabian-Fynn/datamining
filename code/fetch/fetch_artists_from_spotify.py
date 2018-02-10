@@ -45,8 +45,6 @@ for line in artist_file:
 
 covered_artists_amount = len(covered_artists)
 found_artists_amount = helpers.file_len(artist_info_file_path)
-# print "  Artists covered: " + str(covered_artists_amount)
-# print "  Artists found: " + str(found_artists_amount)
 
 helpers.startProgress(
     "  Fetching next {0} Artists ".format(artist_amount),
@@ -62,8 +60,8 @@ for artist in artist_names:
     artist = artist.strip()
     query = artist.replace(" ", "+")
     query = urllib2.quote(query, safe='/')
-    url = helpers.get_spotify_api_url("search", query_type="artist",
-                                      query=query, limit="10")
+    url = helpers.get_spotify_api_url(
+        "search", query=query, query_type="artist", limit="10")
     raw = helpers.make_spotify_api_call(url)
     if not raw:
         break
@@ -125,11 +123,7 @@ for artist in artist_names:
 
     progress = ((counter + 0.0) / artist_amount) * 100
     helpers.progress(progress)
-    # if counter % 50 == 0:
-    #     print "New Artists processed: " + str(counter)
 
 covered_artists_amount += counter
 
-# print "Artists covered: " + str(covered_artists_amount)
-# print "Artists found: " + str(found_artists_amount)
 helpers.endProgress("  Artists covered: " + str(covered_artists_amount))

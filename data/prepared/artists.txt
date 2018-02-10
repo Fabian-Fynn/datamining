@@ -1,28 +1,20 @@
-Joji
-Populous
-Los Bunkers
-Sugar
-Pusha T
-坂本龍一
-Plutão Já Foi Planeta
-Röyksopp & Robyn
-Format:B
-SR-71
-Merk & Kremont
-D.R.I.
-Cookin' On 3 Burners
-Neil Young & Crazy Horse
 Alexandra Burke
+Joji
+Los Bunkers
 Peter Sarstedt
+Sugar
 Caifanes
 MC Livinho
+Pusha T
 Dierks Bentley
+Populous
 Mad Season
 Michael Whalen
-.sinh
 Prong
 The Duke Spirit
 Maleek Berry
+Cookin' On 3 Burners
+Neil Young & Crazy Horse
 And So I Watch You From Afar
 Hans Wolfgang Ziegler
 Da Tweekaz
@@ -32,6 +24,7 @@ Old Gray
 Каста
 NCT 127
 Kognitif
+坂本龍一
 EMBRZ
 Spectrasoul
 Mimicking Birds
@@ -68,6 +61,7 @@ Bonnie 'Prince' Billy
 Baco Exu do Blues
 For the Fallen Dreams
 36 Crazyfists
+D.R.I.
 Kari Faux
 Tulipa Ruiz
 Mavis Staples
@@ -125,6 +119,7 @@ The Barden Bellas
 mndbd
 Ludacris
 Temple of the Dog
+Merk & Kremont
 Kurt Hugo Schneider
 Spongebob Squarepants
 countbasie
@@ -136,6 +131,7 @@ The Qemists
 Five for Fighting
 Elhae
 Cezinando
+SR-71
 michaeljackson
 Wax Tailor
 Bass Drum of Death
@@ -282,9 +278,11 @@ CamelPhat
 sławomir
 Chicago
 Rixton
+.sinh
 Joseph Williams
 Devonte Hynes
 Them
+Plutão Já Foi Planeta
 Alpha Blondy
 Dream On, Dreamer
 The Be Good Tanyas
@@ -341,6 +339,7 @@ Loretta Lynn
 Jay Reatard
 Avey Tare
 Sleepy Sun
+Röyksopp & Robyn
 Years Of Rice And Salt
 Aesop Rock
 Arman Cekin
@@ -438,6 +437,7 @@ Jessy Lanza
 Zbigniew Preisner
 Dubmood
 George Duke
+Format:B
 Ella Fitzgerald
 Incendiary
 Vancouver Sleep Clinic

@@ -30,7 +30,6 @@ def get_new_access_token():
         urllib2.Request("https://accounts.spotify.com/api/token", body, headers={"Authorization": encoded_str}))
 
     data = json.loads(data.read())
-    # print json.dumps(data.read(), indent=2)
     access_token = data["access_token"]
     with open(os.path.join(dir, "spotify_access_token.txt"), "w") as f:
         f.write("Bearer " + access_token)
@@ -49,10 +48,13 @@ def get_last_fm_api_url(method, page="1", format="json", limit="500"):
     return url
 
 
-def get_spotify_api_url(method, query_type, query, offset="1", limit="50"):
+def get_spotify_api_url(method, query, query_type="", offset="1", limit="50"):
     if method == "search":
         url = config.SPOTIFY["API_URL"] + \
             method + "?q=" + query + "&type=" + query_type + "&limit=" + limit
+    if method == "audio-features":
+        url = config.SPOTIFY["API_URL"] + \
+            method + "/?ids=" + query
     else:
         url = config.SPOTIFY["API_URL"] + \
             method + "/" + query + "/" + query_type + "?country=AT"
@@ -75,9 +77,10 @@ def make_spotify_api_call(url, max_retries=5):
         except urllib2.HTTPError as e:
             if e.code == 401:
                 print 'Access token expired!'
-                # raw_input('Refresh token in Client and Press Enter')
                 print 'Refreshing Access token'
                 access_token = get_new_access_token()
+                print 'Restarting'
+                os.execl(sys.executable, sys.executable, *sys.argv)
                 continue
             elif e.code == 502:
                 print '502'
@@ -118,13 +121,13 @@ def file_len(fname):
 
 
 def startProgress(msg1, msg2="", msg3=""):
-    print "##############################################"
+    print "#" * 48
     print msg1
     if not msg2 == "":
         print msg2
     if not msg3 == "":
         print msg3
-    print "##############################################"
+    print "#" * 48
     global progress_x
     sys.stdout.write("[" + "-" * 40 + "]" + chr(8) * 41)
     sys.stdout.flush()
@@ -147,4 +150,4 @@ def endProgress(msg):
     print(CURSOR_UP_ONE + ERASE_LINE + CURSOR_UP_ONE)
     print(CURSOR_UP_ONE + ERASE_LINE + CURSOR_UP_ONE)
     print(msg)
-    print('##############################################')
+    print "#" * 48
