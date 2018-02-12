@@ -9,45 +9,63 @@ dir = os.path.dirname(__file__)
 reload(sys)
 sys.setdefaultencoding('utf8')
 
-# covered_artists_file_path = os.path.join(
-#     dir, "../../data/prepared/covered_artists_features.txt")
+artist_file_path = os.path.join(
+    dir, "../../data/fetched/artists_from_charts.txt")
+artist_fetch_last_page_file_path = os.path.join(
+    dir, "../../data/assist/artist_fetch_last_page_file.txt")
+helpers.create_file_if_not_exists(artist_file_path)
+helpers.create_file_if_not_exists(artist_fetch_last_page_file_path)
 
-amount_in_thousand = 20
-amount_fetched = 0
+artist_file = open(artist_file_path, "r")
 
-# helpers.startProgress(
-#     "  Fetching next {0} Artists from Last FM Charts ".format(artist_amount), "  Artists covered so far: {0}".format(str(covered_artists_amount)))
+covered_artists = helpers.read_lines_from_file(artist_file)
+artist_file.close()
+covered_artists_amount = len(covered_artists)
+
+with open(artist_fetch_last_page_file_path, 'r') as f:
+    last_page = f.readline()
+
+if last_page == "":
+    last_page = 0
+else:
+    last_page = int(last_page)
+
+page = last_page
+pages = 500
+limit = 10
 
 
-for thousand in range(amount_in_thousand):
-    page = str(thousand + 1)
+helpers.startProgress(
+    "  Fetching next {0}k Artists from Last FM Charts".format(pages),
+    "  Artists covered so far: {0}".format(str(covered_artists_amount)),
+)
 
-    if (thousand + 1) < 10:
-        filename_suffix = "0" + page
-    else:
-        filename_suffix = page
+artist_file = open(artist_file_path, "a")
 
-    artists_file = open(
-        os.path.join(
-            dir, "../../data/fetched/artists_charts/artists_charts_" + filename_suffix + ".txt"), "w")
+
+while True:
+    if page >= last_page + pages:
+        break
+
+    page += 1
     url = helpers.get_last_fm_api_url(
-        "chart.gettopartists", page=page, limit="1000")
+        "chart.gettopartists", page=str(page), limit=str(limit))
     raw = helpers.make_api_call(url).read()
     data = json.loads(raw)
+    # print data
+    # print int(data["artists"]["@attr"]["page"])
+    artists = data["artists"]["artist"]
+    # print data
+    for artist in artists:
+        # print artist["name"]
+        artist_file.write("%s\n" % artist["name"])
+        covered_artists_amount += 1
 
-    if "error" in data:
-        print "## ERROR ##"
-        print data["message"]
-        print "###########"
+    # print page
+    # progress = ((page - last_page + 0.0) / pages) * 100
+    # helpers.progress(progress)
 
-    else:
-        artists = data["artists"]["artist"]
-        amount_fetched += len(artists)
-        print "Fetched: " + str(amount_fetched) + " Artists"
+helpers.endProgress("  Artists covered: " + str(covered_artists_amount))
 
-        for artist in artists:
-            print>>artists_file, artist["name"]
-
-    artists_file.close()
-
-helpers.combine_fetched_artists()
+with open(artist_fetch_last_page_file_path, 'w') as f:
+    f.write(str(page))

@@ -52,12 +52,15 @@ def get_spotify_api_url(method, query, query_type="", offset="1", limit="50"):
     if method == "search":
         url = config.SPOTIFY["API_URL"] + \
             method + "?q=" + query + "&type=" + query_type + "&limit=" + limit
-    if method == "audio-features":
+    elif method == "audio-features":
         url = config.SPOTIFY["API_URL"] + \
             method + "/?ids=" + query
-    else:
+    elif query_type == "top-tracks":
         url = config.SPOTIFY["API_URL"] + \
             method + "/" + query + "/" + query_type + "?country=AT"
+    else:
+        url = config.SPOTIFY["API_URL"] + \
+            method + "/" + query + "/" + query_type
     return url
 
 
@@ -91,7 +94,8 @@ def make_spotify_api_call(url, max_retries=5):
                 time.sleep(int(e.headers["Retry-After"]) + 1)
                 continue
             else:
-                error = e.code
+                print e
+                # error = e.code
                 continue
     else:
         print 'API call failed - too many retries'
@@ -120,9 +124,21 @@ def file_len(fname):
     return i + 1
 
 
+def create_file_if_not_exists(path):
+    if not os.path.exists(path):
+        open(path, 'a').close()
+
+
+def read_lines_from_file(file):
+    array = []
+    for line in file:
+        array.append(line.strip())
+    return array
+
+
 def startProgress(msg1, msg2="", msg3=""):
     print "#" * 48
-    print msg1
+    print "\033[36m" + msg1 + "\033[0m"
     if not msg2 == "":
         print msg2
     if not msg3 == "":
@@ -137,7 +153,7 @@ def startProgress(msg1, msg2="", msg3=""):
 def progress(x):
     global progress_x
     x = int(x * 40 // 100)
-    sys.stdout.write("#" * (x - progress_x))
+    sys.stdout.write("\033[36m#\033[0m" * (x - progress_x))
     sys.stdout.flush()
     progress_x = x
 

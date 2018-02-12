@@ -20,7 +20,7 @@ if not os.path.exists(artist_tracks_features_file_path):
 artists_with_fetched_tracks_file_path = os.path.join(
     dir, "../../data/prepared/artists_with_fetched_tracks.txt")
 
-artist_amount = 100
+artist_amount = 10000
 counter = 0
 covered_artists = []
 artists = []
@@ -43,7 +43,7 @@ for line in artists_with_fetched_tracks_file:
 covered_artists_amount = len(covered_artists)
 
 helpers.startProgress(
-    "  Fetching audio features of next {0} Artists ".format(artist_amount), "  Artists covered so far: {0}".format(str(covered_artists_amount)))
+    "  Fetching audio features of next {0} Artists ".format(artist_amount), "  Artists covered so far: \033[36m{0}\033[0m".format(str(covered_artists_amount)))
 
 # loop over artists
 for artist in artists:
@@ -74,9 +74,11 @@ for artist in artists:
 
     data = json.loads(raw.read())
     tracks = []
+    print data
     for track in data["audio_features"]:
         parameters_to_remove = ('type', 'uri', 'track_href')
         for key in parameters_to_remove:
+            print track
             if key in track:
                 del track[key]
 
@@ -98,4 +100,5 @@ for artist in artists:
     helpers.progress(progress)
 
 covered_artists_amount += counter
-helpers.endProgress("  Artists covered: " + str(covered_artists_amount))
+helpers.endProgress("  Artists covered: " +
+                    "\033[36m" + str(covered_artists_amount) + "\033[0m")

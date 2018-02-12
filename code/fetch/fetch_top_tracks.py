@@ -18,7 +18,7 @@ artists_with_fetched_tracks_file_path = os.path.join(
 if not os.path.exists(artists_with_fetched_tracks_file_path):
     open(artists_with_fetched_tracks_file_path, 'a').close()
 
-artist_amount = 2000
+artist_amount = 10000
 counter = 0
 covered_artists = []
 artists = []

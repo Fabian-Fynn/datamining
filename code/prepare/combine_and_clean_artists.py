@@ -3,7 +3,7 @@ dir = os.path.dirname(__file__)
 
 artists = []
 
-with open(os.path.join(dir, "../../data/fetched/artists_charts.txt")) as f:
+with open(os.path.join(dir, "../../data/fetched/artists_from_charts.txt")) as f:
     artists.append(f.read().splitlines())
 
 with open(os.path.join(dir, "../../data/initial/artists.txt")) as f:

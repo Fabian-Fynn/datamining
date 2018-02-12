@@ -2,4 +2,5 @@
 **/**/secrets.py
 **/**/*.pyc
 **/**/*_token.txt
+data/backup/
 data/fetched/

@@ -18,7 +18,7 @@ artist_info_file_path = os.path.join(
 if not os.path.exists(artist_info_file_path):
     open(artist_info_file_path, 'a').close()
 
-artist_amount = 1000
+artist_amount = 10000
 counter = 0
 covered_artists = []
 artist_names = []

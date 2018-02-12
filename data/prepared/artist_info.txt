@@ -8747,3 +8747,1026 @@
 {'genres': [u'alternative metal'], 'popularity': 42, 'name': u'Dredg', 'id': u'1DsdDxHs1zAwOgWDPgNS7l'}
 {'genres': [u'irish rock', u'pop rock'], 'popularity': 82, 'name': u'The Cranberries', 'id': u'7t0rwkOPGlDPEhaOcVtOt9'}
 {'genres': [u'chanson'], 'popularity': 56, 'name': u'Michel Legrand', 'id': u'1EtE0iSY6iFlN9L9c53ETy'}
+{'genres': [u'indie psych-rock', u'indietronica', u'shimmer pop'], 'popularity': 53, 'name': u'Dan Croll', 'id': u'5Rr15NSbi1Xjno1AEP9u21'}
+{'genres': [], 'popularity': 39, 'name': u'Ben Rosett', 'id': u'1dtiGEl2aljrMiP2QqqoZZ'}
+{'genres': [u'ambient', u'art rock', u'compositional ambient', u'dream pop', u'drone', u'ethereal wave', u'fourth world', u'shoegaze'], 'popularity': 51, 'name': u'Robin Guthrie', 'id': u'3ZqRIzadY4WYQEg4Hj2vGC'}
+{'genres': [u'big beat', u'electronic', u'madchester', u'techno', u'trip hop'], 'popularity': 50, 'name': u'Death In Vegas', 'id': u'5aj3LEYRbuaabjjHkj5oE1'}
+{'genres': [u'chillhop'], 'popularity': 59, 'name': u'mt. fujitive', 'id': u'2V9zpugQCHRiu2lPjsUM6d'}
+{'genres': [u'danish pop'], 'popularity': 56, 'name': u'Junior Senior', 'id': u'7xNPROyVfkH4mcIxxCxySm'}
+{'genres': [u'chillwave', u'freak folk', u'indie pop', u'indie psych-rock', u'indie rock', u'indietronica', u'lo-fi', u'modern rock', u'neo-psychedelic', u'noise pop', u'nu gaze', u'shimmer pop', u'stomp and holler'], 'popularity': 51, 'name': u'Surfer Blood', 'id': u'0IlQRCafsMrd0QkTRBU6n0'}
+{'genres': [u'pop rock'], 'popularity': 60, 'name': u'Wheatus', 'id': u'4mYFgEjpQT4IKOrjOUKyXu'}
+{'genres': [u'album rock', u'art rock', u'folk christmas', u'folk rock', u'mellow gold', u'singer-songwriter', u'soft rock'], 'popularity': 58, 'name': u'Gerry Rafferty', 'id': u'7tjbDPvrdvDshcpEMXKRVb'}
+{'genres': [u'alternative emo', u'dreamo', u'emo', u'modern rock', u'pop punk', u'pop rock', u'screamo'], 'popularity': 59, 'name': u'Say Anything', 'id': u'3ImqpXKKgkH5VydfgX1hd4'}
+{'genres': [u'anime', u'j-pop', u'j-rock'], 'popularity': 70, 'name': u'ONE OK ROCK', 'id': u'7k73EtZwoPs516ZxE72KsO'}
+{'genres': [u'ambient', u'downtempo', u'electronic', u'intelligent dance music', u'psychedelic trance', u'psychill'], 'popularity': 52, 'name': u'Carbon Based Lifeforms', 'id': u'38DX4hQVvPBs3PThDIAK11'}
+{'genres': [], 'popularity': 69, 'name': u'Emma Stone', 'id': u'68Uwx1d3EbjDJhYsLjqvIq'}
+{'genres': [u'melancholia'], 'popularity': 45, 'name': u'Luna', 'id': u'2AACqFGo8offvHCKGvrWxq'}
+{'genres': [u'big room', u'deep big room', u'deep groove house', u'deep tropical house', u'disco house', u'edm', u'electro house', u'house', u'progressive electro house', u'progressive house', u'tropical house'], 'popularity': 72, 'name': u'EDX', 'id': u'7GMot9WvBYqhhJz92vhBp6'}
+{'genres': [u'adult standards', u'bebop', u'big band', u'christmas', u'contemporary post-bop', u'cool jazz', u'hard bop', u'jazz', u'jazz blues', u'jazz trio', u'soul jazz', u'stride', u'swing', u'vocal jazz'], 'popularity': 60, 'name': u'Oscar Peterson Trio', 'id': u'0ldU0QJm31y0d6f57R1G2A'}
+{'genres': [u'contemporary country', u'country', u'country christmas', u'country road'], 'popularity': 80, 'name': u'Luke Bryan', 'id': u'0BvkDsjIUla7X0k6CSWh1I'}
+{'genres': [u'australian alternative rock', u'deep australian indie', u'shimmer pop'], 'popularity': 63, 'name': u'The Jungle Giants', 'id': u'6wFwvxJkurQPU2UdeD4qVt'}
+{'genres': [u'melodic metalcore', u'metalcore', u'post-screamo', u'rap metal', u'screamo'], 'popularity': 60, 'name': u'Memphis May Fire', 'id': u'7cNNNhdJDrt3vgQjwSavNf'}
+{'genres': [u'adult standards', u'bossa nova', u'christmas', u'cool jazz', u'lounge', u'vocal jazz'], 'popularity': 63, 'name': u'Astrud Gilberto', 'id': u'5rX2c1zow6hCph8PnnU3kF'}
+{'genres': [u'chillhop'], 'popularity': 62, 'name': u'FloFilz', 'id': u'39ZQx0618UYVBgGTDOJ2ds'}
+{'genres': [u'album rock', u'blues-rock', u'classic rock', u'glam metal', u'hard rock', u'metal', u'rock'], 'popularity': 59, 'name': u'Nazareth', 'id': u'6fvN9GmMCVKb5LY0WsnjFP'}
+{'genres': [u'chillwave', u'indietronica', u'wonky'], 'popularity': 54, 'name': u'xxyyxx', 'id': u'1iqXhsjGeWi2Gje5q0mFYb'}
+{'genres': [u'album rock', u'blues-rock', u'classic funk rock', u'classic rock', u'glam metal', u'hard rock', u'heavy christmas', u'metal', u'rock', u'southern rock'], 'popularity': 61, 'name': u'Ted Nugent', 'id': u'21ysNsPzHdqYN2fQ75ZswG'}
+{'genres': [u'art pop', u'brooklyn indie', u'chillwave', u'dream pop', u'garage psych', u'indie pop', u'indie rock', u'indietronica', u'lo-fi', u'metropopolis', u'modern rock', u'noise pop', u'nu gaze', u'preverb', u'shoegaze', u'twee pop'], 'popularity': 46, 'name': u'The Pains Of Being Pure At Heart', 'id': u'3zmmBJseZelpVEHj8S6Dek'}
+{'genres': [u'chillhop'], 'popularity': 63, 'name': u'Made in M', 'id': u'5schXx0Ys4N52iU7On2j4c'}
+{'genres': [u'j-metal', u'j-pop', u'j-rock'], 'popularity': 60, 'name': u'BABYMETAL', 'id': u'630wzNP2OL7fl4Xl0GnMWq'}
+{'genres': [u'alternative emo', u'anthem emo', u'melodic hardcore', u'pop punk'], 'popularity': 55, 'name': u'Basement', 'id': u'4DUQBYAyOTZotSEdKhaf6c'}
+{'genres': [u'alternative hip hop', u'chillhop', u'ninja', u'trip hop', u'wonky'], 'popularity': 55, 'name': u'Onra', 'id': u'2sAlo7Fey5cqBk5WJILSd8'}
+{'genres': [u'bow pop', u'cello', u'classical christmas', u'classify'], 'popularity': 66, 'name': u'2Cellos', 'id': u'6Fi8CHfO8WGtu3yO8c2Mc4'}
+{'genres': [u'contemporary country', u'country', u'country road', u'modern country rock'], 'popularity': 75, 'name': u'Zac Brown Band', 'id': u'6yJCxee7QumYr820xdIsjo'}
+{'genres': [u'compositional ambient', u'focus'], 'popularity': 66, 'name': u'Sophie Hutchings', 'id': u'54MsweggxTxlfYUbhZNIQ0'}
+{'genres': [u'dance pop', u'deep pop r&b', u'hip hop', u'hip pop', u'indie r&b', u'neo soul', u'new jack swing', u'pop', u'pop christmas', u'pop rap', u'quiet storm', u'r&b', u'rap', u'soul christmas', u'southern hip hop', u'urban contemporary'], 'popularity': 71, 'name': u'Ginuwine', 'id': u'7r8RF1tN2A4CiGEplkp1oP'}
+{'genres': [u'britpop', u'indie rock', u'madchester', u'pop rock'], 'popularity': 51, 'name': u'Ash', 'id': u'2evydP72Z45DouM4uMGsIE'}
+{'genres': [u'deep indie r&b', u'indie r&b'], 'popularity': 54, 'name': u'Mr Jukes', 'id': u'1y71H4hNtnHG7LeU1Y47FO'}
+{'genres': [u'hip house', u'rap'], 'popularity': 61, 'name': u'MC Hammer', 'id': u'2rblp9fJo16ZPTcKDtlmKW'}
+{'genres': [u'neo mellow'], 'popularity': 59, 'name': u'Gary Jules', 'id': u'5oRnbmgqvvq7fVlgk4vcEa'}
+{'genres': [u'hollywood', u'scorecore', u'soundtrack'], 'popularity': 63, 'name': u'Patrick Doyle', 'id': u'1W42coQfIlt6btgqpfJWYQ'}
+{'genres': [u'german techno', u'minimal techno', u'tech house'], 'popularity': 65, 'name': u'Paul Kalkbrenner', 'id': u'0rasA5Z5h1ITtHelCpfu9R'}
+{'genres': [u'melodic metalcore', u'metalcore', u'nintendocore', u'post-screamo', u'rap metal', u'screamo'], 'popularity': 61, 'name': u'I See Stars', 'id': u'3iCJOi5YKh247eutgCyLFe'}
+{'genres': [u'dirty south rap', u'east coast hip hop', u'gangster rap', u'hardcore hip hop', u'hip hop', u'pop rap', u'rap', u'southern hip hop'], 'popularity': 69, 'name': u'Method Man', 'id': u'4VmEWwd8y9MCLwexFMdpwt'}
+{'genres': [u'alternative emo', u'dreamo', u'shimmer pop'], 'popularity': 51, 'name': u'Now, Now', 'id': u'6ZitSwtBSGqj00w11GvMU3'}
+{'genres': [u'afrobeat', u'classic funk rock', u'deep funk', u'funk', u'jazz blues', u'jazz funk', u'memphis blues', u'memphis soul', u'modern blues', u'new orleans blues', u'soul', u'soul blues', u'soul jazz', u'southern soul'], 'popularity': 58, 'name': u'The Meters', 'id': u'2JRvXPGWiINrnJljNJhG5s'}
+{'genres': [u'folk metal', u'gothic metal', u'jazz metal', u'pagan black metal', u'progressive metal', u'viking metal'], 'popularity': 47, 'name': u'Orphaned Land', 'id': u'7xTMxqAmbtE0Nce5lz7t0h'}
+{'genres': [u'psychedelic trance'], 'popularity': 44, 'name': u'1200 Micrograms', 'id': u'2opB8qXyAmLYSGEZxp7X3U'}
+{'genres': [u'electronic', u'laboratorio', u'new romantic', u'new wave', u'synthpop', u'vintage french electronic'], 'popularity': 57, 'name': u'Jean-Michel Jarre', 'id': u'5MhLmv7GgyjbxGqiIGasvT'}
+{'genres': [u'bebop', u'contemporary jazz', u'contemporary post-bop', u'cool jazz', u'jazz', u'jazz fusion', u'vocal jazz'], 'popularity': 58, 'name': u'Keith Jarrett', 'id': u'0F3Aew9DSd6fb6192K1K0Y'}
+{'genres': [u'chamber psych'], 'popularity': 46, 'name': u'Algiers', 'id': u'58WFmcqNmejE2IpVIna43o'}
+{'genres': [u'art pop', u'freak folk', u'preverb'], 'popularity': 45, 'name': u'Vagabon', 'id': u'17mwzDXKn4ra9cuxXaptwp'}
+{'genres': [u'francoton', u'french hip hop', u'trap francais'], 'popularity': 75, 'name': u'Ma\xeetre Gims', 'id': u'0GOx72r5AAEKRGQFn3xqXK'}
+{'genres': [u'jazz metal', u'neo-progressive', u'progressive metal', u'progressive rock', u'symphonic rock'], 'popularity': 46, 'name': u'Pain of Salvation', 'id': u'1uRpg2s2jNaxbmoNiJDGfd'}
+{'genres': [u'country gospel', u'cowboy western', u'folk', u'nashville sound', u'outlaw country', u'rock-and-roll', u'rockabilly', u'texas country', u'traditional country', u'traditional folk'], 'popularity': 60, 'name': u'Hank Williams', 'id': u'1FClsNYBUoNFtGgzeG74dW'}
+{'genres': [u'chamber pop', u'compositional ambient', u'icelandic pop', u'post rock'], 'popularity': 47, 'name': u'm\xfam', 'id': u'4mw86zm4QZIL8SksdyE6OU'}
+{'genres': [u'britpop', u'dance-punk', u'garage rock', u'indie rock', u'madchester', u'modern rock', u'new rave', u'punk blues'], 'popularity': 54, 'name': u'Babyshambles', 'id': u'0IBAqjHG8DSaD7PPCGnGiZ'}
+{'genres': [u'alternative rock', u'grunge', u'permanent wave', u'pop rock', u'post-grunge', u'rock'], 'popularity': 58, 'name': u'Soul Asylum', 'id': u'02da1vDJ2hWqfK7aJL6SJm'}
+{'genres': [u'acid house', u'ambient', u'electronic', u'fourth world', u'hardcore techno', u'intelligent dance music', u'madchester', u'trip hop'], 'popularity': 46, 'name': u'The Orb', 'id': u'5HAtRoEPUvGSA7ziTGB1cF'}
+{'genres': [u'deep australian indie', u'deep indie r&b', u'indie r&b', u'vapor soul'], 'popularity': 58, 'name': u'Kllo', 'id': u'0RDC2Krd2nmqseGx5C8PQz'}
+{'genres': [u'german metal', u'industrial metal', u'industrial rock', u'neue deutsche harte'], 'popularity': 51, 'name': u'OOMPH!', 'id': u'2mZITUvfEwrKlksoGpHTsM'}
+{'genres': [u'alternative metal', u'garage rock', u'grunge', u'hard rock', u'rap rock', u'stoner metal', u'stoner rock'], 'popularity': 50, 'name': u'Monster Magnet', 'id': u'4hvwEwrCmGj22uURGVET7Q'}
+{'genres': [u'alternative emo', u'anthem emo', u'emo', u'melodic hardcore', u'modern rock', u'pop emo', u'pop punk', u'post-hardcore', u'screamo'], 'popularity': 59, 'name': u'Four Year Strong', 'id': u'0qqxspZOkbN00bu6DaRIrn'}
+{'genres': [u'disco house', u'filter house', u'vocal house'], 'popularity': 57, 'name': u'Modjo', 'id': u'0AkpPlFLnr0VQwZQeMGht0'}
+{'genres': [u'ambient', u'art rock', u'electronic', u'fourth world', u'kraut rock', u'progressive rock', u'space rock', u'symphonic rock'], 'popularity': 51, 'name': u'Tangerine Dream', 'id': u'1BGN1IdyiSR0ZYrkoKNchl'}
+{'genres': [u'album rock', u'art rock', u'dance rock', u'disco', u'europop', u'mellow gold', u'new romantic', u'new wave', u'new wave pop', u'rock', u'soft rock', u'soul christmas', u'synthpop'], 'popularity': 61, 'name': u'Paul Young', 'id': u'6rqU9HQ57NYGBnBzbrY3a4'}
+{'genres': [u'deep indie r&b', u'indie r&b', u'shimmer pop', u'vapor soul'], 'popularity': 56, 'name': u'Tourist', 'id': u'2ABBMkcUeM9hdpimo86mo6'}
+{'genres': [u'abstract hip hop', u'anti-folk', u'bay area indie', u'freak folk', u'indie folk', u'indie pop', u'indie rock', u'lo-fi', u'neo-psychedelic', u'stomp and holler'], 'popularity': 50, 'name': u'WHY?', 'id': u'0d7aBBLFcc4dlETnae6zcH'}
+{'genres': [u'alternative country', u'alternative rock', u'anti-folk', u'chamber pop', u'folk-pop', u'freak folk', u'indie folk', u'indie rock', u'lo-fi', u'new weird america', u'roots rock', u'singer-songwriter', u'slow core', u'stomp and holler'], 'popularity': 51, 'name': u'Songs: Ohia', 'id': u'3uQ5cxFHxXddqPL58egs1z'}
+{'genres': [u'classic russian rock', u'russian hip hop', u'russian punk', u'russian rock'], 'popularity': 41, 'name': u'Noize MC', 'id': u'69v4ZOOomf1TNp59YYB1j7'}
+{'genres': [], 'popularity': 57, 'name': u'ATTLAS', 'id': u'0jM4IKp6YlTxq8tNDH9fX3'}
+{'genres': [u'deep australian indie', u'deep indie r&b', u'indie r&b'], 'popularity': 62, 'name': u'Jarryd James', 'id': u'23IZADrJHPStZ6aMxJVq3s'}
+{'genres': [u'scorecore', u'soundtrack', u'video game music'], 'popularity': 65, 'name': u'Klaus Badelt', 'id': u'03GruNQP8X25PCoWzdvIGZ'}
+{'genres': [u'indie punk'], 'popularity': 57, 'name': u'PUP', 'id': u'6A7uqgC2N1nUhrCLAytHxN'}
+{'genres': [u'big room', u'deep big room', u'deep groove house', u'deep house', u'deep tropical house', u'disco house', u'edm', u'electro house', u'house', u'progressive electro house', u'progressive house', u'tropical house'], 'popularity': 62, 'name': u'Michael Calfan', 'id': u'4CuipEvwcoQggmCV8jpKF9'}
+{'genres': [u'german metal', u'hard rock', u'metal', u'neo classical metal', u'power metal', u'progressive metal', u'speed metal', u'symphonic metal'], 'popularity': 54, 'name': u'Edguy', 'id': u'3AGFqPP3gt5rMSvhR87Xxu'}
+{'genres': [u'alternative pop', u'alternative rock', u'art pop', u'chamber pop', u'dream pop', u'freak folk', u'indie folk', u'indie rock', u'lo-fi', u'melancholia', u'noise pop', u'post rock', u'shoegaze', u'singer-songwriter', u'slow core'], 'popularity': 45, 'name': u'Red House Painters', 'id': u'2GATzeg62cr6sH29wSOVWe'}
+{'genres': [u'focus'], 'popularity': 61, 'name': u'Martin Landh', 'id': u'3h6h9sKnuag3EateK306Ew'}
+{'genres': [u'deep house', u'deep tropical house', u'tropical house'], 'popularity': 67, 'name': u'filous', 'id': u'2IjiuEObrCKyZvSb8xLxG9'}
+{'genres': [u'dance pop', u'pop', u'post-teen pop', u'talent show', u'teen pop', u'viral pop'], 'popularity': 65, 'name': u'Cher Lloyd', 'id': u'4m4SfDVbF5wxrwEjDKgi4k'}
+{'genres': [u'chamber pop', u'folk-pop', u'freak folk', u'indie folk', u'indie pop'], 'popularity': 56, 'name': u'Andy Shauf', 'id': u'5mFKYdmiYwNJTDtSzgFyQx'}
+{'genres': [u'indie anthem-folk', u'indie folk'], 'popularity': 64, 'name': u'Jamie Lawson', 'id': u'1jhdZdzOd4TJLAHqQdkUND'}
+{'genres': [u'australian pop'], 'popularity': 66, 'name': u'Sheppard', 'id': u'6VxCmtR7S3yz4vnzsJqhSV'}
+{'genres': [u'atmospheric black metal', u'avantgarde metal', u'black metal', u'blackgaze', u'doom metal', u'pagan black metal', u'post-metal', u'usbm', u'viking metal', u'voidgaze'], 'popularity': 45, 'name': u'Agalloch', 'id': u'3Meu28o8P5z9Zjm6NTGihT'}
+{'genres': [u'adult standards', u'brill building pop', u'christmas', u'easy listening', u'folk rock', u'jazz blues', u'jazz christmas', u'lounge', u'mellow gold', u'rock-and-roll', u'rockabilly', u'soul', u'swing', u'vocal jazz'], 'popularity': 63, 'name': u'Bobby Darin', 'id': u'0EodhzA6yW1bIdD5B4tcmJ'}
+{'genres': [u'atmospheric black metal', u'avantgarde metal', u'heavy christmas', u'icelandic pop', u'pagan black metal', u'post-metal', u'viking metal'], 'popularity': 46, 'name': u'S\xf3lstafir', 'id': u'721C5U5rM8J0jjq6IQuSBK'}
+{'genres': [u'adult standards', u'brill building pop', u'christmas', u'easy listening', u'lounge', u'mellow gold', u'vocal jazz'], 'popularity': 68, 'name': u'Andy Williams', 'id': u'4sj6D0zlMOl25nprDJBiU9'}
+{'genres': [u'modern rock'], 'popularity': 61, 'name': u'grandson', 'id': u'4ZgQDCtRqZlhLswVS6MHN4'}
+{'genres': [u'art rock', u'brill building pop', u'bubblegum pop', u'classic rock', u'folk', u'folk rock', u'mellow gold', u'merseybeat', u'psychedelic rock', u'rock-and-roll', u'roots rock', u'singer-songwriter', u'soft rock', u'traditional folk'], 'popularity': 56, 'name': u"The Lovin' Spoonful", 'id': u'7CCn4PFRRRZF127jtCBAUe'}
+{'genres': [], 'popularity': 46, 'name': u'Saski', 'id': u'4UfJMiu878W1bQhjsuRj4t'}
+{'genres': [u'alternative metal', u'alternative rock', u'comic', u'funk rock', u'groove metal', u'grunge', u'hard rock', u'industrial', u'industrial metal', u'industrial rock', u'metal', u'nu metal', u'post-grunge', u'rap metal', u'rap rock', u'rock'], 'popularity': 57, 'name': u'White Zombie', 'id': u'0CF71zaDOJWCynIkW9bSK8'}
+{'genres': [u'deep chiptune'], 'popularity': 51, 'name': u'M|O|O|N', 'id': u'0M2HHtY3OOQzIZxrHkbJLT'}
+{'genres': [u'adult standards', u'brill building pop', u'christmas', u'jazz blues', u'jazz christmas', u'jump blues', u'lounge', u'memphis blues', u'new orleans blues', u'piano blues', u'rock-and-roll', u'rockabilly', u'soul', u'soul blues', u'soul christmas', u'southern soul', u'traditional blues'], 'popularity': 60, 'name': u'Fats Domino', 'id': u'09C0xjtosNAIXP36wTnWxd'}
+{'genres': [u'art rock', u'blues-rock', u'mellow gold', u'soft rock'], 'popularity': 64, 'name': u'Chris Rea', 'id': u'5KEG7G8LDYlHgFDqZyEEs2'}
+{'genres': [u'deep funk carioca'], 'popularity': 73, 'name': u'MC WM', 'id': u'14D0I0RYqvIorkPL2EWoQh'}
+{'genres': [u'scorecore', u'soundtrack'], 'popularity': 62, 'name': u'Carter Burwell', 'id': u'0SbSDzM4X41hnlURed0fcV'}
+{'genres': [u'funk', u'modern blues', u'soul'], 'popularity': 57, 'name': u'Curtis Harding', 'id': u'0CUpzKPDfIVzYqMn47jiV3'}
+{'genres': [u'vocal jazz'], 'popularity': 62, 'name': u'Katie Melua', 'id': u'5uCXJWo3WoXgqv3T1RlAbh'}
+{'genres': [u'compositional ambient', u'focus', u'instrumental post rock', u'post rock'], 'popularity': 59, 'name': u'Lowercase Noises', 'id': u'7trvyUUXmPhi1StCNYHj4e'}
+{'genres': [u'classical', u'compositional ambient', u'contemporary classical', u'minimal'], 'popularity': 56, 'name': u'Arvo P\xe4rt', 'id': u'2P6ygesd9xg5DPOBnda2jg'}
+{'genres': [u'bass trap', u'zapstep'], 'popularity': 49, 'name': u'RIOT', 'id': u'0qPGd8tOMHlFZt8EA1uLFY'}
+{'genres': [u'album rock', u'jangle pop', u'power pop'], 'popularity': 58, 'name': u'The Knack', 'id': u'0Nn9YwJzcaeuU1jJL06e3r'}
+{'genres': [u'deep funk carioca'], 'popularity': 71, 'name': u'Mc Gw', 'id': u'0f1IECbrVV952unZkzrsg2'}
+{'genres': [u'aussietronica', u'deep australian indie', u'deep indie r&b', u'indie r&b'], 'popularity': 63, 'name': u'Wafia', 'id': u'0FL2d6iFFNAV3yBUbXjZ1U'}
+{'genres': [u'blackgaze', u'dream pop', u'drone', u'emo', u'experimental rock', u'freak folk', u'lo-fi', u'math rock', u'noise pop', u'noise rock', u'nu gaze', u'post rock', u'post-metal', u'shoegaze', u'slow core'], 'popularity': 42, 'name': u'Have A Nice Life', 'id': u'0FRKTwQSToXpCxYMhyUzYY'}
+{'genres': [u'pop rap', u'rap', u'underground pop rap'], 'popularity': 71, 'name': u'Hoodie Allen', 'id': u'382aq8Pij5V2nE2JMHMoxl'}
+{'genres': [u'downtempo', u'post rock'], 'popularity': 42, 'name': u'MONO', 'id': u'53LVoipNTQ4lvUSJ61XKU3'}
+{'genres': [u'dance pop', u'grime', u'hip house', u'house', u'tropical house'], 'popularity': 63, 'name': u'Example', 'id': u'6Vh6UDWfu9PUSXSzAaB3CW'}
+{'genres': [u'neo classical metal', u'progressive metal'], 'popularity': 42, 'name': u'Sons Of Apollo', 'id': u'3oBGGy1VOs6IHOa1ZdUx2f'}
+{'genres': [u'chillwave', u'indie dream pop', u'indie psych-rock', u'indietronica', u'nu gaze', u'vancouver indie'], 'popularity': 52, 'name': u'Teen Daze', 'id': u'2GE6MAdyGzeXpY9TwIYd3l'}
+{'genres': [u'groove metal', u'melodic death metal', u'melodic metalcore', u'metalcore'], 'popularity': 41, 'name': u'Sylosis', 'id': u'2RiGIRDi4GoJpDbjDnPVJl'}
+{'genres': [u'dance pop', u'k-pop', u'korean pop'], 'popularity': 62, 'name': u'Block B', 'id': u'4RnezwRV7VBJUCI1S0AE5u'}
+{'genres': [u'gothic metal', u'industrial metal', u'melodic death metal', u'metal', u'neue deutsche harte', u'power metal', u'swedish alternative rock'], 'popularity': 51, 'name': u'Pain', 'id': u'0hGpZy6ws8FofByMkt0CV1'}
+{'genres': [u'alternative rock', u'art rock', u'dance rock', u'dream pop', u'experimental', u'experimental rock', u'gothic rock', u'industrial', u'industrial rock', u'madchester', u'neo-psychedelic', u'new romantic', u'new wave', u'new wave pop', u'no wave', u'post-punk', u'pub rock', u'punk', u'punk blues', u'synthpop', u'uk post-punk'], 'popularity': 50, 'name': u'Public Image Ltd.', 'id': u'70MMkLXtue3Edj3RJhJkYp'}
+{'genres': [u'acoustic pop', u'folk-pop', u'indiecoustica', u'neo mellow', u'pop rock', u'singer-songwriter'], 'popularity': 66, 'name': u'Mat Kearney', 'id': u'2NQEwAVHBNcI0tGMLlWwF1'}
+{'genres': [u'crunk', u'dirty south rap', u'gangster rap', u'hip hop', u'pop rap', u'rap', u'southern hip hop'], 'popularity': 69, 'name': u'Bone Thugs-N-Harmony', 'id': u'5spEJXLwD1sKUdC2bnOHPg'}
+{'genres': [u'atmospheric black metal', u'avantgarde metal', u'black metal', u'death metal', u'doom metal', u'metal', u'norwegian metal', u'pagan black metal', u'symphonic black metal', u'viking metal'], 'popularity': 45, 'name': u'Darkthrone', 'id': u'7kWnE981vITXDnAD2cZmCV'}
+{'genres': [u'album rock', u'art rock', u'blues-rock', u'british blues', u'classic rock', u'hard rock', u'metal', u'progressive rock', u'psychedelic rock', u'rock', u'symphonic rock'], 'popularity': 55, 'name': u'Uriah Heep', 'id': u'45O9BwPMyywM755SYUK0sP'}
+{'genres': [u'celtic punk', u'celtic rock', u'punk'], 'popularity': 65, 'name': u'The Pogues', 'id': u'2wzMOQwNT6ZvVB4amvhFAH'}
+{'genres': [u'adult standards', u'brill building pop', u'bubblegum pop', u'chicago soul', u'christmas', u'doo-wop', u'folk rock', u'jazz blues', u'jazz christmas', u'lounge', u'memphis soul', u'motown', u'quiet storm', u'rock-and-roll', u'rockabilly', u'soul', u'soul blues', u'soul christmas', u'southern soul'], 'popularity': 62, 'name': u'The Drifters', 'id': u'1FqqOl9itIUpXr4jZPIVoT'}
+{'genres': [u'album rock', u'art rock', u'blues-rock', u'british blues', u'classic funk rock', u'classic rock', u'country rock', u'electric blues', u'hard rock', u'heavy christmas', u'mellow gold', u'rock', u'soft rock', u'southern rock'], 'popularity': 58, 'name': u'Foghat', 'id': u'6x33CmZWo2Ve4hxYl2Craq'}
+{'genres': [u'alternative metal', u'ebm', u'electro-industrial', u'electronic', u'industrial', u'industrial metal', u'industrial rock', u'nu metal'], 'popularity': 53, 'name': u'KMFDM', 'id': u'3V4IvzRQYP5mzuVtkcHgVa'}
+{'genres': [u'dance pop', u'k-pop', u'korean pop'], 'popularity': 61, 'name': u'I.O.I', 'id': u'6RKnXXyprPjhBdCvL802Ku'}
+{'genres': [u'chamber psych', u'garage rock'], 'popularity': 43, 'name': u'Savages', 'id': u'1WFsBUAgQmrGQQEUyFKS60'}
+{'genres': [u'electronic', u'microhouse', u'minimal techno', u'new rave', u'trip hop'], 'popularity': 49, 'name': u'Modeselektor', 'id': u'2jYMYP2SVifgmzNRQJx3SJ'}
+{'genres': [u'contemporary country', u'country', u'country christmas', u'country road', u'modern country rock', u'pop christmas'], 'popularity': 77, 'name': u'Blake Shelton', 'id': u'1UTPBmNbXNTittyMJrNkvw'}
+{'genres': [u'chillwave', u'electronic', u'intelligent dance music', u'ninja', u'nu jazz', u'trip hop', u'turntablism'], 'popularity': 49, 'name': u'Yppah', 'id': u'3Gaqw2nGyE7yM3rcRSzE3U'}
+{'genres': [u'chillhop', u'future funk'], 'popularity': 63, 'name': u'eevee', 'id': u'4pwqNyMSvuv7VOhQBdjB6Q'}
+{'genres': [u'alternative hip hop', u'east coast hip hop', u'hardcore hip hop', u'hip hop', u'rap', u'turntablism'], 'popularity': 55, 'name': u'Digable Planets', 'id': u'0gqIrDRL7CEPBWMmkuZPdQ'}
+{'genres': [u'alternative dance', u'electrofox', u'filter house', u'indie poptimism', u'indie psych-rock', u'nu disco', u'shimmer pop'], 'popularity': 44, 'name': u'French Horn Rebellion', 'id': u'6G5wDM1Vmsscql7qRtcLH0'}
+{'genres': [], 'popularity': 77, 'name': u'Maiara & Maraisa', 'id': u'59jlthNnbmim5l9tmNA7se'}
+{'genres': [u'adult standards', u'brill building pop', u'bubblegum pop', u'christmas', u'folk rock', u'mellow gold', u'motown', u'rock-and-roll', u'rockabilly'], 'popularity': 62, 'name': u'The Righteous Brothers', 'id': u'4b0WsB47XCa9F83BmwQ7WX'}
+{'genres': [u'epicore', u'scorecore', u'soundtrack', u'video game music'], 'popularity': 70, 'name': u'Two Steps from Hell', 'id': u'2qvP9yerCZCS0U1gZU8wYp'}
+{'genres': [u'deep chiptune', u'retro electro'], 'popularity': 39, 'name': u'Lueur Verte', 'id': u'236Oy3MFNzz5zbBwowuxlW'}
+{'genres': [u'doom metal', u'metal', u'nwothm', u'retro metal', u'stoner metal', u'stoner rock', u'swedish metal'], 'popularity': 38, 'name': u'Grand Magus', 'id': u'7GTkjp7qsfmx8iJzBUQLmN'}
+{'genres': [u'indie pop', u'indie poptimism', u'indie rockism', u'modern rock', u'pop punk', u'stomp pop'], 'popularity': 60, 'name': u'New Politics', 'id': u'3RbyaF3Pq6iDUKNp04AIcU'}
+{'genres': [u'art pop', u'escape room', u'metropopolis', u'synthpop'], 'popularity': 46, 'name': u'ionnalee', 'id': u'7x3Y6pFeDGLJjv1V5uToHv'}
+{'genres': [u'alternative metal', u'atmospheric post-metal', u'avantgarde metal', u'doom metal', u'drone metal', u'jazz metal', u'mathcore', u'post rock', u'post-doom metal', u'post-metal', u'sludge metal', u'stoner metal'], 'popularity': 45, 'name': u'ISIS', 'id': u'2vsXeWGC8rILp3rpSN2Fyk'}
+{'genres': [u'funk', u'garage rock', u'indie rock', u'modern blues', u'modern rock', u'punk blues'], 'popularity': 57, 'name': u'The Arcs', 'id': u'3mVWMgLc7bcyCBtL2ymZwK'}
+{'genres': [], 'popularity': 59, 'name': u'HAEVN', 'id': u'65Tmt9uAPTYGl1ZhsOeEJ6'}
+{'genres': [u'canadian indie', u'dance-punk', u'indie pop', u'indie rock', u'indietronica', u'modern rock', u'new rave', u'shimmer pop'], 'popularity': 54, 'name': u'Tokyo Police Club', 'id': u'3wyfo3svXNWnszGAEVey11'}
+{'genres': [u'alternative emo', u'chaotic hardcore', u'emo', u'melodic hardcore', u'pop punk', u'post-hardcore', u'screamo'], 'popularity': 50, 'name': u'Touch\xe9 Amor\xe9', 'id': u'16QCJENzcdhwka9bTKYMVB'}
+{'genres': [u'adult standards', u'brill building pop', u'bubblegum pop', u'christmas', u'classic rock', u'folk rock', u'lounge', u'mellow gold', u'merseybeat', u'nashville sound', u'rock-and-roll', u'rockabilly'], 'popularity': 62, 'name': u'The Everly Brothers', 'id': u'4ACplpEqD6JIVgKrafauzs'}
+{'genres': [u'alternative hip hop', u'escape room', u'hip hop', u'indie r&b', u'pop rap', u'rap', u'southern hip hop', u'underground hip hop'], 'popularity': 60, 'name': u'Domo Genesis', 'id': u'6vHBuUxrcpn1do5UaEJ7g6'}
+{'genres': [u'alternative rock', u'blues-rock', u'dance-punk', u'freak folk', u'garage pop', u'garage rock', u'indie garage rock', u'indie rock', u'lo-fi', u'modern rock', u'neo-psychedelic', u'noise pop', u'noise rock', u'nu gaze', u'punk blues'], 'popularity': 52, 'name': u'Black Lips', 'id': u'35C0NSLogAwImm8HAMqEmG'}
+{'genres': [u'folk christmas', u'medieval folk', u'nordic folk'], 'popularity': 59, 'name': u'Wardruna', 'id': u'0NJ6wlOAsAJ1PN4VRdTPKA'}
+{'genres': [u'bossa nova', u'brazilian indie', u'mpb', u'samba'], 'popularity': 58, 'name': u'C\xe9u', 'id': u'2eFVsaX3yHLPeWpiqvmeFn'}
+{'genres': [u'chicago soul', u'classic funk rock', u'deep funk', u'disco', u'funk', u'jazz blues', u'jazz funk', u'memphis soul', u'motown', u'quiet storm', u'soul', u'soul blues', u'soul christmas', u'southern soul'], 'popularity': 57, 'name': u'Isaac Hayes', 'id': u'3IKV7o6WPphDB7cCWXaG3E'}
+{'genres': [u'folk', u'folk christmas', u'folk rock', u'folk-pop', u'mellow gold', u'singer-songwriter', u'traditional folk'], 'popularity': 57, 'name': u'Joan Baez', 'id': u'1EevBGfUh3RSQSGpluxgBm'}
+{'genres': [], 'popularity': 47, 'name': u'Ra Ra Raj', 'id': u'5tSUCupABpVmFu1rMt25Sn'}
+{'genres': [u'alternative rock', u'crossover thrash', u'grunge', u'hardcore punk', u'post-hardcore', u'punk', u'ska punk', u'skate punk'], 'popularity': 54, 'name': u'Black Flag', 'id': u'5Mhs3Eu8lU6sRCtRYsmABV'}
+{'genres': [u'alternative rock', u'chillwave', u'dream pop', u'indie rock', u'lo-fi', u'neo-psychedelic', u'noise pop', u'noise rock', u'nu gaze', u'preverb', u'shoegaze'], 'popularity': 46, 'name': u'Yuck', 'id': u'6l3BRLCpzfC8yxqf9thWAg'}
+{'genres': [u'album rock', u'art rock', u'blues-rock', u'classic rock', u'progressive rock', u'psychedelic rock', u'rock', u'symphonic rock'], 'popularity': 61, 'name': u'David Gilmour', 'id': u'2FcC4sDMXme2ziI7tGKMK8'}
+{'genres': [u'garage rock', u'norwegian rock', u'punk', u'swedish indie rock'], 'popularity': 57, 'name': u'Turbonegro', 'id': u'191rVxQbbZ05wcICUSvLkz'}
+{'genres': [], 'popularity': 46, 'name': u'WILDES', 'id': u'0ypTT9UqAU5sZpPo5JZmjR'}
+{'genres': [u'art pop', u'folk-pop', u'icelandic pop', u'trip hop'], 'popularity': 54, 'name': u'Emil\xedana Torrini', 'id': u'08j69Ndyx1P7RLO3Janb5P'}
+{'genres': [u'disco', u'soft rock', u'soul christmas'], 'popularity': 60, 'name': u'Hot Chocolate', 'id': u'72VzFto8DYvKHocaHYNWSi'}
+{'genres': [u'epicore', u'scorecore', u'soundtrack', u'video game music'], 'popularity': 63, 'name': u'Jeremy Soule', 'id': u'77yY2QmM6bYvjJ3y5L2R0v'}
+{'genres': [u'big beat', u'drum and bass', u'electronic', u'house', u'jump up', u'jungle', u'liquid funk', u'neurofunk', u'uk garage'], 'popularity': 55, 'name': u'High Contrast', 'id': u'0bxHci3JIhhKA53n8rH3tT'}
+{'genres': [], 'popularity': 51, 'name': u'Alexandra Streliski', 'id': u'0HyM2wwUfOsZYD4Dj5IOOZ'}
+{'genres': [u'mpb', u'rock gaucho'], 'popularity': 61, 'name': u'Cazuza', 'id': u'1PwOU6fFbmaGkK3wkbb8fU'}
+{'genres': [u'dance pop', u'k-pop'], 'popularity': 62, 'name': u'MOMOLAND', 'id': u'5RR0MLwcjc87wjSw2JYdwx'}
+{'genres': [u'bachata', u'latin', u'pop', u'tropical'], 'popularity': 84, 'name': u'Romeo Santos', 'id': u'5lwmRuXgjX8xIwlnauTZIP'}
+{'genres': [u'bubble trance', u'eurodance', u'europop', u'german techno', u'happy hardcore', u'hardcore techno', u'hip house'], 'popularity': 48, 'name': u'Dune', 'id': u'4u78tFtzvcrrs8kzkXsW4r'}
+{'genres': [u'deep indie r&b', u'indie psych-rock', u'vapor soul'], 'popularity': 58, 'name': u'slenderbodies', 'id': u'3S4d3YRNGg2OhnNm3QvfhA'}
+{'genres': [u'deep euro house', u'deep house', u'deep tropical house', u'tropical house'], 'popularity': 63, 'name': u'Klangkarussell', 'id': u'041iTeoMIwXMlShuQPIVKo'}
+{'genres': [u'big room', u'edm', u'german techno', u'progressive house', u'progressive trance', u'trance', u'uplifting trance'], 'popularity': 60, 'name': u'Cosmic Gate', 'id': u'6ySxYu68zTsO5ghsThpGtS'}
+{'genres': [u'art pop', u'chamber pop', u'dream pop', u'folk-pop', u'freak folk', u'indie folk', u'indie pop', u'indie rock', u'shimmer pop', u'stomp and holler'], 'popularity': 52, 'name': u'Wye Oak', 'id': u'5SjNVG3L9mgWQPsfp1sFDB'}
+{'genres': [u'anti-folk', u'chamber pop', u'folk-pop', u'indie folk', u'indie pop', u'indie rock', u'la indie', u'lilith', u'lo-fi', u'modern rock', u'pop rock', u'singer-songwriter', u'stomp and holler'], 'popularity': 54, 'name': u'Rilo Kiley', 'id': u'2cevwbv7ISD92VMNLYLHZA'}
+{'genres': [u'chilean rock'], 'popularity': 50, 'name': u'Alex Anwandter', 'id': u'0M8uC0u1YRUGCieOKmQF02'}
+{'genres': [u'blues-rock', u'classic rock', u'folk rock', u'psychedelic rock'], 'popularity': 58, 'name': u'Big Brother & The Holding Company', 'id': u'4J69yWrKwWJgjv3DKTZcGo'}
+{'genres': [u'deep indie r&b', u'deep pop r&b', u'escape room', u'hip hop', u'indie r&b', u'neo soul', u'pop rap', u'r&b', u'rap', u'southern hip hop', u'urban contemporary'], 'popularity': 70, 'name': u'BJ The Chicago Kid', 'id': u'07d5etnpjriczFBB8pxmRe'}
+{'genres': [u'dance pop', u'k-pop'], 'popularity': 67, 'name': u'KARD', 'id': u'2JhAlkmukNvarUpGhTFXUQ'}
+{'genres': [u'dance rock', u'new romantic', u'new wave', u'new wave pop', u'synthpop'], 'popularity': 55, 'name': u'Men Without Hats', 'id': u'34PLzyi7CdXUekiLHYyqXq'}
+{'genres': [u'latin', u'latin hip hop', u'pop', u'reggaeton', u'tropical'], 'popularity': 89, 'name': u'Wisin', 'id': u'3E6xrwgnVfYCrCs0ePERDz'}
+{'genres': [u'atmospheric black metal', u'avantgarde metal', u'blackgaze', u'depressive black metal', u'pagan black metal', u'post-metal', u'voidgaze'], 'popularity': 31, 'name': u'Heretoir', 'id': u'4W1aTc1mS8IudqNaxfGKar'}
+{'genres': [u'french indietronica'], 'popularity': 60, 'name': u'The Blaze', 'id': u'1Dt1UKLtrJIW1xxRBejjos'}
+{'genres': [u'alternative metal', u'groove metal', u'hardcore', u'industrial metal', u'melodic metalcore', u'metalcore', u'nu metal', u'rap metal', u'rap rock'], 'popularity': 59, 'name': u'Hatebreed', 'id': u'17Mb968quDHpjCkIyq30QV'}
+{'genres': [u'dance pop', u'k-hop', u'k-pop', u'korean pop'], 'popularity': 66, 'name': u'G-DRAGON', 'id': u'30b9WulBM8sFuBo17nNq9c'}
+{'genres': [u'german metal', u'hard rock', u'heavy christmas', u'metal', u'neo classical metal', u'power metal', u'progressive metal', u'speed metal', u'symphonic metal'], 'popularity': 56, 'name': u'Avantasia', 'id': u'1Ih0fEQQsy9EeAJbYEeQRa'}
+{'genres': [u'mpb'], 'popularity': 57, 'name': u'Johnny Hooker', 'id': u'7qmf5YAQYjfjBF9C7kkjzs'}
+{'genres': [u'melodic metalcore', u'metalcore', u'screamo'], 'popularity': 64, 'name': u'The Amity Affliction', 'id': u'6kNKUYGn6VNGsRoXmyoDPK'}
+{'genres': [u'gabba', u'hardcore techno'], 'popularity': 59, 'name': u'Angerfist', 'id': u'4sQNUQjOYj9rV2sdfJ8laS'}
+{'genres': [u'acoustic pop', u'chamber pop', u'indie anthem-folk', u'indie folk', u'indiecoustica'], 'popularity': 61, 'name': u'Allman Brown', 'id': u'239Y6QdFqVFfdsw6moqSEN'}
+{'genres': [u'album rock', u'art rock', u'blues-rock', u'classic funk rock', u'classic rock', u'electric blues', u'folk rock', u'hard rock', u'mellow gold', u'progressive rock', u'psychedelic rock', u'rock', u'soft rock', u'southern rock', u'symphonic rock'], 'popularity': 59, 'name': u'Grand Funk Railroad', 'id': u'0qEcf3SFlpRcb3lK3f2GZI'}
+{'genres': [], 'popularity': 63, 'name': u'Karin Borg', 'id': u'0mWi0Jr9Ir8GPGVBpQqI1W'}
+{'genres': [u'deep chiptune', u'future funk', u'retro electro'], 'popularity': 51, 'name': u'Waveshaper', 'id': u'4N55TE3vFODMR4BX5B9fnM'}
+{'genres': [u'canadian pop', u'folk christmas', u'neo mellow', u'pop christmas', u'pop rock'], 'popularity': 64, 'name': u'Daniel Powter', 'id': u'7xTcuBOIAAIGDOSvwYFPzk'}
+{'genres': [u'shiver pop'], 'popularity': 43, 'name': u'Findlay', 'id': u'12XBVoWq6M6etLxxe1TQWn'}
+{'genres': [], 'popularity': 61, 'name': u'Youngr', 'id': u'5TrkbV9x6OdTBlzWPJeBz5'}
+{'genres': [u'art rock', u'blues-rock', u'british blues', u'british invasion', u'bubblegum pop', u'classic rock', u'folk rock', u'merseybeat', u'protopunk', u'psychedelic rock', u'rock-and-roll', u'rockabilly'], 'popularity': 57, 'name': u'The Spencer Davis Group', 'id': u'3i9hP422d2KMjaupTzBNVS'}
+{'genres': [u'preverb'], 'popularity': 54, 'name': u'Lucy Dacus', 'id': u'07D1Bjaof0NFlU32KXiqUP'}
+{'genres': [u'indie poptimism', u'metropopolis'], 'popularity': 67, 'name': u'Ruelle', 'id': u'5tIkXJTex4JY7cv9mmgAZx'}
+{'genres': [u'contemporary country', u'country', u'country christmas', u'country dawn', u'dance pop', u'europop', u'pop christmas', u'pop rock'], 'popularity': 64, 'name': u'LeAnn Rimes', 'id': u'2d3VHzlOEwXvmBdS4pzOPL'}
+{'genres': [u'alternative hip hop', u'east coast hip hop', u'gangster rap', u'hardcore hip hop', u'hip hop', u'pop rap', u'rap', u'southern hip hop'], 'popularity': 64, 'name': u"Ol' Dirty Bastard", 'id': u'50NoVNy9GU1lCrDV8iGpyu'}
+{'genres': [u'deep funk carioca'], 'popularity': 74, 'name': u'MC G15', 'id': u'3Nipsl6GVwwGyeAk0J29C6'}
+{'genres': [u'disney', u'movie tunes', u'singer-songwriter', u'soundtrack'], 'popularity': 64, 'name': u'Randy Newman', 'id': u'3HQyFCFFfJO3KKBlUfZsyW'}
+{'genres': [u'electronic trap', u'vapor soul', u'vapor twitch'], 'popularity': 64, 'name': u'Big Wild', 'id': u'0PxzGnCYBpSuaI49OR94cA'}
+{'genres': [u'deep chiptune', u'scorecore', u'video game music'], 'popularity': 56, 'name': u'Darren Korb', 'id': u'0ZMWrgLff357yxLyEU77a1'}
+{'genres': [u'crunk', u'deep southern trap', u'deep trap', u'dirty south rap', u'gangster rap', u'hip hop', u'pop rap', u'rap', u'southern hip hop', u'trap music'], 'popularity': 63, 'name': u'Slim Thug', 'id': u'0st5vgzw9XkH5ALJiUM1lE'}
+{'genres': [u'alternative metal', u'post-grunge'], 'popularity': 54, 'name': u'Poets of the Fall', 'id': u'1AZ30JnvQU1pbX6sbRE0Yn'}
+{'genres': [], 'popularity': 57, 'name': u'James McAlister', 'id': u'2TvVB6B050Aj5y2Hk4H84z'}
+{'genres': [u'latin alternative', u'mpb', u'rock gaucho', u'samba'], 'popularity': 64, 'name': u'Os Paralamas Do Sucesso', 'id': u'7EM9m7HOXxVgP9oEpDDv70'}
+{'genres': [u'classic rock', u'psychedelic rock'], 'popularity': 50, 'name': u'Jim Morrison', 'id': u'1QB4oo4JbSRdxNyidIuD0W'}
+{'genres': [u'abstract', u'acid house', u'ambient', u'bass music', u'drill and bass', u'electronic', u'glitch', u'intelligent dance music', u'microhouse', u'minimal techno', u'ninja', u'trip hop', u'wonky'], 'popularity': 46, 'name': u'Plaid', 'id': u'5akVqMzdZOdbMYbE4vNZWD'}
+{'genres': [u'art pop', u'chillwave', u'indie r&b', u'indietronica', u'metropopolis', u'shimmer pop', u'synthpop'], 'popularity': 57, 'name': u'POLI\xc7A', 'id': u'34vLhockmYhf3LgznwyNaQ'}
+{'genres': [u'bebop', u'cool jazz', u'gypsy jazz', u'jazz', u'jazz blues', u'jazz christmas', u'swing'], 'popularity': 59, 'name': u'Django Reinhardt', 'id': u'5Z1XZyEFY0dewG8faEIiEx'}
+{'genres': [u'chillhop', u'future funk'], 'popularity': 59, 'name': u'[bsd.u]', 'id': u'3m1IaEwT7D9hFKOfpz5VHk'}
+{'genres': [u'big room', u'deep big room', u'dutch house', u'edm', u'electro house', u'house', u'pop', u'progressive electro house', u'progressive house', u'tropical house'], 'popularity': 69, 'name': u'Nicky Romero', 'id': u'5ChF3i92IPZHduM7jN3dpg'}
+{'genres': [u'art pop', u'art rock', u'british folk', u'chamber pop', u'experimental', u'experimental rock', u'fourth world', u'freak folk', u'melancholia', u'no wave', u'post-punk', u'psychedelic rock', u'singer-songwriter', u'slow core', u'uk post-punk'], 'popularity': 48, 'name': u'Scott Walker', 'id': u'04tBaW21jyUfeP5iqiKBVq'}
+{'genres': [u'djent', u'jazz metal', u'progressive metal'], 'popularity': 54, 'name': u'TesseracT', 'id': u'23ytwhG1pzX6DIVWRWvW1r'}
+{'genres': [u'alternative metal', u'post-grunge', u'rap metal', u'rap rock'], 'popularity': 56, 'name': u'Prophets Of Rage', 'id': u'1fSzW5cXBmquli5laFnoGY'}
+{'genres': [u'alternative pop', u'alternative rock', u'britpop', u'dream pop', u'indie rock', u'jangle pop', u'lo-fi', u'madchester', u'neo-psychedelic', u'noise pop', u'power pop', u'scottish rock', u'shoegaze', u'singer-songwriter', u'slow core', u'twee pop'], 'popularity': 48, 'name': u'Teenage Fanclub', 'id': u'2Sp19cOHSqAUlE64hekARW'}
+{'genres': [u'alternative rock', u'dream pop', u'freak folk', u'indie folk', u'indie pop', u'indie rock', u'lo-fi', u'melancholia', u'neo-psychedelic', u'noise pop', u'rva indie', u'singer-songwriter', u'slow core'], 'popularity': 50, 'name': u'Sparklehorse', 'id': u'64tVHZVSAZhDEiOJxnb6hE'}
+{'genres': [u'anime', u'j-rock', u'otacore'], 'popularity': 67, 'name': u'RADWIMPS', 'id': u'1EowJ1WwkMzkCkRomFhui7'}
+{'genres': [u'compositional ambient', u'focus'], 'popularity': 62, 'name': u'Lo Mimieux', 'id': u'0M2jyp8P5yTxQcdPyCdDkM'}
+{'genres': [u'channel pop', u'viral pop'], 'popularity': 63, 'name': u'Joseph Vincent', 'id': u'40JlNF1w2OiSOyj1nC4y0I'}
+{'genres': [u'acid house', u'bass music', u'electronic', u'intelligent dance music', u'microhouse', u'minimal techno', u'tech house'], 'popularity': 45, 'name': u'Nathan Fake', 'id': u'5rZVjGkZZI4TnpMHQwrxfG'}
+{'genres': [u'chillwave', u'gauze pop', u'indie dream pop', u'indietronica', u'vapor soul', u'vapor twitch'], 'popularity': 53, 'name': u'Slow Magic', 'id': u'3htNAy3vYWWYV8RZFeyRMT'}
+{'genres': [], 'popularity': 61, 'name': u'J\xf3zef Gatysik', 'id': u'4k0n9qZSgE1HVExw9b2T9j'}
+{'genres': [u'melancholia', u'stomp and holler'], 'popularity': 37, 'name': u'Haley Bonar', 'id': u'2BjFgj9Vg3IVRSG8ETwp9Q'}
+{'genres': [u'ccm', u'christian alternative rock', u'christian christmas', u'christian music', u'christian rock', u'neo mellow', u'pop rock', u'post-grunge', u'worship'], 'popularity': 65, 'name': u'Switchfoot', 'id': u'6S58b0fr8TkWrEHOH4tRVu'}
+{'genres': [u'alternative dance', u'athens indie', u'chillwave', u'indie emo', u'indietronica', u'nu disco', u'shiver pop', u'vapor soul'], 'popularity': 57, 'name': u'Roosevelt', 'id': u'4AQrqVz6BYwy29iMxcGtx7'}
+{'genres': [u'deep indie r&b', u'indie poptimism', u'indie psych-rock', u'indie r&b', u'vapor soul'], 'popularity': 60, 'name': u'TENDER', 'id': u'1I9HNoVK6kOQGVZfulXVnm'}
+{'genres': [u'future funk', u'vaporwave'], 'popularity': 51, 'name': u'Blank Banshee', 'id': u'1oR9pQhucVTJyi5lH2Y2iT'}
+{'genres': [u'dance rock', u'new romantic', u'new wave', u'new wave pop', u'uk post-punk'], 'popularity': 40, 'name': u'Wall Of Voodoo', 'id': u'6zPcUezmkw9aGjoRlBxYxw'}
+{'genres': [u'post rock'], 'popularity': 52, 'name': u'toe', 'id': u'0rpKM0MniNkXM1SLSglYUZ'}
+{'genres': [u'black metal', u'death metal', u'melodic death metal', u'metal', u'norwegian metal', u'pagan black metal', u'symphonic black metal', u'viking metal'], 'popularity': 50, 'name': u'Satyricon', 'id': u'221Rd0FvVxMx7eCbWqjiKd'}
+{'genres': [u'dance pop', u'eurodance', u'europop', u'hands up', u'italo dance'], 'popularity': 70, 'name': u'ItaloBrothers', 'id': u'5nkYRuiIHg2xXHFC8bfosJ'}
+{'genres': [u'freak folk', u'garage psych', u'preverb'], 'popularity': 37, 'name': u'A. Savage', 'id': u'1MK90Dn9tMbk16g2Vb2NQp'}
+{'genres': [], 'popularity': 73, 'name': u'Ramz', 'id': u'6ywXRaHY7m2DJ0dd7CsLAB'}
+{'genres': [u'detroit hip hop', u'dirty south rap', u'gangster rap', u'hip hop', u'pop rap', u'rap', u'southern hip hop'], 'popularity': 67, 'name': u'D12', 'id': u'5Qi4Bb7a8C0a00NZcA77L0'}
+{'genres': [u'art pop', u'bay area indie', u'chillwave', u'freak folk', u'indie pop', u'indie rock', u'indietronica', u'lo-fi', u'modern rock', u'neo-psychedelic', u'noise pop', u'nu gaze'], 'popularity': 47, 'name': u'Girls', 'id': u'6eO95BjZhrWHREMfwC4vVN'}
+{'genres': [], 'popularity': 0, 'name': u"Steve Rhyner feat. Fool's Garden", 'id': u'7imnDpiBuM2PdrLCRsOzXZ'}
+{'genres': [u'industrial metal'], 'popularity': 55, 'name': u'Blue Stahli', 'id': u'4DWnSG0RYPAds8EIKY26q3'}
+{'genres': [u'acoustic pop', u'neo mellow', u'pop rock'], 'popularity': 53, 'name': u'SafetySuit', 'id': u'3V8Gdws52TzoL8WLZHvpzc'}
+{'genres': [u'alternative metal', u'doom metal', u'funk rock', u'garage rock', u'grunge', u'psychedelic doom', u'retro metal', u'sludge metal', u'space rock', u'stoner metal', u'stoner rock'], 'popularity': 52, 'name': u'Fu Manchu', 'id': u'1TKaUU8ooBgSW9TlyKsw6k'}
+{'genres': [u'korean pop'], 'popularity': 68, 'name': u'DEAN', 'id': u'3eCd0TZrBPm2n9cDG6yWfF'}
+{'genres': [u'disco house', u'edm', u'filter house', u'vocal house'], 'popularity': 64, 'name': u'Bob Sinclar', 'id': u'5YFS41yoX0YuFY39fq21oN'}
+{'genres': [u'french indietronica', u'tropical house'], 'popularity': 62, 'name': u'Fakear', 'id': u'4eFImh8D3F15dtZk0JQlpT'}
+{'genres': [u'deep indie r&b', u'nu disco'], 'popularity': 58, 'name': u'Darius', 'id': u'5vfEaoOBcK0Lzr07WN8KaK'}
+{'genres': [u'emo', u'emo punk', u'pop punk'], 'popularity': 41, 'name': u'Reggie And The Full Effect', 'id': u'5XURjhDMRoF4vrSAJj8vIN'}
+{'genres': [u'indie garage rock', u'indie punk', u'la indie', u'noise pop', u'preverb'], 'popularity': 52, 'name': u'Cherry Glazerr', 'id': u'3pIGm1omCcHIb1juBNHspg'}
+{'genres': [u'dance pop', u'k-pop'], 'popularity': 70, 'name': u'iKON', 'id': u'5qRSs6mvI17zrkJpOHkCoM'}
+{'genres': [u'adult standards', u'cabaret', u'christmas', u'jazz blues', u'lounge', u'singer-songwriter', u'soul', u'vocal jazz'], 'popularity': 65, 'name': u'Madeleine Peyroux', 'id': u'7nXyULtoL8k7wP9l6kg8Ef'}
+{'genres': [u'alternative country', u'anti-folk', u'chamber pop', u'folk', u'folk-pop', u'indie folk', u'new americana', u'stomp and holler', u'traditional folk'], 'popularity': 52, 'name': u'Hurray For The Riff Raff', 'id': u'2xLEV2jDreAOcpJXFNoXyt'}
+{'genres': [u'swedish alternative rock', u'swedish indie pop', u'swedish indie rock'], 'popularity': 56, 'name': u'Caesars', 'id': u'4rGrN4XDYhP6dUAZMvcuHr'}
+{'genres': [u'deep indie r&b', u'indie r&b'], 'popularity': 66, 'name': u'Jacob Banks', 'id': u'0AepkoQhYvkjEzzwIcGxdV'}
+{'genres': [u'bubblegum dance', u'dance pop', u'eurodance', u'europop', u'hip house'], 'popularity': 65, 'name': u'Vengaboys', 'id': u'0cwmNvclzPd8mQnoHuIksj'}
+{'genres': [u'album rock', u'art rock', u'blues-rock', u'british blues', u'bubblegum pop', u'classic funk rock', u'classic rock', u'country rock', u'folk rock', u'hard rock', u'mellow gold', u'psychedelic rock', u'rock', u'roots rock', u'singer-songwriter', u'soft rock', u'southern rock'], 'popularity': 59, 'name': u'The Guess Who', 'id': u'0cQuYRSzlItquYxsQKDvVc'}
+{'genres': [u'dance pop', u'piano rock', u'pop'], 'popularity': 79, 'name': u'Skylar Grey', 'id': u'4utLUGcTvOJFr6aqIJtYWV'}
+{'genres': [u'bossa nova', u'brazilian indie', u'forro', u'mpb', u'rock gaucho', u'samba'], 'popularity': 59, 'name': u'Novos Baianos', 'id': u'2ohBjgFT9V0LRDWO2wF9DJ'}
+{'genres': [u'alt-indie rock', u'indie anthem-folk'], 'popularity': 66, 'name': u'The Hunna', 'id': u'7jZycSvTyx0W9poD4PjEIG'}
+{'genres': [], 'popularity': 70, 'name': u'Nico Santos', 'id': u'3A9B6c1CrSPauiOblw7pWz'}
+{'genres': [u'deep indie r&b', u'indie r&b'], 'popularity': 55, 'name': u'Jamie Woon', 'id': u'1fUMEn4Yk7ZUloozE0fRLL'}
+{'genres': [u'dance pop', u'pop', u'pop rap', u'post-teen pop', u'r&b', u'teen pop', u'urban contemporary'], 'popularity': 72, 'name': u'Pia Mia', 'id': u'1BhWF9W2PngtPSyobKg0rP'}
+{'genres': [u'album rock', u'art rock', u'blues-rock', u'british blues', u'british invasion', u'classic rock', u'folk rock', u'progressive rock', u'psychedelic rock', u'symphonic rock'], 'popularity': 55, 'name': u'Procol Harum', 'id': u'0GbqW5TJr7n4is453VOY4C'}
+{'genres': [u'post-screamo', u'progressive post-hardcore', u'screamo'], 'popularity': 55, 'name': u'Slaves', 'id': u'4rMxZovfLSDjEL9eI2pKo7'}
+{'genres': [u'chillhop', u'future funk', u'vaporwave'], 'popularity': 56, 'name': u'Flamingosis', 'id': u'75cW8FFekyCjj0mfZM1Gfb'}
+{'genres': [u'big room', u'deep big room', u'edm', u'electro house', u'progressive electro house', u'progressive house', u'tropical house'], 'popularity': 75, 'name': u'KSHMR', 'id': u'2wX6xSig4Rig5kZU6ePlWe'}
+{'genres': [u'chamber pop', u'folk-pop', u'indie anthem-folk', u'indie folk', u'new americana', u'stomp and holler'], 'popularity': 58, 'name': u'Matthew And The Atlas', 'id': u'0lSENl3bteP8p2NbiSP7RM'}
+{'genres': [u'chillwave', u'dance-punk', u'grave wave', u'indietronica', u'metropopolis', u'new rave', u'noise pop', u'noise rock', u'nu gaze', u'synthpop'], 'popularity': 51, 'name': u'HEALTH', 'id': u'6FfjnGXMhxSsJTuGLWBDth'}
+{'genres': [u'alternative country', u'chamber pop', u'deep new americana', u'folk christmas', u'folk-pop', u'freak folk', u'funk', u'indie christmas', u'indie folk', u'indie pop', u'indie rock', u'lo-fi', u'modern blues', u'modern rock', u'neo-psychedelic', u'new americana', u'roots rock', u'shimmer pop', u'singer-songwriter', u'stomp and holler'], 'popularity': 57, 'name': u'Fruit Bats', 'id': u'6Qm9stX6XO1a4c7BXQDDgc'}
+{'genres': [u'a cappella'], 'popularity': 60, 'name': u'Bobby McFerrin', 'id': u'2FjkZT851ez950cyPjeYid'}
+{'genres': [], 'popularity': 74, 'name': u'Anavit\xf3ria', 'id': u'1sPg5EHuQXTMElpZ4iUgXe'}
+{'genres': [], 'popularity': 49, 'name': u'Musical Youth', 'id': u'2CuzDPkRD6BJBvdWqCrt2I'}
+{'genres': [u'underground hip hop'], 'popularity': 68, 'name': u'Night Lovell', 'id': u'2y246nnP9pQT0E6v3ZMMOO'}
+{'genres': [u'brill building pop', u'chicago soul', u'memphis soul', u'motown', u'northern soul'], 'popularity': 48, 'name': u'The Velvelettes', 'id': u'72Q7helEnjOptf8FAoZQTi'}
+{'genres': [u'album rock', u'art rock', u'blues-rock', u'british blues', u'classic funk rock', u'classic rock', u'country rock', u'folk rock', u'hard rock', u'mellow gold', u'rock', u'roots rock', u'soft rock', u'southern rock'], 'popularity': 59, 'name': u'Bachman-Turner Overdrive', 'id': u'5q4AzEtCoYJyXjMMoEkSU5'}
+{'genres': [u'chamber pop', u'indie anthem-folk', u'indie folk'], 'popularity': 62, 'name': u'Billie Marten', 'id': u'02YLJJnWC7YQVixkjEBRn7'}
+{'genres': [], 'popularity': 51, 'name': u'St\xe9Louse', 'id': u'6kyUfziWP8ydAsKzyXsC83'}
+{'genres': [u'alternative metal', u'crossover thrash', u'funk metal', u'funk rock', u'groove metal', u'hard rock', u'hardcore punk', u'metal', u'nu metal', u'punk', u'rap metal', u'rap rock', u'skate punk', u'speed metal', u'thrash metal'], 'popularity': 56, 'name': u'Suicidal Tendencies', 'id': u'3WPKDlucMsXH6FC1XaclZC'}
+{'genres': [u'adult standards', u'cabaret', u'christmas', u'lounge', u'mellow gold', u'operatic pop', u'soft rock'], 'popularity': 67, 'name': u'Barbra Streisand', 'id': u'7jmTilWYlKOuavFfmQAcu6'}
+{'genres': [u'deep indie r&b', u'indie r&b'], 'popularity': 64, 'name': u'Gallant', 'id': u'7wFDo161xYdeaiLz3KIHoM'}
+{'genres': [u'art pop', u'art rock', u'dance rock', u'glam rock', u'new romantic', u'new wave', u'new wave pop', u'post-punk', u'pub rock', u'synthpop', u'uk post-punk', u'zolo'], 'popularity': 50, 'name': u'Sparks', 'id': u'7pwjGKaqnfkvS7eQbHaqyH'}
+{'genres': [u'dance pop', u'deep indie r&b', u'deep pop r&b', u'hip pop', u'indie r&b', u'neo soul', u'pop', u'quiet storm', u'r&b', u'urban contemporary'], 'popularity': 68, 'name': u'Jazmine Sullivan', 'id': u'7gSjFKpVmDgC2MMsnN8CYq'}
+{'genres': [u'channel pop', u'neo mellow', u'pop', u'post-teen pop', u'teen pop', u'viral pop'], 'popularity': 73, 'name': u'Alex & Sierra', 'id': u'58MLl9nC29IXbE4nEtuoP2'}
+{'genres': [u'dance pop', u'dance rock', u'disco', u'europop', u'new romantic', u'new wave', u'new wave pop', u'pop christmas', u'soft rock', u'soul christmas', u'synthpop'], 'popularity': 61, 'name': u'Bananarama', 'id': u'3sc7iUG1Wwpwx7bHeZolgx'}
+{'genres': [u'french pop'], 'popularity': 63, 'name': u'C\u0153ur De Pirate', 'id': u'2eRNMtoi82UZUuaL6naDjA'}
+{'genres': [u'death core', u'djent', u'jazz metal', u'mathcore', u'melodic metalcore', u'metalcore', u'progressive metal'], 'popularity': 53, 'name': u'Between The Buried And Me', 'id': u'2JC4hZm1egeJDEolLsMwZ9'}
+{'genres': [], 'popularity': 32, 'name': u'Seb', 'id': u'3OvA7MwIYYJowt8HmMSx0e'}
+{'genres': [u'bossa nova', u'mpb', u'samba'], 'popularity': 65, 'name': u'Vanessa Da Mata', 'id': u'57pVvBwa3ZCR9LsVlkLXj7'}
+{'genres': [u'alternative metal', u'nu metal', u'post-grunge', u'rap metal', u'rap rock'], 'popularity': 63, 'name': u'Pop Evil', 'id': u'1pRaG81GsVtaTBuVSpldt2'}
+{'genres': [u'boy band', u'danish pop', u'soft rock'], 'popularity': 62, 'name': u'Michael Learns To Rock', 'id': u'7zMVPOJPs5jgU8NorRxqJe'}
+{'genres': [u'alternative rock', u'dance rock', u'garage rock', u'new wave', u'post-punk', u'psychobilly', u'punk', u'punk blues', u'rockabilly', u'uk post-punk'], 'popularity': 55, 'name': u'The Cramps', 'id': u'4lYtGx5NZQJHsMyhHc5iz3'}
+{'genres': [], 'popularity': 64, 'name': u'Gloria Groove', 'id': u'7rXMvXRnWHaSwnVvPeUUfw'}
+{'genres': [u'compositional ambient', u'focus'], 'popularity': 63, 'name': u'Dmitry Evgrafov', 'id': u'5gO6Qun6lW2PILwqcvEug8'}
+{'genres': [u'drum and bass', u'jump up', u'liquid funk', u'neurofunk'], 'popularity': 56, 'name': u'Camo & Krooked', 'id': u'2N8IPNZTiNo3nj4mreOlHU'}
+{'genres': [], 'popularity': 68, 'name': u'Loud Luxury', 'id': u'6t1gpxYbY8OlLA7D2RiikQ'}
+{'genres': [u'deep indie r&b', u'indie r&b'], 'popularity': 60, 'name': u'Charlotte Day Wilson', 'id': u'3GQboECxDT1xqPPWC30p7v'}
+{'genres': [u'tracestep'], 'popularity': 67, 'name': u'TheFatRat', 'id': u'3OKg7YbOIatODzkRIbLJR4'}
+{'genres': [u'christian metal', u'emo', u'melodic metalcore', u'metalcore', u'pop punk', u'post-hardcore', u'progressive post-hardcore', u'screamo'], 'popularity': 58, 'name': u'Underoath', 'id': u'3GzWhE2xadJiW8MqRKIVSK'}
+{'genres': [u'alternative dance', u'dance-punk', u'dark wave', u'new rave', u'synthpop'], 'popularity': 53, 'name': u'She Wants Revenge', 'id': u'2zRt0sfxNnqI8gLR7d8gWt'}
+{'genres': [u'alternative hip hop', u'escape room', u'underground hip hop'], 'popularity': 55, 'name': u'Jpegmafia', 'id': u'6yJ6QQ3Y5l0s0tn7b0arrO'}
+{'genres': [u'classify', u'compositional ambient', u'focus'], 'popularity': 64, 'name': u'Alexis Ffrench', 'id': u'58R31AvN8JMHM7xkNpVLjX'}
+{'genres': [u'album rock', u'art rock', u'classic rock', u'progressive rock', u'rock', u'symphonic rock'], 'popularity': 60, 'name': u'Roger Waters', 'id': u'40DqL6Tv84cKT2pH2NMs9r'}
+{'genres': [u'bebop', u'big band', u'contemporary post-bop', u'cool jazz', u'hard bop', u'jazz', u'jazz blues', u'jazz christmas', u'jazz fusion', u'soul jazz', u'stride', u'swing', u'vocal jazz'], 'popularity': 57, 'name': u'Sonny Rollins', 'id': u'1VEzN9lxvG6KPR3QQGsebR'}
+{'genres': [u'alternative dance', u'balearic', u'chamber psych', u'dance-punk', u'electronic', u'microhouse', u'new rave', u'nu disco', u'synthpop'], 'popularity': 50, 'name': u'Lindstr\xf8m', 'id': u'2vTtjIqZ7hW0W15t1ApKTB'}
+{'genres': [u'crunk', u'dirty south rap', u'gangster rap', u'hardcore hip hop', u'hip hop', u'pop rap', u'rap', u'southern hip hop', u'trap music'], 'popularity': 65, 'name': u'Young Buck', 'id': u'4pr7J7wzgObkE3DD3Izi7q'}
+{'genres': [u'ambient', u'art pop', u'bass music', u'chamber psych', u'dub techno', u'electronic', u'float house', u'fluxwork', u'glitch', u'hauntology', u'intelligent dance music', u'mandible', u'microhouse', u'minimal techno', u'outsider house', u'vaporwave', u'warm drone'], 'popularity': 50, 'name': u'Pye Corner Audio', 'id': u'3ib3ECT421EXd8CNLfNqAL'}
+{'genres': [u'black metal', u'death metal', u'melodic death metal', u'norwegian metal', u'pagan black metal', u'symphonic black metal', u'viking metal'], 'popularity': 36, 'name': u"Old Man's Child", 'id': u'4LT73i2bqTazQQkmODMaYf'}
+{'genres': [u'bossa nova', u'mpb', u'samba'], 'popularity': 67, 'name': u'Djavan', 'id': u'5rrmaoBXZ7Jcs4Qb77j0YA'}
+{'genres': [u'deep melodic metalcore', u'djent', u'melodic metalcore', u'metalcore', u'rap metal', u'screamo'], 'popularity': 57, 'name': u'Northlane', 'id': u'3qyg72RGnGdF521zMU02u9'}
+{'genres': [u'bass trap', u'big room', u'brostep', u'edm', u'electro house', u'electronic trap', u'progressive electro house'], 'popularity': 70, 'name': u'Slushii', 'id': u'41rVuRHYAiH7ltBTHVR9We'}
+{'genres': [u'post rock', u'post-doom metal', u'post-metal', u'sludge metal'], 'popularity': 49, 'name': u'Russian Circles', 'id': u'0AZ3VR0YbFcS0Kgei7L2QF'}
+{'genres': [u'alternative metal', u'alternative rock', u'funk metal', u'funk rock', u'garage rock', u'groove metal', u'hard rock', u'rock', u'sludge metal', u'stoner metal', u'stoner rock'], 'popularity': 59, 'name': u'Clutch', 'id': u'161AC1AVRkIGIMxyj5djFQ'}
+{'genres': [u'art rock', u'blues-rock', u'british blues', u'power pop', u'pub rock', u'rock-and-roll', u'rockabilly', u'roots rock'], 'popularity': 48, 'name': u'Dave Edmunds', 'id': u'65Gh3BfK84aTIugiRCgLBA'}
+{'genres': [u'alternative emo', u'anthem emo', u'emo', u'melodic hardcore', u'pop punk', u'screamo'], 'popularity': 64, 'name': u'The Story So Far', 'id': u'6meTcQ79DrfkIuSLPZkpBg'}
+{'genres': [u'big room', u'deep tropical house', u'edm', u'electro house', u'progressive electro house', u'tropical house'], 'popularity': 67, 'name': u'Mako', 'id': u'0Ye4nfYAA91T1X56gnlXAA'}
+{'genres': [u'album rock', u'art rock', u'classic rock', u'folk rock', u'mellow gold', u'power pop', u'roots rock', u'singer-songwriter', u'soft rock', u'symphonic rock', u'zolo'], 'popularity': 55, 'name': u'Todd Rundgren', 'id': u'0Lpr5wXzWLtDWm1SjNbpPb'}
+{'genres': [u'anime', u'anime score', u'scorecore', u'soundtrack', u'video game music'], 'popularity': 59, 'name': u'Joe Hisaishi', 'id': u'7nzSoJISlVJsn7O0yTeMOB'}
+{'genres': [u'album rock', u'blues-rock', u'classic rock', u'glam rock', u'hard rock', u'heavy christmas', u'rock'], 'popularity': 61, 'name': u'Status Quo', 'id': u'4gIdjgLlvgEOz7MexDZzpM'}
+{'genres': [u'chillwave', u'indie garage rock', u'indie pop', u'indie psych-rock', u'indietronica', u'neo-psychedelic', u'preverb', u'shimmer pop', u'shimmer psych'], 'popularity': 57, 'name': u'TV Girl', 'id': u'0Y6dVaC9DZtPNH4591M42W'}
+{'genres': [u'chamber pop', u'folk christmas', u'folk-pop', u'indie christmas', u'indie folk', u'indie pop', u'indie rock', u'modern rock', u'scottish rock', u'stomp and holler'], 'popularity': 55, 'name': u'Frightened Rabbit', 'id': u'6fVcDUckTwxqg56qNsEvUr'}
+{'genres': [], 'popularity': 75, 'name': u'Bruno Martini', 'id': u'5veVxxPm1vzgi6pO2iVA8L'}
+{'genres': [u'emo', u'metalcore', u'pop punk', u'rap metal', u'screamo'], 'popularity': 69, 'name': u'Falling In Reverse', 'id': u'2CmaKO2zEGJ1NWpS1yfVGz'}
+{'genres': [u'brill building pop', u'chicago soul', u'classic funk rock', u'disco', u'funk', u'jazz blues', u'memphis soul', u'motown', u'northern soul', u'quiet storm', u'rock-and-roll', u'soul', u'soul blues', u'soul christmas', u'southern soul'], 'popularity': 60, 'name': u'Martha Reeves & The Vandellas', 'id': u'1Pe5hlKMCTULjosqZ6KanP'}
+{'genres': [u'acoustic blues', u'blues', u'blues-rock', u'boogie-woogie', u'british blues', u'chicago blues', u'christmas', u'classic funk rock', u'classic rock', u'country blues', u'deep funk', u'delta blues', u'electric blues', u'folk', u'folk rock', u'funk', u'jazz blues', u'louisiana blues', u'mellow gold', u'memphis blues', u'memphis soul', u'modern blues', u'new orleans blues', u'piano blues', u'piedmont blues', u'psychedelic rock', u'rock', u'rock-and-roll', u'roots rock', u'singer-songwriter', u'soul', u'soul blues', u'southern soul', u'texas blues', u'traditional blues', u'traditional folk'], 'popularity': 59, 'name': u'Dr. John', 'id': u'320TrJub4arztwXRm7kqVO'}
+{'genres': [u'deep groove house', u'disco house', u'house', u'tropical house', u'uk garage'], 'popularity': 58, 'name': u'Tough Love', 'id': u'16KSSLMXOdKQ2MHt9bOHTG'}
+{'genres': [u'downtempo'], 'popularity': 52, 'name': u'Darkside', 'id': u'2933wDUojoQmvqSdTAE5NB'}
+{'genres': [u'chamber pop', u'indie anthem-folk', u'indie folk'], 'popularity': 63, 'name': u'Hollow Coves', 'id': u'7IAFAOtc9kTYNTizhLSWM6'}
+{'genres': [u'chamber pop', u'folk-pop', u'indie anthem-folk', u'indie folk', u'new americana', u'stomp and holler'], 'popularity': 63, 'name': u'Henry Jamison', 'id': u'2XdtmipGVPmA62ptDgX8QC'}
+{'genres': [u'cumbia', u'latin', u'latin pop', u'pop', u'rock en espanol', u'tropical'], 'popularity': 80, 'name': u'Juanes', 'id': u'0UWZUmn7sybxMCqrw9tGa7'}
+{'genres': [u'escape room', u'indie poptimism', u'pop', u'strut'], 'popularity': 58, 'name': u'Poppy', 'id': u'5mlbvTfWUOfDrUIK6dkNzv'}
+{'genres': [u'metal', u'neo classical metal', u'power metal', u'progressive metal', u'progressive rock', u'symphonic metal', u'symphonic rock'], 'popularity': 53, 'name': u'Ayreon', 'id': u'2RSApl0SXcVT8Yiy4UaPSt'}
+{'genres': [u'bass music', u'chillwave', u'electronic', u'future garage', u'glitch', u'indie jazz', u'indietronica', u'intelligent dance music', u'microhouse', u'ninja', u'wonky'], 'popularity': 50, 'name': u'Shigeto', 'id': u'48C2RLG6w7o4jAJjCJKZM8'}
+{'genres': [u'chicago soul', u'funk', u'jazz blues', u'jazz christmas', u'memphis blues', u'memphis soul', u'new orleans blues', u'soul', u'soul blues', u'soul christmas', u'southern soul'], 'popularity': 57, 'name': u'Irma Thomas', 'id': u'01Z8Z9K54zewyP04ZfGLSv'}
+{'genres': [u'mashup'], 'popularity': 52, 'name': u'Danger Mouse', 'id': u'2dBj3prW7gP9bCCOIQeDUf'}
+{'genres': [u'acid house', u'big beat', u'britpop', u'dance rock', u'electronic', u'madchester', u'new wave', u'uk post-punk'], 'popularity': 53, 'name': u'Happy Mondays', 'id': u'339DNkQkuhHKEcHw6oK8f0'}
+{'genres': [u'acid jazz', u'downtempo', u'electronic', u'intelligent dance music', u'ninja', u'nu jazz', u'trip hop', u'turntablism'], 'popularity': 54, 'name': u'Lemon Jelly', 'id': u'5uh8Bhewltd8j0TLZjNImc'}
+{'genres': [u'brazilian punk'], 'popularity': 65, 'name': u'Raimundos', 'id': u'3CfJckVRuukdJSvK3r89yJ'}
+{'genres': [u'disco'], 'popularity': 61, 'name': u'Village People', 'id': u'0dCKce6tJJdHvlWnDMwzPW'}
+{'genres': [u'protopunk'], 'popularity': 55, 'name': u'The Runaways', 'id': u'5eTq3PxbOh5vgeRXKNqPyV'}
+{'genres': [], 'popularity': 66, 'name': u'Kiesza', 'id': u'4zxvC7CRGvggq9EWXOpwAo'}
+{'genres': [u'album rock', u'art rock', u'blues', u'blues-rock', u'british blues', u'classic funk rock', u'classic rock', u'electric blues', u'hard rock', u'heavy christmas', u'jazz christmas', u'jazz fusion', u'mellow gold', u'modern blues', u'progressive rock', u'psychedelic rock', u'rock', u'roots rock', u'southern rock', u'symphonic rock', u'texas blues', u'traditional blues'], 'popularity': 57, 'name': u'Jeff Beck', 'id': u'0AD4odMWVQ2wUSlgxOB5Rl'}
+{'genres': [u'belgian rock', u'chamber pop'], 'popularity': 54, 'name': u'Balthazar', 'id': u'4oMBP1OWXtmxyDhAj2aRyQ'}
+{'genres': [u'latin', u'latin hip hop', u'reggaeton', u'trap latino', u'tropical'], 'popularity': 88, 'name': u'Farruko', 'id': u'329e4yvIujISKGKz1BZZbO'}
+{'genres': [u'britpop', u'dance-punk', u'garage rock', u'indie rock', u'madchester', u'modern rock', u'new rave'], 'popularity': 57, 'name': u'Hard-FI', 'id': u'14Gi3Uph96lpNB3utkoVAD'}
+{'genres': [u'alternative metal', u'nu metal', u'pop rock', u'post-grunge', u'rap metal'], 'popularity': 65, 'name': u'Hinder', 'id': u'6BMhCQJYHxxKAeqYS1p5rY'}
+{'genres': [u'bow pop', u'ethereal wave', u'neoclassical'], 'popularity': 67, 'name': u'Lisa Gerrard', 'id': u'3C4MmUJYQN9svNdedAR2BK'}
+{'genres': [], 'popularity': 65, 'name': u'Grace', 'id': u'6y5amJcTjeDgLXIjtQLMst'}
+{'genres': [u'chamber pop', u'indie folk'], 'popularity': 46, 'name': u'Tiny Ruins', 'id': u'4G4W57CTe85hPEGZ6hJ0Du'}
+{'genres': [u'album rock', u'art rock', u'british blues', u'bubblegum pop', u'classic rock', u'folk rock', u'jangle pop', u'mellow gold', u'power pop', u'rock', u'singer-songwriter', u'soft rock'], 'popularity': 56, 'name': u'Badfinger', 'id': u'4pJCawaKSZ40EnxN0YEYw3'}
+{'genres': [u'deep groove house', u'deep house', u'disco house', u'house', u'tropical house'], 'popularity': 71, 'name': u'Disciples', 'id': u'5EehXjjMktLuJmbRsM7YfB'}
+{'genres': [u'focus'], 'popularity': 63, 'name': u'Martin Gauffin', 'id': u'5dDn2NkprqEkypmRzyAtPt'}
+{'genres': [u'deep funk carioca'], 'popularity': 67, 'name': u'MC Gustta', 'id': u'1Rpp9XZ2UUDmW81JvQP1at'}
+{'genres': [], 'popularity': 63, 'name': u'Jain', 'id': u'2HHmvvSQ44ePDH7IKVzgK0'}
+{'genres': [u'disney'], 'popularity': 71, 'name': u"Auli'i Cravalho", 'id': u'5mnS9jJdKQQcRSqFu5YPVe'}
+{'genres': [u'indie pop', u'indie poptimism', u'modern rock', u'neo mellow', u'piano rock', u'pop rock'], 'popularity': 61, 'name': u'Andrew McMahon in the Wilderness', 'id': u'716ZwtZBmwROBXcFmCzfdM'}
+{'genres': [u'catstep', u'edm', u'electronic trap', u'vapor soul', u'vapor twitch'], 'popularity': 63, 'name': u'Kasbo', 'id': u'1ikID9RZZMvkuBGDWrqajq'}
+{'genres': [u'gothic metal', u'gothic symphonic metal', u'power metal', u'progressive metal', u'symphonic metal'], 'popularity': 54, 'name': u'Delain', 'id': u'6pIRdCtSE5hLFfIfcTAicI'}
+{'genres': [u'dance-punk', u'hardcore punk', u'post-hardcore'], 'popularity': 51, 'name': u'Refused', 'id': u'5sdxGvwxI1TkTA6Pu2jnTb'}
+{'genres': [u'channel pop', u'viral pop'], 'popularity': 68, 'name': u'Sara Farell', 'id': u'39S7Y72G0tdDPy2INGFicV'}
+{'genres': [u'gothic metal', u'gothic symphonic metal', u'melodic death metal', u'metal', u'pagan black metal', u'symphonic black metal', u'symphonic metal'], 'popularity': 49, 'name': u'Moonspell', 'id': u'17bYSQ9ZRnreVnJjE5X2x6'}
+{'genres': [u'deep indie r&b', u'indie poptimism', u'indie r&b', u'vapor soul'], 'popularity': 65, 'name': u'RKCB', 'id': u'4QDvXnbmw1znkqkK1119Fc'}
+{'genres': [u'austindie', u'chamber pop', u'folk-pop', u'freak folk', u'indie folk', u'indie pop', u'indie rock', u'lo-fi', u'modern rock', u'singer-songwriter', u'slow core', u'stomp and holler'], 'popularity': 50, 'name': u'Midlake', 'id': u'4YsP5zmteLQ7etNjHAOu30'}
+{'genres': [u'classic funk rock', u'disco', u'funk', u'hip hop', u'motown', u'post-disco', u'quiet storm', u'soul'], 'popularity': 62, 'name': u'Rick James', 'id': u'0FrpdcVlJQqibaz5HfBUrL'}
+{'genres': [u'alt-indie rock', u'indie rock', u'madchester'], 'popularity': 60, 'name': u'Blossoms', 'id': u'22RISwgVJyZu9lpqAcv1F5'}
+{'genres': [u'alternative metal', u'christian alternative rock', u'nu metal', u'post-grunge', u'rap metal', u'rap rock'], 'popularity': 60, 'name': u'Adelitas Way', 'id': u'1ZjAT2nTrzDIXFfsQ2hWJk'}
+{'genres': [u'garage rock', u'indie garage rock', u'modern rock', u'noise pop'], 'popularity': 58, 'name': u'FIDLAR', 'id': u'3P6duIn7oHeiBACZfYeNud'}
+{'genres': [u'chillhop'], 'popularity': 60, 'name': u'Smoke Trees', 'id': u'6cN5TvotJoRbhYHoCHw8BI'}
+{'genres': [u'indie poptimism', u'pop', u'post-teen pop', u'vapor soul'], 'popularity': 70, 'name': u'Phoebe Ryan', 'id': u'4N874uPqBka1QiCvnCVOtr'}
+{'genres': [u'canadian indie', u'pop christmas', u'pop rock'], 'popularity': 57, 'name': u'Crash Test Dummies', 'id': u'1YEGETLT2p8k97LIo3deHL'}
+{'genres': [u'album rock', u'art rock', u'blues-rock', u'british blues', u'classic rock', u'glam metal', u'hard rock', u'metal', u'progressive rock', u'psychedelic rock', u'rock', u'southern rock'], 'popularity': 55, 'name': u'UFO', 'id': u'2Omy3P5hFZym7FKum1JA1s'}
+{'genres': [u'bossa nova', u'forro', u'mpb', u'pagode', u'samba'], 'popularity': 64, 'name': u'Maria Beth\xe2nia', 'id': u'3f5VCwd57gZsqMad28jyLV'}
+{'genres': [u'abstractro', u'ambient', u'art pop', u'bass music', u'chamber psych', u'dark jazz', u'drone', u'electronic', u'escape room', u'experimental rock', u'fluxwork', u'freak folk', u'grave wave', u'hauntology', u'intelligent dance music', u'mandible', u'outsider house', u'post rock', u'vaporwave', u'warm drone'], 'popularity': 42, 'name': u'Blanck Mass', 'id': u'73LvjicByRK5LazcQYZMAY'}
+{'genres': [u'deep groove house', u'house'], 'popularity': 69, 'name': u'James Hype', 'id': u'43BxCL6t4c73BQnIJtry5v'}
+{'genres': [u'adult standards', u'brill building pop', u'christmas', u'country christmas', u'easy listening', u'lounge', u'nashville sound', u'rock-and-roll', u'rockabilly', u'traditional country'], 'popularity': 66, 'name': u'Brenda Lee', 'id': u'4cPHsZM98sKzmV26wlwD2W'}
+{'genres': [u'indie poptimism', u'indie psych-rock', u'indietronica', u'metropopolis', u'shimmer pop', u'synthpop', u'tropical house', u'vapor soul'], 'popularity': 59, 'name': u'MUNA', 'id': u'6xdRb2GypJ7DqnWAI2mHGn'}
+{'genres': [], 'popularity': 63, 'name': u'Mike Shinoda', 'id': u'6xBZgSMsnKVmaAxzWEwMSD'}
+{'genres': [u'chamber pop', u'indie anthem-folk', u'indie folk'], 'popularity': 63, 'name': u'Harrison Storm', 'id': u'5Ld19xtpAR80G2boTcHaVx'}
+{'genres': [u'french indie pop', u'french indietronica'], 'popularity': 59, 'name': u'Her', 'id': u'1T2WeXEi0XlZiPpjjDAY0L'}
+{'genres': [u'focus'], 'popularity': 61, 'name': u'Novo Talos', 'id': u'09D82jKcSb3omGk0kInAea'}
+{'genres': [u'acid jazz', u'electro jazz', u'electro swing', u'electronic', u'nu jazz', u'trip hop', u'vocal jazz'], 'popularity': 56, 'name': u'Koop', 'id': u'7wyBxBXLVLaiF2jxHCpvTe'}
+{'genres': [u'chamber pop', u'folk-pop', u'indie folk', u'singer-songwriter', u'stomp and holler'], 'popularity': 58, 'name': u'Fionn Regan', 'id': u'0WJc0VDtzsLIk33XRB20Dy'}
+{'genres': [u'polish pop', u'polish punk'], 'popularity': 53, 'name': u'Hey', 'id': u'3z5O1IzrnIQfWHAMuQEeZB'}
+{'genres': [u'doom metal', u'psychedelic doom', u'sludge metal', u'stoner metal', u'stoner rock'], 'popularity': 54, 'name': u'The Sword', 'id': u'0q32a3GRCjDxS4EIrC7YVY'}
+{'genres': [u'argentine rock', u'latin alternative', u'rock en espanol'], 'popularity': 77, 'name': u'Soda Stereo', 'id': u'7An4yvF7hDYDolN4m5zKBp'}
+{'genres': [u'folk-pop'], 'popularity': 59, 'name': u'Lissie', 'id': u'3j4FHbC5zwmYGJ7r0ZgaMt'}
+{'genres': [u'emo', u'melodic metalcore', u'metalcore', u'post-hardcore', u'screamo'], 'popularity': 57, 'name': u'Alexisonfire', 'id': u'53RsXctnNmj9oKXvcbvzI2'}
+{'genres': [u'grime'], 'popularity': 75, 'name': u'J Hus', 'id': u'2a0uxJgbvvIRI4GX8pYfcr'}
+{'genres': [u'boy band', u'dance pop', u'k-pop', u'korean pop'], 'popularity': 66, 'name': u'Super Junior', 'id': u'6gzXCdfYfFe5XKhPKkYqxV'}
+{'genres': [], 'popularity': 68, 'name': u'The Score', 'id': u'2q3GG88dVwuQPF4FmySr9I'}
+{'genres': [u'acoustic pop', u'chamber pop', u'deep new americana', u'folk-pop', u'indie folk', u'indie pop', u'neo mellow', u'new americana', u'progressive bluegrass', u'singer-songwriter', u'stomp and flutter', u'stomp and holler'], 'popularity': 60, 'name': u'The Milk Carton Kids', 'id': u'7fxtWEwKKrFaykKItspdYg'}
+{'genres': [u'acoustic blues', u'blues', u'blues-rock', u'chicago blues', u'classic rock', u'country blues', u'delta blues', u'electric blues', u'jazz blues', u'jazz christmas', u'louisiana blues', u'memphis blues', u'modern blues', u'piedmont blues', u'soul', u'soul blues', u'texas blues', u'traditional blues'], 'popularity': 59, 'name': u'John Lee Hooker', 'id': u'1yNOfXGQNGjAynk77wv85x'}
+{'genres': [], 'popularity': 53, 'name': u'Gogol Bordello', 'id': u'2SVw939fwuqSobLjF8u78b'}
+{'genres': [u'compositional ambient', u'focus'], 'popularity': 63, 'name': u'Silver Maple', 'id': u'5aL7sOIxn0GV0JoFGdONT6'}
+{'genres': [u'anti-folk', u'art pop', u'escape room', u'indie punk', u'lo-fi', u'noise pop', u'preverb'], 'popularity': 52, 'name': u'Diet Cig', 'id': u'6ommlbuccgdiKSgjvVlQ4W'}
+{'genres': [], 'popularity': 51, 'name': u'Callum Beattie', 'id': u'4uFxymnU41sM7ytUCjuYTN'}
+{'genres': [u'alternative metal', u'nu metal', u'post-grunge'], 'popularity': 60, 'name': u'Black Stone Cherry', 'id': u'6WMo39FU3nrpSz3qMgRKug'}
+{'genres': [u'album rock', u'dutch pop'], 'popularity': 58, 'name': u'Golden Earring', 'id': u'1iTlOqIrZy8DlvCPJY2sjS'}
+{'genres': [u'albuquerque indie', u'alternative country', u'roots rock'], 'popularity': 51, 'name': u'The Handsome Family', 'id': u'72PnPUc1qv9UjRPaGVZ1jq'}
+{'genres': [u'indie poptimism', u'indie psych-rock', u'indietronica', u'vapor soul'], 'popularity': 64, 'name': u'Elohim', 'id': u'6wKxOKEA3K6R2UZ3COLXEY'}
+{'genres': [u'alternative pop', u'alternative rock', u'boston rock', u'britpop', u'indie rock', u'jangle pop', u'lilith', u'lo-fi', u'madchester', u'neo-psychedelic', u'pop rock', u'power pop', u'singer-songwriter'], 'popularity': 53, 'name': u'The Lemonheads', 'id': u'6w7fc6IZlo5zwBaKT5jU1X'}
+{'genres': [u'crunk', u'dance pop', u'dirty south rap', u'east coast hip hop', u'gangster rap', u'hip hop', u'hip pop', u'pop rap', u'r&b', u'rap', u'urban contemporary'], 'popularity': 73, 'name': u'Ja Rule', 'id': u'1J2VVASYAamtQ3Bt8wGgA6'}
+{'genres': [u'alt-indie rock', u'british indie rock', u'britpop', u'dance-punk', u'garage rock', u'indie rock', u'madchester', u'modern rock', u'new rave'], 'popularity': 55, 'name': u'The Cribs', 'id': u'51Eq6WMVEOjjx9KQMAnneG'}
+{'genres': [u'art pop', u'chamber pop', u'dark cabaret', u'melancholia', u'singer-songwriter'], 'popularity': 54, 'name': u'Antony and the Johnsons', 'id': u'4fxp616ALtFWnXfwxnjLzW'}
+{'genres': [u'electro', u'gangster rap', u'hardcore hip hop', u'hip hop', u'old school hip hop', u'rap', u'west coast rap'], 'popularity': 50, 'name': u'Ice-T', 'id': u'0eGh2jSWPBX5GuqIHoZJZG'}
+{'genres': [u'alternative metal', u'alternative rock', u'grunge', u'heavy christmas', u'nu metal', u'pop christmas', u'pop rock', u'post-grunge', u'rap metal', u'rap rock', u'rock'], 'popularity': 61, 'name': u'Fuel', 'id': u'0EyuKHE1AeE9lWUF8mzKVp'}
+{'genres': [], 'popularity': 39, 'name': u'Legend Of The Seagullmen', 'id': u'2xOovO2QKvzY8I7UZewTKd'}
+{'genres': [u'alternative country', u'alternative rock', u'anti-folk', u'austindie', u'chamber pop', u'folk-pop', u'freak folk', u'indie folk', u'indie pop', u'indie rock', u'lo-fi', u'melancholia', u'modern rock', u'neo-psychedelic', u'singer-songwriter', u'slow core', u'stomp and holler'], 'popularity': 51, 'name': u'Okkervil River', 'id': u'5E7zSu46SqTmgKqsc0tFkY'}
+{'genres': [u'dance pop', u'k-pop'], 'popularity': 57, 'name': u'AOA', 'id': u'54gWVQFHf8IIqbjxAoOarN'}
+{'genres': [u'disco', u'italian disco', u'synthpop'], 'popularity': 53, 'name': u'Giorgio Moroder', 'id': u'6jU2Tt13MmXYk0ZBv1KmfO'}
+{'genres': [u'retro electro'], 'popularity': 57, 'name': u'The Midnight', 'id': u'2NFrAuh8RQdQoS7iYFbckw'}
+{'genres': [u'alternative metal', u'nu metal', u'post-grunge', u'rap metal', u'rap rock'], 'popularity': 62, 'name': u'10 Years', 'id': u'0REMf7H0VP6DwfZ9MbuWph'}
+{'genres': [], 'popularity': 65, 'name': u'Alex Clare', 'id': u'5Tf4EH8tDvznnjULcFxkIl'}
+{'genres': [u'deep australian indie', u'edm'], 'popularity': 68, 'name': u'Peking Duk', 'id': u'0UZ1nu3kcdNlCoiKRjmSSY'}
+{'genres': [u'dance pop', u'hip hop', u'hip pop', u'neo soul', u'new jack swing', u'pop', u'quiet storm', u'r&b', u'soul christmas', u'urban contemporary'], 'popularity': 67, 'name': u'Toni Braxton', 'id': u'3X458ddYA2YcVWuVIGGOYe'}
+{'genres': [], 'popularity': 68, 'name': u'Carlie Hanson', 'id': u'3mPc8WGusz2XF3Tvs3AKCR'}
+{'genres': [u'dance rock', u'mellow gold', u'new romantic', u'new wave', u'new wave pop', u'soft rock', u'synthpop'], 'popularity': 60, 'name': u'Fine Young Cannibals', 'id': u'20p5D2KrE8CGuOjHtxsyTp'}
+{'genres': [u'alternative dance', u'electro house', u'electronic', u'filter house', u'german techno', u'new rave'], 'popularity': 53, 'name': u'Boys Noize', 'id': u'62k5LKMhymqlDNo2DWOvvv'}
+{'genres': [u'east coast hip hop', u'gangster rap', u'hardcore hip hop', u'hip hop', u'hip pop', u'pop rap', u'rap'], 'popularity': 62, 'name': u'Naughty By Nature', 'id': u'4Otx4bRLSfpah5kX8hdgDC'}
+{'genres': [u'brooklyn indie', u'dance-punk', u'experimental rock', u'freak folk', u'math rock', u'neo-psychedelic', u'new rave', u'noise pop', u'noise rock', u'post rock'], 'popularity': 45, 'name': u'Battles', 'id': u'3EMSpwRtkvUTxfB4aS5xnA'}
+{'genres': [u'chamber pop', u'indie anthem-folk', u'indie folk'], 'popularity': 58, 'name': u'Little May', 'id': u'0TjAAwE04BeoSeOpJIakYH'}
+{'genres': [u'chillhop'], 'popularity': 60, 'name': u'BluntOne', 'id': u'225l1KEprObX8xgl8xo2Gc'}
+{'genres': [u'acid jazz', u'big beat', u'downtempo', u'electro swing', u'electronic', u'ninja', u'nu jazz', u'trip hop', u'turntablism'], 'popularity': 51, 'name': u'Mr. Scruff', 'id': u'2B0PgHZi2zaDqjKe86Gaip'}
+{'genres': [u'latin', u'latin hip hop', u'pop', u'reggaeton', u'tropical'], 'popularity': 81, 'name': u'Don Omar', 'id': u'33ScadVnbm2X8kkUqOkC6Z'}
+{'genres': [u'alternative emo', u'alternative rock', u'emo', u'emo punk', u'indie rock', u'lo-fi', u'math rock', u'modern rock', u'post-hardcore'], 'popularity': 47, 'name': u'Sunny Day Real Estate', 'id': u'2lZkXWxkZsZzBocxMjN1or'}
+{'genres': [u'dance pop', u'europop', u'new wave pop', u'pop christmas', u'soul christmas', u'uk garage'], 'popularity': 59, 'name': u'Gabrielle', 'id': u'7rftfGIYEeZ79sLb58ZBDi'}
+{'genres': [u'indie christmas', u'pop christmas', u'pop rock', u'power pop'], 'popularity': 61, 'name': u'Fountains Of Wayne', 'id': u'1pgtr4nhBQjp9oCUBPyYWh'}
+{'genres': [u'chamber pop', u'folk-pop', u'indie folk', u'indie pop', u'indie rock', u'stomp and holler'], 'popularity': 55, 'name': u'Volcano Choir', 'id': u'6gAtOqhriLzOzb3Qqmg5kO'}
+{'genres': [], 'popularity': 70, 'name': u'Mikky Ekko', 'id': u'1buzCmyYZE4kcdLRudsb8V'}
+{'genres': [u'hardcore punk', u'oi', u'pub rock', u'punk'], 'popularity': 42, 'name': u'The Vibrators', 'id': u'0DkpQq8B7ZAKebZEjlzVmd'}
+{'genres': [u'neo-singer-songwriter'], 'popularity': 53, 'name': u'Lauren Aquilina', 'id': u'22qLnGc8B1btqty6d0Qnlm'}
+{'genres': [u'boy band', u'dance pop', u'europop', u'pop christmas'], 'popularity': 72, 'name': u'Westlife', 'id': u'5Z1CCuBsyhEHngq3U5IraY'}
+{'genres': [u'destroy techno', u'filter house', u'new rave'], 'popularity': 54, 'name': u'Gesaffelstein', 'id': u'3hteYQFiMFbJY7wS0xDymP'}
+{'genres': [u'chillhop'], 'popularity': 60, 'name': u'Juan Rios', 'id': u'0LhotT6TyZgkzuLSd6pspG'}
+{'genres': [u'garage rock', u'punk', u'skate punk'], 'popularity': 55, 'name': u'The Distillers', 'id': u'7MlyHuGRHi31yYlrttDqgT'}
+{'genres': [u'compositional ambient', u'focus'], 'popularity': 61, 'name': u'Chad Lawson', 'id': u'72uoxerTvAd7x3cbfYmNc8'}
+{'genres': [u'indie poptimism', u'indietronica', u'shimmer pop', u'vapor soul'], 'popularity': 62, 'name': u'Panama', 'id': u'3W9UldYu0xJcaOAw2SUTDI'}
+{'genres': [u'crunk', u'dance pop', u'dirty south rap', u'east coast hip hop', u'hardcore hip hop', u'hip hop', u'hip pop', u'old school hip hop', u'pop rap', u'r&b', u'rap', u'southern hip hop', u'urban contemporary'], 'popularity': 65, 'name': u'LL Cool J', 'id': u'1P8IfcNKwrkQP5xJWuhaOC'}
+{'genres': [u'chicago soul', u'classic funk rock', u'funk', u'memphis soul', u'motown', u'quiet storm', u'soul'], 'popularity': 61, 'name': u'War', 'id': u'3ICyfoySNDZqtBVmaBT84I'}
+{'genres': [u'broadway', u'show tunes'], 'popularity': 80, 'name': u'Lin-Manuel Miranda', 'id': u'4aXXDj9aZnlshx7mzj3W1N'}
+{'genres': [u'classical', u'classical christmas', u'romantic era'], 'popularity': 61, 'name': u'Felix Mendelssohn', 'id': u'6MF58APd3YV72Ln2eVg710'}
+{'genres': [u'bow pop', u'classify'], 'popularity': 65, 'name': u'Vitamin String Quartet', 'id': u'6MERXsiRbur2oJZFgYRDKz'}
+{'genres': [u'classic rock', u'hard rock', u'post-grunge', u'rock'], 'popularity': 62, 'name': u'Slash', 'id': u'4Cqia9vrAbm7ANXbJGXsTE'}
+{'genres': [u'early modern classical'], 'popularity': 53, 'name': u'Federico Mompou', 'id': u'25OpIkirunuJjVw6TgTV9M'}
+{'genres': [u'ambient', u'art pop', u'art rock', u'cello', u'chamber pop', u'chamber psych', u'dance rock', u'dream pop', u'drone', u'experimental', u'experimental rock', u'fourth world', u'freak folk', u'lo-fi', u'minimal', u'neo-psychedelic', u'new weird america', u'no wave', u'noise pop', u'post-punk', u'singer-songwriter', u'slow core', u'uk post-punk'], 'popularity': 50, 'name': u'Arthur Russell', 'id': u'3iJJD5v7oIFUevW4N5w5cj'}
+{'genres': [u'hollywood'], 'popularity': 70, 'name': u'Austyn Johnson', 'id': u'6Y20PijIkUoCtuvtkz37dO'}
+{'genres': [u'pop punk', u'punk', u'skate punk'], 'popularity': 60, 'name': u'Social Distortion', 'id': u'16nn7kCHPWIB6uK09GQCNI'}
+{'genres': [u'ambient', u'art pop', u'compositional ambient', u'dark jazz', u'drift', u'drone', u'dub techno', u'electronic', u'fourth world', u'glitch', u'intelligent dance music', u'mandible', u'microhouse', u'minimal techno', u'post rock', u'warm drone'], 'popularity': 54, 'name': u'Loscil', 'id': u'3GM5cpCBadq2PMHjFoEvhK'}
+{'genres': [u'fluxwork', u'mandible', u'outsider house'], 'popularity': 30, 'name': u'Dedekind Cut', 'id': u'5pYKi522166TkjkwTbEqQS'}
+{'genres': [u'adult standards', u'chicago soul', u'christmas', u'classic funk rock', u'disco', u'folk', u'funk', u'jazz blues', u'mellow gold', u'memphis soul', u'motown', u'quiet storm', u'r&b', u'singer-songwriter', u'soft rock', u'soul', u'soul blues', u'soul christmas', u'southern soul', u'vocal jazz'], 'popularity': 62, 'name': u'Roberta Flack', 'id': u'0W498bDDNlJIrYMKXdpLHA'}
+{'genres': [u'german metal', u'metal', u'neo classical metal', u'power metal', u'progressive metal', u'speed metal'], 'popularity': 62, 'name': u'Powerwolf', 'id': u'5HFkc3t0HYETL4JeEbDB1v'}
+{'genres': [u'dance pop', u'dwn trap', u'pop', u'pop christmas', u'pop rap', u'post-teen pop', u'r&b', u'rap', u'soul christmas', u'urban contemporary'], 'popularity': 72, 'name': u'Sean Kingston', 'id': u'6S0dmVVn4udvppDhZIWxCr'}
+{'genres': [u'deep indie r&b', u'grime', u'indie r&b'], 'popularity': 65, 'name': u'Loyle Carner', 'id': u'4oDjh8wNW5vDHyFRrDYC4k'}
+{'genres': [u'alternative rock', u'dance rock', u'experimental', u'experimental rock', u'garage rock', u'grunge', u'hardcore punk', u'indie rock', u'lo-fi', u'math rock', u'neo-psychedelic', u'no wave', u'noise pop', u'noise rock', u'post-hardcore', u'post-punk', u'power pop', u'psychedelic rock', u'punk', u'punk blues', u'uk post-punk'], 'popularity': 50, 'name': u'Minutemen', 'id': u'0z6zRFzl5njXWLVAisXQBz'}
+{'genres': [u'pop christmas', u'viral pop'], 'popularity': 64, 'name': u'Daniela Andrade', 'id': u'0WfaItAbs4vlgIA1cuqGtJ'}
+{'genres': [u'neo mellow', u'pop christmas', u'pop rock', u'soul christmas'], 'popularity': 63, 'name': u'Joss Stone', 'id': u'7bvcQXJHkFiN1ppIN3q4fi'}
+{'genres': [u'bossa nova', u'brazilian indie', u'mpb', u'psychedelic rock', u'rock gaucho', u'samba'], 'popularity': 52, 'name': u'Os Mutantes', 'id': u'5C0gCCG8N5Dh5dZytIgzLX'}
+{'genres': [u'anti-folk', u'chamber pop', u'dream pop', u'folk-pop', u'indie folk', u'indie pop', u'twee pop'], 'popularity': 52, 'name': u'Camera Obscura', 'id': u'5gInJ5P5gQnOKPM3SUEVFt'}
+{'genres': [], 'popularity': 56, 'name': u'Palace', 'id': u'48vDIufGC8ujPuBiTxY8dm'}
+{'genres': [], 'popularity': 65, 'name': u'Dwayne Johnson', 'id': u'1T8S48bD91THNKBByWBDyn'}
+{'genres': [u'chamber pop', u'indie anthem-folk', u'indie folk', u'indie poptimism', u'vapor pop', u'vapor soul'], 'popularity': 59, 'name': u'Meadowlark', 'id': u'3M8Mq1n1l1TRnTUw2MRSCs'}
+{'genres': [u'catstep', u'chillstep', u'complextro', u'edm', u'electro house', u'tracestep'], 'popularity': 55, 'name': u'Rameses B', 'id': u'06EfEcjc0vdvI6VNL0soIO'}
+{'genres': [u'new wave pop', u'soft rock', u'soul christmas'], 'popularity': 61, 'name': u'Kim Carnes', 'id': u'5PN2aHIvLEM98XIorsPMhE'}
+{'genres': [], 'popularity': 56, 'name': u'Marcus Marr', 'id': u'6l5dAUNRhHnRSPPmRJSKQr'}
+{'genres': [u'alt-indie rock', u'gauze pop', u'indie anthem-folk', u'indie poptimism', u'indie psych-rock', u'indietronica', u'shimmer pop', u'vapor soul'], 'popularity': 59, 'name': u'Fickle Friends', 'id': u'1nhSLEYdoBHG6cJ8NDwoF1'}
+{'genres': [u'dancehall', u'reggae', u'reggae fusion', u'roots reggae'], 'popularity': 62, 'name': u'Inner Circle', 'id': u'5os0Ltvz8Q8BvXOPOd1frx'}
+{'genres': [], 'popularity': 55, 'name': u'\u0421\u043a\u0440\u0438\u043f\u0442\u043e\u043d\u0438\u0442', 'id': u'3vvLuXEEf7sl3izJcw0GIn'}
+{'genres': [u'alternative metal', u'neo mellow', u'pop rock', u'post-grunge'], 'popularity': 61, 'name': u'Blue October', 'id': u'1TJbmc7jTpw78GKCiMpvDh'}
+{'genres': [], 'popularity': 18, 'name': u'Gonzales', 'id': u'5Nz7l2hh8m6cK6kRu7TfYL'}
+{'genres': [u'gauze pop', u'neo-singer-songwriter'], 'popularity': 60, 'name': u'Rae Morris', 'id': u'67xyhWIvYQK5qr6b0gElst'}
+{'genres': [u'deep groove house', u'house'], 'popularity': 58, 'name': u'TCTS', 'id': u'1mFGfrveXbpolppPgO29Io'}
+{'genres': [u'finnish metal', u'folk metal', u'gothic metal', u'melodic death metal', u'metal', u'progressive metal', u'viking metal'], 'popularity': 53, 'name': u'Insomnium', 'id': u'3uIgLG971oRM5fe6v8lvQS'}
+{'genres': [], 'popularity': 67, 'name': u'Taco Hemingway', 'id': u'7CJgLPEqiIRuneZSolpawQ'}
+{'genres': [u'folk-pop'], 'popularity': 53, 'name': u'Karen O', 'id': u'6emHCSoB4tJxTVXakbrpPz'}
+{'genres': [u'exotica', u'lounge'], 'popularity': 45, 'name': u'Lalo Schifrin', 'id': u'39iHRO9MH9To3gjW7wqaW1'}
+{'genres': [u'dance pop', u'deep pop r&b', u'hip hop', u'hip pop', u'indie r&b', u'neo soul', u'new jack swing', u'pop', u'pop rap', u'r&b', u'urban contemporary'], 'popularity': 65, 'name': u'Brandy', 'id': u'05oH07COxkXKIMt6mIPRee'}
+{'genres': [u'eurodance', u'europop', u'german pop', u'soul christmas'], 'popularity': 63, 'name': u'Modern Talking', 'id': u'79bxUQsBIXO8nVLB9fYKf7'}
+{'genres': [u'atmospheric black metal', u'avantgarde metal', u'black metal', u'death metal', u'doom metal', u'folk metal', u'groove metal', u'jazz metal', u'melodic death metal', u'metal', u'norwegian metal', u'pagan black metal', u'post-metal', u'progressive metal', u'symphonic black metal', u'technical death metal', u'viking metal', u'voidgaze'], 'popularity': 45, 'name': u'Enslaved', 'id': u'2HmtB6wVRRi3z0JwZHtkiD'}
+{'genres': [u'dance pop', u'neo mellow', u'pop', u'post-teen pop'], 'popularity': 59, 'name': u'Aly & AJ', 'id': u'5wugb0kaq0J6nyQ5Xgd17i'}
+{'genres': [u'norwegian indie'], 'popularity': 56, 'name': u'Kakkmaddafakka', 'id': u'4HV7yKF3SRpY6I0gxu7hm9'}
+{'genres': [u'adult standards', u'cabaret', u'christmas', u'cool jazz', u'easy listening', u'jazz', u'jazz blues', u'jazz christmas', u'lounge', u'soul', u'swing', u'vocal jazz'], 'popularity': 61, 'name': u'Julie London', 'id': u'3qUMmh5biaB5hqpF4LqS3m'}
+{'genres': [u'compositional ambient', u'focus'], 'popularity': 55, 'name': u'Matt Stewart-Evans', 'id': u'7x67OgZ8Iu8FEYpvRAPuh7'}
+{'genres': [u'latin', u'latin alternative', u'rock en espanol'], 'popularity': 72, 'name': u'Caf\xe9 Tacvba', 'id': u'09xj0S68Y1OU1vHMCZAIvz'}
+{'genres': [u'chamber pop', u'indie anthem-folk', u'indie folk'], 'popularity': 61, 'name': u'Blanco White', 'id': u'3ccVtqcqedranb7y8eywJ5'}
+{'genres': [u'pop christmas', u'pop rock'], 'popularity': 58, 'name': u'Deep Blue Something', 'id': u'5N5RfI8FFXk4WQ8kkjE407'}
+{'genres': [u'adult standards', u'christmas', u'disco', u'jazz blues', u'jazz christmas', u'lounge', u'mellow gold', u'motown', u'quiet storm', u'soft rock', u'soul', u'soul christmas', u'vocal jazz'], 'popularity': 65, 'name': u'Natalie Cole', 'id': u'5tTsrGPwQRWUsHR2Xf7Ke9'}
+{'genres': [u'french indietronica'], 'popularity': 62, 'name': u'Polo & Pan', 'id': u'45yEuthJ9yq1rNXAOpBnqM'}
+{'genres': [u'indie poptimism', u'indie r&b', u'indietronica', u'synthpop', u'vapor soul'], 'popularity': 55, 'name': u'Shura', 'id': u'1qpR5mURxk3d8f6mww6uKT'}
+{'genres': [u'boy band', u'classic funk rock', u'disco', u'funk', u'motown', u'quiet storm', u'soul', u'soul christmas'], 'popularity': 64, 'name': u'The Jacksons', 'id': u'2yrbLiuBmc9j81lTX3XUuI'}
+{'genres': [u'atmospheric black metal', u'avantgarde metal', u'blackgaze', u'chaotic hardcore', u'post rock', u'post-doom metal', u'post-metal', u'usbm'], 'popularity': 43, 'name': u'Deafheaven', 'id': u'4XpPveeg7RuYS3CgLo75t9'}
+{'genres': [u'melodic hardcore', u'pop punk', u'punk', u'ska punk', u'skate punk'], 'popularity': 60, 'name': u'Millencolin', 'id': u'74xFFXkvOq9dPDigOWTHiX'}
+{'genres': [u'dance pop', u'k-hop', u'k-pop'], 'popularity': 63, 'name': u'PSY', 'id': u'2dd5mrQZvg6SmahdgVKDzh'}
+{'genres': [u'classical', u'classical christmas', u'romantic era'], 'popularity': 62, 'name': u'Robert Schumann', 'id': u'2UqjDAXnDxejEyE0CzfUrZ'}
+{'genres': [u'soft rock'], 'popularity': 62, 'name': u'Rupert Holmes', 'id': u'0TqIPD4IS1w4e30R38B3vj'}
+{'genres': [u'melodic metalcore', u'metalcore', u'post-screamo', u'rap metal', u'screamo'], 'popularity': 62, 'name': u'We Came As Romans', 'id': u'6qO6LhD6FuXK5e2PtfAIMz'}
+{'genres': [u'brooklyn indie', u'chamber pop', u'chamber psych', u'dream pop', u'folk-pop', u'freak folk', u'garage psych', u'indie folk', u'indie pop', u'indie rock', u'lo-fi', u'modern rock', u'neo-psychedelic', u'new weird america', u'noise pop', u'nu gaze', u'preverb', u'slow core', u'stomp and holler'], 'popularity': 50, 'name': u'Woods', 'id': u'2sBPVEeMBXKNsZtYaJixnJ'}
+{'genres': [u'alternative emo', u'anthem emo', u'emo', u'melodic hardcore', u'modern rock', u'pop punk'], 'popularity': 49, 'name': u'The Hotelier', 'id': u'3kzNckjE5FzHQhe4pJiLKa'}
+{'genres': [u'indie poptimism', u'pop'], 'popularity': 68, 'name': u'Lostboycrow', 'id': u'5PxCTrv3Y1xVACfngpt7D2'}
+{'genres': [u'deep indie r&b', u'indie r&b'], 'popularity': 67, 'name': u'Bruno Major', 'id': u'0hDjKSKjl1DC7ovYTDJHe8'}
+{'genres': [u'alt-indie rock', u'alternative rock', u'britpop', u'chamber psych', u'electronic', u'indie rock', u'madchester', u'new wave'], 'popularity': 55, 'name': u'The Charlatans', 'id': u'5fScAXreYFnuqwOgBsJgSd'}
+{'genres': [u'black metal', u'black thrash', u'death metal', u'doom metal', u'folk metal', u'metal', u'pagan black metal', u'speed metal', u'swedish metal', u'symphonic black metal', u'thrash metal', u'viking metal'], 'popularity': 47, 'name': u'Bathory', 'id': u'6rBvjnvdsRxFRSrq1StGOM'}
+{'genres': [u'jam band'], 'popularity': 61, 'name': u'Rusted Root', 'id': u'2M3vnW1p5w4uPRkLYTbvdB'}
+{'genres': [u'bebop', u'big band', u'contemporary post-bop', u'cool jazz', u'hard bop', u'jazz', u'jazz blues', u'jazz funk', u'jazz fusion', u'soul jazz', u'stride', u'swing', u'vocal jazz'], 'popularity': 56, 'name': u'Cannonball Adderley', 'id': u'5v74mT11KGJqadf9sLw4dA'}
+{'genres': [u'deep indie r&b', u'indie r&b', u'vapor soul'], 'popularity': 56, 'name': u'Henry Green', 'id': u'0VbDAlm2KUlKI5UhXRBKWp'}
+{'genres': [u'alternative metal', u'groove metal', u'industrial metal', u'melodic death metal', u'melodic metalcore', u'metal', u'metalcore', u'nu metal', u'rap metal', u'rap rock'], 'popularity': 56, 'name': u'DevilDriver', 'id': u'79el7mcHYhXYW3Zek21i0L'}
+{'genres': [u'electronic trap'], 'popularity': 71, 'name': u'Hippie Sabotage', 'id': u'4dM6NDYSfLcspt8GLoT5aE'}
+{'genres': [u'indie r&b', u'rap', u'underground hip hop'], 'popularity': 66, 'name': u'Saba', 'id': u'7Hjbimq43OgxaBRpFXic4x'}
+{'genres': [], 'popularity': 48, 'name': u'Millie Turner', 'id': u'53GC8IrnkJXGO7znOiv4tD'}
+{'genres': [u'brostep', u'catstep', u'chillstep', u'complextro', u'edm', u'electro house', u'vapor twitch'], 'popularity': 54, 'name': u'Haywyre', 'id': u'7aUSp5cOZlwEtd5zPC795k'}
+{'genres': [u'bossa nova', u'mpb', u'pagode', u'samba'], 'popularity': 60, 'name': u'Tim Maia', 'id': u'0jOs0wnXCu1bGGP7kh5uIu'}
+{'genres': [u'emo', u'modern rock', u'neo mellow', u'pop punk', u'pop rock', u'post-teen pop'], 'popularity': 64, 'name': u'Boys Like Girls', 'id': u'0vWCyXMrrvMlCcepuOJaGI'}
+{'genres': [u'epicore', u'scorecore', u'soundtrack', u'video game music'], 'popularity': 64, 'name': u'Steve Jablonsky', 'id': u'5Il8YjuVAWkWNH2xgjFMpF'}
+{'genres': [u'acoustic pop', u'neo mellow', u'reggae rock'], 'popularity': 63, 'name': u'Trevor Hall', 'id': u'3RMHexittaAZkf8zukkZB8'}
+{'genres': [u'post rock', u'post-metal'], 'popularity': 49, 'name': u'If These Trees Could Talk', 'id': u'2GVzsXcXyU95u2EahzwqN7'}
+{'genres': [u'compositional ambient', u'focus'], 'popularity': 61, 'name': u'Tracey Chattaway', 'id': u'7pTS4RiG0sM9TijxQJz8f6'}
+{'genres': [u'electro swing', u'ninja', u'nu jazz', u'trip hop', u'turntablism'], 'popularity': 60, 'name': u'Chinese Man', 'id': u'6vgw0jwJkUnW2NR1rzsQU3'}
+{'genres': [u'alternative dance', u'dance-punk', u'electroclash', u'electronic', u'filter house', u'indietronica', u'new rave', u'synthpop'], 'popularity': 49, 'name': u'Simian Mobile Disco', 'id': u'31DXlldabwPHwu6dYevuzK'}
+{'genres': [u'deep indie r&b', u'indie poptimism', u'indie r&b', u'vapor soul'], 'popularity': 63, 'name': u'NoMBe', 'id': u'5Lhxlge1CR1DrgDAje8Qaw'}
+{'genres': [u'alternative dance', u'art pop', u'balearic', u'bass music', u'chamber psych', u'chicago house', u'dance-punk', u'deep house', u'electronic', u'float house', u'fluxwork', u'future garage', u'indie r&b', u'indietronica', u'microhouse', u'minimal techno', u'new rave', u'outsider house', u'tech house', u'uk garage'], 'popularity': 49, 'name': u'Daphni', 'id': u'4nhvb6x9ZhPiYCzrHDNia9'}
+{'genres': [u'alternative hip hop', u'hip hop', u'turntablism', u'underground hip hop', u'wonky'], 'popularity': 56, 'name': u'Quasimoto', 'id': u'1rJkz5vopfGxTUGFNB3o4G'}
+{'genres': [u'bow pop', u'classify'], 'popularity': 71, 'name': u'The Piano Guys', 'id': u'0jW6R8CVyVohuUJVcuweDI'}
+{'genres': [u'adult standards', u'cabaret', u'christmas', u'jazz blues', u'jazz christmas', u'lounge', u'soul', u'soul blues', u'swing', u'vocal jazz'], 'popularity': 59, 'name': u'Dinah Washington', 'id': u'32LHRiof0sa4taYew9i3Fa'}
+{'genres': [u'chillhop', u'vapor twitch'], 'popularity': 58, 'name': u'Ian Ewing', 'id': u'6QrRSfwkZsixVIgDRhpToh'}
+{'genres': [u'deep euro house', u'house', u'minimal techno', u'tech house', u'tropical house'], 'popularity': 60, 'name': u'K\xf6lsch', 'id': u'2D9Oe8R9UhbMvFAsMJpXj0'}
+{'genres': [u'ambient', u'compositional ambient', u'drift', u'drone', u'focus', u'fourth world', u'minimal', u'warm drone'], 'popularity': 49, 'name': u'A Winged Victory for the Sullen', 'id': u'13CMfEeq8AC6ryGOPODqE1'}
+{'genres': [u'alternative dance', u'chillwave', u'indietronica', u'new rave', u'nu disco'], 'popularity': 60, 'name': u'Poolside', 'id': u'5szdY7KaSi7epwyffrbV8c'}
+{'genres': [u'pop rock'], 'popularity': 61, 'name': u'New Radicals', 'id': u'0Grjlu7ncIuCaSYvCs9fcd'}
+{'genres': [u'deep australian indie'], 'popularity': 56, 'name': u'Alex Lahey', 'id': u'5kdYrM3h2sB1Eid5tDf6Hk'}
+{'genres': [u'chaotic hardcore', u'mathcore'], 'popularity': 52, 'name': u'Code Orange', 'id': u'6qtECqesbU29iftyeWmldK'}
+{'genres': [u'deep melodic euro house', u'german techno', u'microhouse', u'minimal tech house', u'minimal techno', u'tech house'], 'popularity': 45, 'name': u'Anja Schneider', 'id': u'0f14r70OISSfJoyqYaHbgV'}
+{'genres': [u'alternative metal', u'neo mellow', u'nu metal', u'pop rock', u'post-grunge'], 'popularity': 69, 'name': u'Daughtry', 'id': u'5P5FTygHyx2G57oszR3Wot'}
+{'genres': [u'aussietronica', u'australian alternative rock', u'deep australian indie', u'indie pop', u'indietronica', u'metropopolis', u'perth indie'], 'popularity': 61, 'name': u'San Cisco', 'id': u'0Ou0138wEd8XWebhc4j7O0'}
+{'genres': [u'alternative country', u'alternative rock', u'anti-folk', u'folk', u'folk punk', u'folk rock', u'folk-pop', u'indie folk', u'permanent wave', u'roots rock', u'singer-songwriter', u'traditional folk'], 'popularity': 55, 'name': u'Billy Bragg', 'id': u'5yXAFDZNUNyO92l5WTImkO'}
+{'genres': [u'big beat', u'breakbeat', u'electronic'], 'popularity': 52, 'name': u'The Crystal Method', 'id': u'5eKLa1xyHLq8ERWmT1CRHj'}
+{'genres': [u'singer-songwriter'], 'popularity': 66, 'name': u'Matt Simons', 'id': u'1g0fXhQMHAxlRyIBkCbuE7'}
+{'genres': [u'alternative metal', u'funk metal', u'nu metal', u'post-grunge', u'rap metal', u'rap rock', u'wrestling'], 'popularity': 59, 'name': u'Finger Eleven', 'id': u'0niJkG4tKkne3zwr7I8n9n'}
+{'genres': [u'bubblegum dance', u'canadian pop', u'dance pop', u'europop', u'new wave pop', u'pop rock', u'uk garage'], 'popularity': 59, 'name': u'All Saints', 'id': u'5TDVKqW9uhqGjwwwKGuma4'}
+{'genres': [u'adult standards', u'brill building pop', u'bubblegum pop', u'christmas', u'country christmas', u'folk', u'folk christmas', u'folk rock', u'lounge', u'mellow gold', u'nashville sound', u'singer-songwriter', u'soft rock', u'traditional country'], 'popularity': 63, 'name': u'Glen Campbell', 'id': u'59hLmB5DrdihCYtNeFeW1U'}
+{'genres': [u'album rock', u'classic rock', u'glam metal', u'hard rock', u'metal', u'rock'], 'popularity': 61, 'name': u'Quiet Riot', 'id': u'1dLWg6m8RRhizsdqJbhyj3'}
+{'genres': [], 'popularity': 76, 'name': u'1Kilo', 'id': u'6E2st8OqIaS7PU5gj95FSE'}
+{'genres': [u'dark wave', u'gothic metal', u'gothic symphonic metal', u'industrial metal', u'industrial rock', u'pixie', u'steampunk'], 'popularity': 54, 'name': u'The Birthday Massacre', 'id': u'16AVsBqzmIZTNHd0eX8VbK'}
+{'genres': [u'chamber pop', u'chamber psych', u'folk-pop', u'freak folk', u'indie folk', u'new weird america', u'singer-songwriter'], 'popularity': 53, 'name': u'This Is The Kit', 'id': u'0ZUyFEafMwocvApBjTXvdo'}
+{'genres': [u'alternative pop', u'anti-folk', u'folk', u'folk christmas', u'folk-pop', u'lilith', u'new wave pop', u'permanent wave', u'pop christmas', u'pop rock', u'singer-songwriter'], 'popularity': 55, 'name': u'Aimee Mann', 'id': u'3UpIbyXfGzmHG6TMH4dJEk'}
+{'genres': [u'epicore', u'scorecore', u'soundtrack', u'video game music'], 'popularity': 69, 'name': u'Thomas Bergersen', 'id': u'6BF0bXbsdujMSMeFZBGcBq'}
+{'genres': [u'alternative rock', u'pop punk', u'pop rock', u'post-grunge'], 'popularity': 61, 'name': u'Lit', 'id': u'5mgr0FFpvy267wKVAYg8qp'}
+{'genres': [u'adult standards', u'christmas', u'cowboy western', u'nashville sound', u'traditional country'], 'popularity': 60, 'name': u'Patsy Cline', 'id': u'7dNsHhGeGU5MV01r06O8gK'}
+{'genres': [u'indie pop', u'indie poptimism', u'indie psych-rock', u'indietronica', u'modern rock'], 'popularity': 64, 'name': u'Coast Modern', 'id': u'4wYk01oPJNfaEssVFL46oQ'}
+{'genres': [u'art pop', u'art rock', u'dance rock', u'disco', u'new romantic', u'new wave', u'new wave pop', u'synthpop'], 'popularity': 57, 'name': u'Grace Jones', 'id': u'2f9ZiYA2ic1r1voObUimdd'}
+{'genres': [u'adult standards', u'brill building pop', u'christmas', u'disco', u'jazz blues', u'lounge', u'mellow gold', u'motown', u'new wave pop', u'quiet storm', u'soft rock', u'soul', u'soul blues', u'soul christmas', u'vocal jazz'], 'popularity': 62, 'name': u'Dionne Warwick', 'id': u'2JSjCHK79gdaiPWdKiNUNp'}
+{'genres': [u'k-pop', u'korean pop'], 'popularity': 58, 'name': u'Henry', 'id': u'1sjw4xq2pAWy5Vdgba5QAt'}
+{'genres': [u'alternative pop', u'alternative rock', u'grunge', u'indie rock', u'lo-fi', u'permanent wave', u'slow core'], 'popularity': 46, 'name': u'The Afghan Whigs', 'id': u'7IDrRpDz0cOuUVC32c8PKD'}
+{'genres': [u'bass trap'], 'popularity': 54, 'name': u'The Tech Thieves', 'id': u'06bun5reMRmLxFCbcB6UHW'}
+{'genres': [u'classical', u'compositional ambient', u'early modern classical'], 'popularity': 59, 'name': u'Dmitri Shostakovich', 'id': u'6s1pCNXcbdtQJlsnM1hRIA'}
+{'genres': [u'turkish jazz', u'turkish pop', u'turkish rock'], 'popularity': 57, 'name': u'Bar\u0131\u015f Man\xe7o', 'id': u'3eVuump9qyK0YCQQo4mKbc'}
+{'genres': [u'disco', u'europop', u'new wave pop'], 'popularity': 60, 'name': u'Irene Cara', 'id': u'3oZa8Xs6IjlIUGLAhVyK4G'}
+{'genres': [u'alternative dance', u'disco house', u'filter house', u'indietronica', u'new rave', u'nu disco'], 'popularity': 59, 'name': u'Breakbot', 'id': u'0iui2Be5CP8EWxvHYsVspL'}
+{'genres': [u'boy band', u'dance pop', u'neo mellow', u'pop christmas', u'pop rock'], 'popularity': 63, 'name': u'Hanson', 'id': u'0SdiiPkr02EUdekHZJkt58'}
+{'genres': [u'alternative metal', u'nu metal', u'post-grunge', u'rock'], 'popularity': 70, 'name': u'Kid Rock', 'id': u'7dOBabd5O4CvKrg4iriHTM'}
+{'genres': [u'dreamo', u'emo', u'modern rock', u'pop punk', u'post-hardcore', u'progressive post-hardcore', u'screamo'], 'popularity': 60, 'name': u'Circa Survive', 'id': u'11FY888Qctoy6YueCpFkXT'}
+{'genres': [u'alternative dance', u'dance-punk', u'indie pop', u'indie rock', u'indietronica', u'modern rock', u'new rave', u'shimmer pop', u'synthpop'], 'popularity': 53, 'name': u'Friendly Fires', 'id': u'3mZqziCJj4pq3P2VBpmK6p'}
+{'genres': [u'brooklyn indie', u'indie pop', u'indie poptimism', u'indie psych-rock', u'indietronica', u'metropopolis', u'shimmer pop'], 'popularity': 64, 'name': u'Great Good Fine Ok', 'id': u'422RLznpwUa5FsQgnTlgUH'}
+{'genres': [u'indie pop', u'indie poptimism', u'indie rockism', u'indietronica', u'la indie', u'modern rock', u'shimmer pop'], 'popularity': 60, 'name': u"The Mowgli's", 'id': u'6AGUQK1EWK6nvN4pLIDQDQ'}
+{'genres': [u'dance pop', u'dwn trap', u'hyphy', u'pop rap', u'rap', u'southern hip hop', u'trap music'], 'popularity': 73, 'name': u'Sage The Gemini', 'id': u'6d47Z08T4snK50HgTEHo5Z'}
+{'genres': [u'indie garage rock'], 'popularity': 58, 'name': u'Cosmo Pyke', 'id': u'1RKG6WXRzmTJtbLRZTPU0T'}
+{'genres': [u'singer-songwriter'], 'popularity': 51, 'name': u'Joan As Police Woman', 'id': u'6PBv8t9YTLggA9ZMwpeoqj'}
+{'genres': [u'indie pop', u'indie poptimism', u'indie rockism', u'modern rock'], 'popularity': 59, 'name': u'DREAMERS', 'id': u'1FgsVeOhRYuSw2ghkIXV0A'}
+{'genres': [u'alt-indie rock', u'chamber psych', u'preverb'], 'popularity': 49, 'name': u'Dream Wife', 'id': u'2DaP4uXwKOXAaD77XokW9a'}
+{'genres': [u'classic russian rock', u'russian hip hop', u'russian punk', u'russian rock'], 'popularity': 34, 'name': u'25/17', 'id': u'7BEMpta6uxRRKiei6jmTqd'}
+{'genres': [u'channel pop', u'neo mellow', u'post-teen pop', u'viral pop'], 'popularity': 72, 'name': u'Hearts & Colors', 'id': u'3wjsrpfO6odEphTZWx45RQ'}
+{'genres': [u'deep indie r&b', u'tropical house', u'vapor soul', u'vapor twitch'], 'popularity': 63, 'name': u'Jerry Folk', 'id': u'356FCJoyYWyzONni54Dgrv'}
+{'genres': [u'dance pop', u'deep pop r&b', u'hip pop', u'indie r&b', u'pop', u'pop rap', u'post-teen pop', u'r&b', u'urban contemporary'], 'popularity': 66, 'name': u'Cassie', 'id': u'27FGXRNruFoOdf1vP8dqcH'}
+{'genres': [u'german indie', u'german pop', u'liedermacher'], 'popularity': 58, 'name': u'Tocotronic', 'id': u'4WOaecAM3RMMmrbZzNx0vu'}
+{'genres': [u'adult standards', u'album rock', u'bubblegum pop', u'mellow gold', u'new wave pop', u'soft rock'], 'popularity': 61, 'name': u'Eric Carmen', 'id': u'2ekjTXgjxbWwBX5lTAj4DU'}
+{'genres': [u'chillhop'], 'popularity': 60, 'name': u'Flughand', 'id': u'6x5HLaMcoxaULXpgN0NJbb'}
+{'genres': [u'alternative hip hop', u'east coast hip hop', u'hardcore hip hop', u'hip hop', u'turntablism'], 'popularity': 60, 'name': u'Pete Rock', 'id': u'3BeQqzKdlARoOd6y30kCO2'}
+{'genres': [u'eurodance', u'europop', u'german techno', u'hip house'], 'popularity': 59, 'name': u'SNAP!', 'id': u'2FrKQPjJe4pVMZOgm0ESOx'}
+{'genres': [u'chamber psych', u'chillwave', u'dance-punk', u'dream pop', u'garage psych', u'grave wave', u'industrial', u'noise pop', u'nu gaze', u'shoegaze', u'synthpop'], 'popularity': 49, 'name': u'The Soft Moon', 'id': u'40HeNm05FEAxGx8gUOV4my'}
+{'genres': [u'dreamo', u'emo', u'indie rock', u'modern rock', u'progressive post-hardcore', u'screamo'], 'popularity': 54, 'name': u'Minus The Bear', 'id': u'0YQBN02bmZvwGNrrWsg2sT'}
+{'genres': [u'comic', u'industrial metal', u'industrial rock', u'nu metal'], 'popularity': 57, 'name': u'Mindless Self Indulgence', 'id': u'5R5MLOQbI4lb7GHYioPqoN'}
+{'genres': [u'alternative rock', u'art rock', u'britpop', u'chamber pop', u'dream pop', u'indie rock', u'lo-fi', u'madchester', u'melancholia', u'neo-psychedelic', u'noise pop', u'shoegaze', u'singer-songwriter', u'slow core'], 'popularity': 46, 'name': u'Mercury Rev', 'id': u'77oD8X9qLXZhpbCjv53l5n'}
+{'genres': [u'modern rock', u'vegas indie'], 'popularity': 56, 'name': u'Brandon Flowers', 'id': u'18Zv2g2vUcEGqJf6WnjfXN'}
+{'genres': [u'brill building pop', u'folk rock', u'girl group', u'motown', u'rock-and-roll', u'soul', u'soul christmas'], 'popularity': 64, 'name': u'The Ronettes', 'id': u'7CyeXFnOrfC1N6z4naIpgo'}
+{'genres': [], 'popularity': 52, 'name': u'Wilmer Norman', 'id': u'13r0ejbEnMOb3VUJczW02L'}
+{'genres': [u'channel pop', u'neo mellow', u'viral pop'], 'popularity': 67, 'name': u'The Mayries', 'id': u'38SWPOPO1YqxUPnT4AAoID'}
+{'genres': [u'alternative rock', u'dance-punk', u'dream pop', u'experimental', u'experimental rock', u'freak folk', u'indie rock', u'lo-fi', u'louisville indie', u'math rock', u'neo-psychedelic', u'no wave', u'noise pop', u'noise rock', u'post rock', u'post-hardcore', u'post-punk', u'shoegaze', u'slow core', u'uk post-punk'], 'popularity': 43, 'name': u'Slint', 'id': u'4IwOItqRhsIoRuD5HP4vyC'}
+{'genres': [u'folk-pop', u'indie anthem-folk', u'indie folk', u'neo mellow', u'pop', u'viral pop'], 'popularity': 66, 'name': u'Lewis Watson', 'id': u'40ELTAg7Kg6vbWnlyx2n9R'}
+{'genres': [u'indie r&b', u'malaysian pop'], 'popularity': 66, 'name': u'Yuna', 'id': u'3kHVioJpVxlazAAKQ64pC1'}
+{'genres': [u'alternative hip hop', u'hip hop', u'rap', u'turntablism'], 'popularity': 59, 'name': u'Jurassic 5', 'id': u'6wFId9Jhuf9AKVzWboOj2B'}
+{'genres': [u'deep tropical house', u'edm', u'indie poptimism', u'tropical house', u'vapor soul', u'vapor twitch'], 'popularity': 64, 'name': u'Autograf', 'id': u'0FVj4JuzTyudaXAwfqDQ20'}
+{'genres': [], 'popularity': 64, 'name': u'Seinabo Sey', 'id': u'4X0v8sFoDZ6rIfkeOeVm2i'}
+{'genres': [u'brill building pop', u'chicago soul', u'classic funk rock', u'disco', u'funk', u'jazz blues', u'memphis soul', u'motown', u'northern soul', u'quiet storm', u'rock-and-roll', u'soul', u'soul blues', u'soul christmas', u'southern soul'], 'popularity': 62, 'name': u'Smokey Robinson & The Miracles', 'id': u'6TKOZZDd5uV5KnyC5G4MUt'}
+{'genres': [u'art pop', u'chamber psych', u'chillwave', u'dream pop', u'freak folk', u'indie rock', u'indietronica', u'lo-fi', u'neo-psychedelic', u'new weird america', u'noise pop', u'nu gaze', u'preverb'], 'popularity': 49, 'name': u'Lower Dens', 'id': u'5uTJLo3c4ZHpH8oEwGxYUN'}
+{'genres': [u'album rock', u'blues-rock', u'british blues', u'classic funk rock', u'classic rock', u'country rock', u'electric blues', u'folk rock', u'hard rock', u'mellow gold', u'rock', u'roots rock', u'singer-songwriter', u'soft rock', u'southern rock', u'symphonic rock'], 'popularity': 61, 'name': u'Joe Walsh', 'id': u'5bDxAyJiTYBat1YnFJhvEK'}
+{'genres': [u'emo', u'modern rock', u'pop emo', u'pop punk', u'pop rock'], 'popularity': 59, 'name': u'Motion City Soundtrack', 'id': u'19zqV9DV3txjMUjHvltl2D'}
+{'genres': [u'folk christmas', u'indie christmas'], 'popularity': 59, 'name': u'Family of the Year', 'id': u'7zsin6IgVsR1rqSRCNYDwq'}
+{'genres': [u'album rock', u'art rock', u'classic rock', u'hard rock', u'jazz fusion', u'mellow gold', u'progressive rock', u'psychedelic rock', u'rock', u'symphonic rock'], 'popularity': 54, 'name': u'Emerson, Lake & Palmer', 'id': u'0nCiidE5GgDrc5kWN3NZgZ'}
+{'genres': [u'big beat', u'j-dance', u'j-rock'], 'popularity': 38, 'name': u'BOOM BOOM SATELLITES', 'id': u'0vCGPbugjEi38T41ZHny1o'}
+{'genres': [u'alternative metal', u'alternative rock', u'grunge', u'modern rock', u'permanent wave', u'pop christmas', u'pop punk', u'pop rock', u'post-grunge', u'rock'], 'popularity': 60, 'name': u'Everclear', 'id': u'694QW15WkebjcrWgQHzRYF'}
+{'genres': [u'alternative hip hop', u'east coast hip hop', u'gangster rap', u'hardcore hip hop', u'hip hop', u'pop rap', u'rap', u'southern hip hop'], 'popularity': 65, 'name': u'Raekwon', 'id': u'2yQf6b8hxahZaT5dHlWaB1'}
+{'genres': [], 'popularity': 61, 'name': u'Otto Wahl', 'id': u'7A5OxuJ5yEzHTM43In5fHF'}
+{'genres': [u'alternative rock', u'australian alternative rock', u'dance rock', u'dream pop', u'jangle pop', u'neo-psychedelic', u'new romantic', u'new wave', u'post-punk', u'power pop', u'shoegaze', u'uk post-punk'], 'popularity': 54, 'name': u'The Church', 'id': u'2ZfogSsOWP4mVfEqfpLXCt'}
+{'genres': [u'djent', u'jazz metal', u'progressive metal'], 'popularity': 49, 'name': u'Soen', 'id': u'38uWD5h115pdz278q4rwZW'}
+{'genres': [u'contemporary jazz', u'contemporary post-bop', u'dark jazz', u'fourth world', u'jazz', u'jazz fusion', u'jazz trio', u'nu jazz', u'swedish jazz'], 'popularity': 55, 'name': u'Esbj\xf6rn Svensson Trio', 'id': u'3HJzLaMbS0jMabxS3wttGk'}
+{'genres': [u'emo', u'metalcore', u'pop punk', u'post-hardcore', u'progressive post-hardcore', u'screamo'], 'popularity': 58, 'name': u'Saosin', 'id': u'1NUOfvAhA9AvsF1ISMkgHX'}
+{'genres': [u'alternative hip hop', u'dirty south rap', u'east coast hip hop', u'hardcore hip hop', u'hip hop', u'pop rap', u'rap', u'southern hip hop'], 'popularity': 64, 'name': u'Talib Kweli', 'id': u'0lEssBAxQl2In4RpaB1C2Y'}
+{'genres': [], 'popularity': 52, 'name': u'Flo Morrissey and Matthew E. White', 'id': u'4IUnPnBL93uxmo0DBx7U0m'}
+{'genres': [u'djent', u'melodic metalcore', u'metalcore', u'progressive metal'], 'popularity': 59, 'name': u'Periphery', 'id': u'6d24kC5fxHFOSEAmjQPPhc'}
+{'genres': [u'folk-pop', u'neo mellow', u'pop rock', u'singer-songwriter'], 'popularity': 66, 'name': u'Phillip Phillips', 'id': u'6p5JxpTc7USNnBnLzctyd4'}
+{'genres': [u'alternative hip hop', u'east coast hip hop', u'gangster rap', u'hardcore hip hop', u'hip hop', u'hip house', u'old school hip hop', u'rap', u'turntablism'], 'popularity': 56, 'name': u'Eric B. & Rakim', 'id': u'6jHG1YQkqgojdEzerwvrVv'}
+{'genres': [u'g funk', u'gangster rap', u'hardcore hip hop', u'hip hop', u'rap', u'west coast rap'], 'popularity': 67, 'name': u'Eazy-E', 'id': u'7B4hKK0S9QYnaoqa9OuwgX'}
+{'genres': [u'black metal', u'brutal death metal', u'death metal', u'deathgrind', u'groove metal', u'melodic death metal', u'metal', u'metalcore', u'speed metal', u'swedish metal', u'technical death metal', u'thrash metal'], 'popularity': 49, 'name': u'At The Gates', 'id': u'6YXarbjg36ODFPez0PnOlD'}
+{'genres': [u'british alternative rock'], 'popularity': 66, 'name': u'DON BROCO', 'id': u'1aOt6LvXOV6I8dv1A5Diia'}
+{'genres': [u'alternative rock', u'art pop', u'art rock', u'british folk', u'canterbury scene', u'chamber pop', u'country rock', u'dance rock', u'experimental', u'experimental rock', u'folk', u'folk rock', u'fourth world', u'lo-fi', u'melancholia', u'neo-psychedelic', u'new wave', u'no wave', u'post-punk', u'protopunk', u'psychedelic rock', u'pub rock', u'roots rock', u'singer-songwriter', u'slow core', u'traditional folk', u'uk post-punk'], 'popularity': 52, 'name': u'John Cale', 'id': u'5MWBg16f5UYiaSlyVhzlIW'}
+{'genres': [u'dirty south rap', u'hip hop', u'pop rap', u'rap', u'southern hip hop'], 'popularity': 71, 'name': u'Yelawolf', 'id': u'68DWke2VjdDmA75aJX5C57'}
+{'genres': [u'acid house', u'art pop', u'art rock', u'britpop', u'chamber psych', u'dream pop', u'electronic', u'indie christmas', u'madchester', u'new romantic', u'new wave', u'new wave pop', u'synthpop'], 'popularity': 48, 'name': u'Saint Etienne', 'id': u'1N2FgBLehaq77UEdJhCt7f'}
+{'genres': [], 'popularity': 41, 'name': u'Equador', 'id': u'1M1PiPawULb9ZLZ5tYiE82'}
+{'genres': [u'art rock', u'chamber pop', u'dance rock', u'melancholia', u'new romantic', u'new wave', u'new wave pop', u'synthpop', u'uk post-punk'], 'popularity': 52, 'name': u'Prefab Sprout', 'id': u'4w3QqrcmBv8dasemwBXmxf'}
+{'genres': [u'indie garage rock', u'indie psych-rock', u'preverb'], 'popularity': 51, 'name': u'Soccer Mommy', 'id': u'4wXchxfTTggLtzkoUhO86Q'}
+{'genres': [u'alternative hip hop', u'hip hop', u'pop rap', u'underground pop rap'], 'popularity': 65, 'name': u'Atmosphere', 'id': u'1GAS0rb4L8VTPvizAx2O9J'}
+{'genres': [u'neo soul', u'pop christmas', u'pop rock', u'soul', u'soul christmas'], 'popularity': 64, 'name': u'Macy Gray', 'id': u'4ylR3zwA0zaapAu94fktwa'}
+{'genres': [u'folk-pop', u'melancholia'], 'popularity': 46, 'name': u'The Swell Season', 'id': u'2buJppisWV2GWWBWgkK074'}
+{'genres': [u'alternative hip hop', u'art pop', u'escape room', u'freak folk', u'hip hop', u'indie r&b', u'underground hip hop', u'wonky'], 'popularity': 49, 'name': u'Shabazz Palaces', 'id': u'6C403AR4y6PjN0xNNGh42m'}
+{'genres': [u'classic swedish pop', u'swedish alternative rock', u'swedish folk pop', u'swedish indie pop', u'swedish indie rock', u'swedish pop'], 'popularity': 67, 'name': u'kent', 'id': u'4KXp3xtaz1wWXnu5u34eVX'}
+{'genres': [u'reggae', u'reggae fusion'], 'popularity': 72, 'name': u'Damian Marley', 'id': u'3QJzdZJYIAcoET1GcfpNGi'}
+{'genres': [u'dance pop', u'pop', u'post-teen pop', u'teen pop', u'viral pop'], 'popularity': 75, 'name': u'Sabrina Carpenter', 'id': u'74KM79TiuVKeVCqs8QtB0B'}
+{'genres': [u'tropical house'], 'popularity': 65, 'name': u'M\xf8me', 'id': u'4lDXfIznmGueBgTjI3qGUX'}
+{'genres': [u'alternative metal', u'crossover thrash', u'doom metal', u'funk rock', u'groove metal', u'grunge', u'hard rock', u'metal', u'nu metal', u'rap metal', u'rap rock', u'sludge metal', u'stoner metal', u'stoner rock', u'thrash metal'], 'popularity': 53, 'name': u'Corrosion Of Conformity', 'id': u'1BBIIH0h76KN8gYeXFcPjR'}
+{'genres': [u'afrobeat', u'classic funk rock', u'deep funk', u'funk', u'jazz blues', u'jazz funk', u'memphis soul', u'soul', u'soul blues', u'southern soul'], 'popularity': 54, 'name': u'Shuggie Otis', 'id': u'4YHtIE7FI8ITfekzzN5Jpl'}
+{'genres': [u'eurodance', u'trance'], 'popularity': 57, 'name': u'Robert Miles', 'id': u'2YVF0Ou5zIc4mpgtLIlGN0'}
+{'genres': [u'austindie', u'indie pop', u'indie poptimism', u'indie psych-rock', u'indietronica', u'modern rock', u'vapor soul'], 'popularity': 61, 'name': u'Max Frost', 'id': u'7r8xR0LmnaAM623MmRDn1V'}
+{'genres': [u'afrobeat', u'classic funk rock', u'deep funk', u'funk', u'indie jazz', u'soul', u'trip hop'], 'popularity': 56, 'name': u'El Michels Affair', 'id': u'0cLrgpG3pW4MX4nD8h6qCc'}
+{'genres': [u'latin', u'latin pop', u'pop', u'reggaeton', u'tropical'], 'popularity': 86, 'name': u'Sebastian Yatra', 'id': u'07YUOmWljBTXwIseAUd9TW'}
+{'genres': [u'focus'], 'popularity': 61, 'name': u'Kylian Rebour', 'id': u'2po95mGJ6RRvZFtta9LUyX'}
+{'genres': [u'focus'], 'popularity': 66, 'name': u'Alan Ellis', 'id': u'624bnI8CyQTzYDFICtmHTN'}
+{'genres': [], 'popularity': 63, 'name': u'Frank Turner', 'id': u'27M9shmwhIjRo7WntpT9Rp'}
+{'genres': [u'bebop', u'contemporary post-bop', u'cool jazz', u'hard bop', u'jazz', u'jazz blues', u'jazz fusion', u'jazz trio', u'soul jazz', u'stride', u'vocal jazz'], 'popularity': 55, 'name': u'Bill Evans Trio', 'id': u'3VEG6gxFIMfl4Cdog26avS'}
+{'genres': [u'album rock', u'art rock', u'blues-rock', u'british blues', u'classic funk rock', u'classic rock', u'folk rock', u'hard rock', u'mellow gold', u'rock', u'roots rock', u'singer-songwriter', u'soft rock', u'southern rock', u'symphonic rock'], 'popularity': 59, 'name': u'Peter Frampton', 'id': u'0543y7yrvny4KymoaneT4W'}
+{'genres': [u'adult standards', u'album rock', u'mellow gold', u'new wave pop', u'soft rock'], 'popularity': 63, 'name': u'Richard Marx', 'id': u'0grdhNhiRLFBaFVyybqsj6'}
+{'genres': [u'breakbeat', u'brostep', u'drum and bass', u'edm', u'electro house', u'jungle', u'neurofunk'], 'popularity': 56, 'name': u'Noisia', 'id': u'4YWj8sohRDjL9deiuRvEEY'}
+{'genres': [u'avant-garde', u'classical', u'compositional ambient', u'contemporary classical', u'drone', u'experimental', u'fourth world', u'minimal', u'modern performance'], 'popularity': 52, 'name': u'Steve Reich', 'id': u'1aVONoJ0EM97BB26etc1vo'}
+{'genres': [u'abstract', u'acid house', u'drill and bass', u'electronic', u'glitch', u'intelligent dance music', u'microhouse', u'ninja', u'trip hop', u'turntablism'], 'popularity': 45, 'name': u'Squarepusher', 'id': u'4mtHSXwIHihO6MWNq5Qoko'}
+{'genres': [u'adult standards', u'cabaret', u'christmas', u'easy listening', u'jazz blues', u'jazz christmas', u'lounge', u'swing', u'vocal jazz'], 'popularity': 61, 'name': u'Peggy Lee', 'id': u'602DnpaSXJB4b9DZrvxbDc'}
+{'genres': [], 'popularity': 45, 'name': u'Andrew Huang', 'id': u'7HifubxN0gO1nHbRIqWhrY'}
+{'genres': [u'indie psych-rock'], 'popularity': 49, 'name': u'Fazerdaze', 'id': u'2awB7Ol181cocZcLLNBBAh'}
+{'genres': [u'album rock', u'art rock', u'dance rock', u'mellow gold', u'new romantic', u'new wave', u'new wave pop', u'soft rock', u'synthpop'], 'popularity': 60, 'name': u'Thompson Twins', 'id': u'5jVeqi3PNaTOajfvBa4uFn'}
+{'genres': [u'danish pop', u'dream pop', u'indie christmas', u'melancholia'], 'popularity': 51, 'name': u'Mew', 'id': u'6kDMoHTcBICPILP2aclPWZ'}
+{'genres': [u'alternative metal', u'christian metal', u'death core', u'groove metal', u'melodic metalcore', u'metalcore', u'nu metal', u'rap metal', u'screamo'], 'popularity': 58, 'name': u'As I Lay Dying', 'id': u'2vd2HnNh4pdYa9gDVHFjEu'}
+{'genres': [u'vancouver indie'], 'popularity': 40, 'name': u'Brasstronaut', 'id': u'42Cxt8vXx98Cvdj85iGzTW'}
+{'genres': [], 'popularity': 58, 'name': u'Cautious Clay', 'id': u'6iWuBN32BqCJAeXW6o3nil'}
+{'genres': [u'indie pop'], 'popularity': 37, 'name': u'Mates of State', 'id': u'4IELX7NrLBXuw8f51cUZuM'}
+{'genres': [u'comic'], 'popularity': 61, 'name': u'Andrew W.K.', 'id': u'4YJR4xviDKHoelt9WKHlBa'}
+{'genres': [u'sertanejo universitario'], 'popularity': 79, 'name': u'Gusttavo Lima', 'id': u'7MiDcPa6UiV3In7lIM71IN'}
+{'genres': [u'indie r&b'], 'popularity': 69, 'name': u'Jidenna', 'id': u'4TsHKU8l8Wq7n7OPVikirn'}
+{'genres': [u'contemporary jazz', u'dark jazz', u'fourth world', u'indie jazz', u'new tribe', u'ninja', u'nu jazz'], 'popularity': 52, 'name': u'Portico Quartet', 'id': u'7sYipTRgDXS2JVOPEhRutx'}
+{'genres': [u'bossa nova', u'forro', u'mpb', u'samba', u'velha guarda'], 'popularity': 59, 'name': u'Milton Nascimento', 'id': u'3Bnq7jiU506HcPjRgQ43TM'}
+{'genres': [u'art pop', u'art rock', u'british folk', u'country rock', u'experimental', u'folk', u'folk rock', u'psychedelic rock', u'roots rock', u'singer-songwriter', u'traditional folk'], 'popularity': 50, 'name': u'Tim Buckley', 'id': u'6zHRqvws8dVeqL8D31ponr'}
+{'genres': [u'adult standards', u'brill building pop', u'bubblegum pop', u'christmas', u'folk rock', u'lounge'], 'popularity': 61, 'name': u'Frankie Valli', 'id': u'3CDKmzJu6uwEGnPLLZffpD'}
+{'genres': [u'chillhop'], 'popularity': 61, 'name': u'Sleepdealer', 'id': u'0kVNa1qBak8arcwcUeLu90'}
+{'genres': [u'vapor soul'], 'popularity': 57, 'name': u'Melvv', 'id': u'7cae9Fkz2R1NDHWtdnaE8d'}
+{'genres': [u'art rock', u'neo-progressive', u'progressive metal', u'progressive rock', u'symphonic rock'], 'popularity': 47, 'name': u'The Pineapple Thief', 'id': u'4lrBMUSk8PiNnCEZfsmPAk'}
+{'genres': [u'alternative dance', u'art pop', u'electroclash', u'electronic', u'new rave', u'synthpop', u'trip hop'], 'popularity': 51, 'name': u'R\xf3is\xedn Murphy', 'id': u'3qwabfaWewpfli7hMNM3O8'}
+{'genres': [u'art rock', u'avant-garde jazz', u'bebop', u'contemporary post-bop', u'cool jazz', u'exotica', u'experimental', u'experimental rock', u'fourth world', u'free improvisation', u'free jazz', u'jazz', u'jazz christmas', u'kraut rock', u'lounge', u'minimal', u'no wave'], 'popularity': 47, 'name': u'Sun Ra', 'id': u'0tIODqvzGUoEaK26rK4pvX'}
+{'genres': [u'dance pop', u'norwegian hip hop', u'pop rap', u'tropical house'], 'popularity': 66, 'name': u'Madcon', 'id': u'6c4sUNBgdonFJz8Kx2VsGz'}
+{'genres': [u'djent', u'progressive post-hardcore'], 'popularity': 58, 'name': u'Chon', 'id': u'2JFljHPanIjYy2QqfNYvC0'}
+{'genres': [u'dance pop', u'hip hop', u'hip pop', u'indie r&b', u'neo soul', u'pop', u'pop rap', u'r&b', u'urban contemporary'], 'popularity': 63, 'name': u'Aaliyah', 'id': u'0urTpYCsixqZwgNTkPJOJ4'}
+{'genres': [u'latin hip hop'], 'popularity': 63, 'name': u'Residente', 'id': u'5GcWBUX00IPuWVGMIRK1sS'}
+{'genres': [u'alternative rock', u'canadian indie', u'dance-punk', u'indie pop', u'indie rock', u'lo-fi', u'modern rock', u'neo-psychedelic', u'noise pop', u'noise rock', u'vancouver indie'], 'popularity': 49, 'name': u'Japandroids', 'id': u'2WcCoPxAWFNSCvsFPrpf30'}
+{'genres': [u'deep funk carioca'], 'popularity': 77, 'name': u'Mc Zaac', 'id': u'76Xa625geVw0Q7BdyxNjA2'}
+{'genres': [u'dance pop', u'k-pop', u'korean pop'], 'popularity': 60, 'name': u'SISTAR', 'id': u'2wTLheTmMcFCA4hdY8hZJP'}
+{'genres': [u'chamber psych', u'indie r&b', u'wonky'], 'popularity': 51, 'name': u'Ghostpoet', 'id': u'69lEbRQRe29JdyLrewNAvD'}
+{'genres': [u'dance pop', u'dance rock', u'europop', u'neo mellow', u'new wave pop', u'pop rock', u'scottish rock'], 'popularity': 61, 'name': u'Texas', 'id': u'5JsdVATHNPE0XdMFMRoSuf'}
+{'genres': [u'classify', u'scorecore', u'soundtrack'], 'popularity': 64, 'name': u'Craig Armstrong', 'id': u'526q7RxT5KA1VGeQ5GMSHO'}
+{'genres': [u'bebop', u'contemporary post-bop', u'cool jazz', u'hard bop', u'jazz', u'jazz blues', u'jazz funk', u'jazz fusion', u'soul jazz'], 'popularity': 56, 'name': u'Wes Montgomery', 'id': u'03YhcM6fxypfwckPCQV8pQ'}
+{'genres': [], 'popularity': 53, 'name': u'Ria Mae', 'id': u'3QvuHlyW42Ei3AyGOO4AMT'}
+{'genres': [u'acoustic blues', u'blues', u'blues-rock', u'chicago blues', u'classic rock', u'country blues', u'delta blues', u'electric blues', u'harmonica blues', u'jazz blues', u'louisiana blues', u'memphis blues', u'memphis soul', u'modern blues', u'piedmont blues', u'soul', u'soul blues', u'texas blues', u'traditional blues'], 'popularity': 58, 'name': u"Howlin' Wolf", 'id': u'0Wxy5Qka8BN9crcFkiAxSR'}
+{'genres': [u'garage punk', u'oi'], 'popularity': 34, 'name': u'Blitz', 'id': u'7H3mzoTRkxJuqKBRYcykwL'}
+{'genres': [u'christian alternative rock', u'christian christmas', u'christian rock', u'dreamo', u'emo', u'modern rock', u'pop punk', u'pop rock', u'post-grunge', u'punk christmas', u'screamo'], 'popularity': 58, 'name': u'Anberlin', 'id': u'5v61OSg53KaQxGMpErkBNp'}
+{'genres': [u'folk rock', u'singer-songwriter'], 'popularity': 62, 'name': u'Rodr\xedguez', 'id': u'5PrHzxc3kFm4hIrGNmelpX'}
+{'genres': [u'underground hip hop'], 'popularity': 54, 'name': u'Cozz', 'id': u'5oFkj1qSlyBUmV5d6Edgtq'}
+{'genres': [u'alternative metal', u'groove metal', u'industrial metal', u'industrial rock', u'metalcore', u'nu metal', u'post-grunge', u'rap metal', u'rap rock'], 'popularity': 58, 'name': u'Soil', 'id': u'4PoYwGOztIrPpBfRIlMSxP'}
+{'genres': [u'dance pop'], 'popularity': 70, 'name': u'INNA', 'id': u'2w9zwq3AktTeYYMuhMjju8'}
+{'genres': [u'acoustic pop', u'folk-pop', u'neo mellow', u'permanent wave', u'pop rock', u'singer-songwriter'], 'popularity': 64, 'name': u'David Gray', 'id': u'7J2lZBANizgPNfUzux31PV'}
+{'genres': [u'bubblegum dance', u'dance pop', u'europop', u'new wave pop', u'pop', u'pop christmas', u'post-teen pop'], 'popularity': 60, 'name': u'Girls Aloud', 'id': u'12EtLdLfJ41vUOoVzPZIUy'}
+{'genres': [u'adult standards', u'blues', u'brill building pop', u'christmas', u'classic rock', u'delta blues', u'folk rock', u'jazz blues', u'jazz christmas', u'lounge', u'motown', u'rock-and-roll', u'rockabilly', u'soul', u'soul blues', u'soul christmas', u'southern soul', u'traditional blues'], 'popularity': 61, 'name': u'Little Richard', 'id': u'4xls23Ye9WR9yy3yYMpAMm'}
+{'genres': [u'reggae', u'reggae fusion', u'reggae rock', u'roots reggae'], 'popularity': 61, 'name': u'Tribal Seeds', 'id': u'7jgZFR40bWjwOrRCOZFB02'}
+{'genres': [u'chillhop'], 'popularity': 59, 'name': u'Knowmadic', 'id': u'0HcyeAioEKhfwVcJAoyN36'}
+{'genres': [u'hip pop', u'r&b', u'urban contemporary'], 'popularity': 48, 'name': u'Michelle Williams', 'id': u'6t7nbFAc2dUa7oNu7kBOui'}
+{'genres': [u'acoustic blues', u'blues', u'blues-rock', u'classic rock', u'country blues', u'delta blues', u'electric blues', u'folk rock', u'jazz blues', u'mellow gold', u'modern blues', u'piedmont blues', u'rock', u'roots rock', u'singer-songwriter', u'soul blues', u'texas blues', u'traditional blues'], 'popularity': 62, 'name': u'J.J. Cale', 'id': u'06nsZ3qSOYZ2hPVIMcr1IN'}
+{'genres': [u'hollywood'], 'popularity': 67, 'name': u'John Travolta', 'id': u'4hKkEHkaqCsyxNxXEsszVH'}
+{'genres': [u'disco house', u'electronic', u'progressive house', u'progressive trance', u'trance', u'uplifting trance'], 'popularity': 57, 'name': u'Chicane', 'id': u'5GxyeQagayzZOg4UwffQlD'}
+{'genres': [u'black metal'], 'popularity': 45, 'name': u'Mayhem', 'id': u'0dR10i73opHXuRuLbgxltM'}
+{'genres': [], 'popularity': 60, 'name': u'Michael Sembello', 'id': u'771qBvjnXOH9Azr6lKy6FB'}
+{'genres': [u'disney', u'movie tunes'], 'popularity': 57, 'name': u'Roger Bart', 'id': u'4sZw3BLoQ9SniX4mcoh80b'}
+{'genres': [u'art rock', u'mellow gold', u'singer-songwriter', u'soft rock'], 'popularity': 64, 'name': u'Mark Knopfler', 'id': u'0FI0kxP0BWurTz8cB8BBug'}
+{'genres': [u'emo', u'modern rock', u'pop punk', u'pop rock', u'punk', u'skate punk'], 'popularity': 56, 'name': u'The Ataris', 'id': u'3LC8PXXgk7YtAIobtjSdNi'}
+{'genres': [u'adult standards', u'neo mellow', u'pop christmas', u'vocal jazz'], 'popularity': 63, 'name': u'Jamie Cullum', 'id': u'3XxxEq6BREC57nCWXbQZ7o'}
+{'genres': [u'folk-pop', u'indie christmas', u'indie pop', u'modern rock', u'permanent wave', u'piano rock', u'pop christmas', u'pop rock'], 'popularity': 57, 'name': u'Ben Folds', 'id': u'55tif8708yyDQlSjh3Trdu'}
+{'genres': [u'turntablism'], 'popularity': 57, 'name': u'C2C', 'id': u'28INUgyzTTRbvSphrJbgZ2'}
+{'genres': [u'electropowerpop'], 'popularity': 39, 'name': u'Innerpartysystem', 'id': u'4NI9CJ8mj82jBvMLSen16L'}
+{'genres': [u'album rock', u'glam metal', u'hard rock', u'rock'], 'popularity': 61, 'name': u'Mr. Big', 'id': u'5OfhOoKunSnuubxxRML8J3'}
+{'genres': [], 'popularity': 62, 'name': u'J\xe3o', 'id': u'59FrDXDVJz0EKqYg39dnT2'}
+{'genres': [], 'popularity': 68, 'name': u'Isaiah', 'id': u'5lXfVoQxVgC5fpjkVqvNYn'}
+{'genres': [u'canadian indie', u'chamber pop', u'indie pop', u'modern rock', u'shimmer pop', u'vancouver indie'], 'popularity': 60, 'name': u'Mother Mother', 'id': u'0e86yPdC41PGRkLp2Q1Bph'}
+{'genres': [u'classic russian rock', u'russian pop', u'russian punk', u'russian rock'], 'popularity': 51, 'name': u'\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434', 'id': u'2a3EJeQjcAelthFGr5bzQC'}
+{'genres': [u'epicore', u'scorecore', u'soundtrack', u'video game music'], 'popularity': 62, 'name': u'Alan Silvestri', 'id': u'0Xk15jHKly4c3AhPr5vjoA'}
+{'genres': [u'shimmer pop'], 'popularity': 60, 'name': u'Freedom Fry', 'id': u'195hFqaTDENqLCcG8uGtM7'}
+{'genres': [u'gothic metal', u'gothic symphonic metal', u'heavy christmas', u'power metal', u'progressive metal', u'symphonic metal'], 'popularity': 36, 'name': u'Edenbridge', 'id': u'4kRllkt5ryNVBqFinVjBQZ'}
+{'genres': [u'chamber pop'], 'popularity': 56, 'name': u'Benjamin Clementine', 'id': u'7zHIrsSBL7A0gEJfzv1m7z'}
+{'genres': [u'chillhop'], 'popularity': 61, 'name': u'Mujo', 'id': u'0vg08N1z9G9LrGLkG1nNDS'}
+{'genres': [u'filter house', u'retro electro'], 'popularity': 50, 'name': u'College', 'id': u'11TlWPqyDFLHGccTFQhcc6'}
+{'genres': [u'chamber pop', u'folk-pop', u'freak folk', u'indie folk', u'new weird america', u'singer-songwriter'], 'popularity': 52, 'name': u'Alela Diane', 'id': u'2QIHd0B2VIKlmLyoq4lUr7'}
+{'genres': [u'boy band', u'dance pop', u'pop', u'pop christmas', u'post-teen pop'], 'popularity': 68, 'name': u'Jonas Brothers', 'id': u'7gOdHgIoIKoe4i9Tta6qdD'}
+{'genres': [u'album rock', u'dance rock', u'mellow gold', u'new romantic', u'new wave', u'new wave pop', u'power pop', u'rock', u'soft rock', u'synthpop'], 'popularity': 62, 'name': u'The Romantics', 'id': u'3daM7asS0gCFvyLemNx2EE'}
+{'genres': [u'alternative rock', u'mellow gold', u'neo mellow', u'pop rock', u'post-grunge', u'rock'], 'popularity': 60, 'name': u'The Wallflowers', 'id': u'0jJNGWrpjGIHUdTTJiIYeB'}
+{'genres': [u'art rock', u'canterbury scene', u'classic funk rock', u'classic rock', u'dance rock', u'experimental', u'experimental rock', u'folk rock', u'garage rock', u'kraut rock', u'no wave', u'outsider', u'post-punk', u'protopunk', u'psychedelic rock', u'punk blues', u'singer-songwriter', u'uk post-punk', u'zolo'], 'popularity': 49, 'name': u'Captain Beefheart & His Magic Band', 'id': u'2k8kY9zHUWxuTtwV4UutHw'}
+{'genres': [], 'popularity': 68, 'name': u'Ludmilla', 'id': u'3CDoRporvSjdzTrm99a3gi'}
+{'genres': [u'art pop', u'chillwave', u'indie psych-pop', u'indie r&b', u'shimmer pop'], 'popularity': 57, 'name': u'Hundred Waters', 'id': u'108ugtkRFQzP9nGgNiyERO'}
+{'genres': [u'alternative country', u'deep new americana', u'folk-pop', u'funk', u'indie folk', u'indie pop', u'jam band', u'la indie', u'modern blues', u'modern rock', u'new americana', u'pop rock', u'roots rock', u'singer-songwriter', u'stomp and holler'], 'popularity': 61, 'name': u'Dawes', 'id': u'0CDUUM6KNRvgBFYIbWxJwV'}
+{'genres': [u'acoustic blues', u'blues', u'blues-rock', u'chicago blues', u'classic rock', u'country blues', u'delta blues', u'electric blues', u'folk rock', u'hard rock', u'jazz blues', u'mellow gold', u'psychedelic rock', u'rock', u'roots rock', u'soul blues', u'southern rock', u'texas blues', u'traditional blues'], 'popularity': 58, 'name': u'Canned Heat', 'id': u'27a0GiCba9K9lnkKidroFU'}
+{'genres': [u'french indie pop'], 'popularity': 63, 'name': u'Imany', 'id': u'74eY8wbrhhVD7pACbBHwHw'}
+{'genres': [], 'popularity': 46, 'name': u'Emile Haynie', 'id': u'3HlAg5EbFYOdlVPooU9f0K'}
+{'genres': [u'ambient', u'art pop', u'bass music', u'chamber psych', u'escape room', u'experimental', u'fluxwork', u'fourth world', u'freak folk', u'gauze pop', u'glitch', u'grave wave', u'hauntology', u'indie r&b', u'mandible', u'microhouse', u'outsider house', u'vaporwave', u'witch house'], 'popularity': 41, 'name': u'Laurel Halo', 'id': u'0sRVVDpgF2sKzPBkDszzUl'}
+{'genres': [u'bass trap', u'brostep', u'edm', u'electronic trap', u'moombahton'], 'popularity': 66, 'name': u'Keys N Krates', 'id': u'6c1pBXHYjFcGQQNO5MMsdd'}
+{'genres': [u'focus'], 'popularity': 63, 'name': u'Piotr Miteska', 'id': u'76vFPXp4WOuiv8ppkBcd4c'}
+{'genres': [], 'popularity': 62, 'name': u'Dorothy', 'id': u'6IOvhXyk5edbA2DVaeP9Up'}
+{'genres': [u'dance pop', u'latin', u'latin alternative', u'latin arena pop', u'latin pop', u'rock en espanol'], 'popularity': 61, 'name': u'Belanova', 'id': u'3oNy8cjBtJzLC07I70sklp'}
+{'genres': [u'classic rock'], 'popularity': 59, 'name': u'Ram Jam', 'id': u'6FITmSxIMsk6TfulFiCIIz'}
+{'genres': [], 'popularity': 83, 'name': u'Nego do Borel', 'id': u'1B0Rp4SWGnFgGCPU5Pju6E'}
+{'genres': [u'classical', u'early modern classical', u'romantic era'], 'popularity': 63, 'name': u'Gabriel Faur\xe9', 'id': u'2gClsBep1tt1rv1CN210SO'}
+{'genres': [u'art pop', u'canadian indie', u'chamber pop', u'folk-pop', u'freak folk', u'garage psych', u'indie folk', u'indie pop', u'indie rock', u'lo-fi', u'neo-psychedelic', u'new weird america', u'noise pop', u'preverb', u'slow core', u'stomp and holler'], 'popularity': 48, 'name': u'Chad VanGaalen', 'id': u'597yzFFRvWnxCtDInHwciZ'}
+{'genres': [u'ambient', u'art pop', u'chamber psych', u'compositional ambient', u'dark jazz', u'drone', u'fluxwork', u'fourth world', u'freak folk', u'glitch', u'mandible', u'microhouse', u'warm drone'], 'popularity': 43, 'name': u'Ben Frost', 'id': u'6qEM4txXHvfMbOUOK9L7pl'}
+{'genres': [u'anarcho-punk'], 'popularity': 57, 'name': u'Chumbawamba', 'id': u'0TcYeHEK9sBtv7xPbKhzHz'}
+{'genres': [u'drum and bass', u'edm', u'liquid funk'], 'popularity': 65, 'name': u'Netsky', 'id': u'5TgQ66WuWkoQ2xYxaSTnVP'}
+{'genres': [], 'popularity': 57, 'name': u'Bob Moses', 'id': u'6LHsnRBUYhFyt01PdKXAF5'}
+{'genres': [u'classic polish pop', u'polish pop'], 'popularity': 44, 'name': u'Anita Lipnicka', 'id': u'3JIRLDbCJ55I5nevDYiasK'}
+{'genres': [u'dance rock', u'experimental rock', u'no wave', u'post-punk', u'riot grrrl', u'uk post-punk'], 'popularity': 37, 'name': u'Delta 5', 'id': u'2qe52cWdi4IRtgg14CLInb'}
+{'genres': [u'album rock', u'blues-rock', u'classic rock', u'electric blues', u'hard rock', u'modern blues', u'rock', u'texas blues'], 'popularity': 59, 'name': u'Gary Moore', 'id': u'23wr9RJZg0PmYvVFyNkQ4j'}
+{'genres': [u'soundtrack'], 'popularity': 55, 'name': u'Jon Brion', 'id': u'57YJQe0ayvIaRZJ3PW5nFP'}
+{'genres': [u'boy band', u'dance pop', u'new jack swing', u'pop', u'pop christmas', u'quiet storm', u'r&b', u'soul christmas', u'urban contemporary'], 'popularity': 73, 'name': u'Boyz II Men', 'id': u'6O74knDqdv3XaWtkII7Xjp'}
+{'genres': [u'acid house', u'bass music', u'deep house', u'downtempo', u'electronic', u'escape room', u'float house', u'fluxwork', u'future garage', u'intelligent dance music', u'microhouse', u'outsider house', u'vaporwave', u'wonky'], 'popularity': 47, 'name': u'Lone', 'id': u'5wZOrGWdg4hq7KIRMupJdI'}
+{'genres': [u'ccm', u'christian alternative rock', u'christian christmas', u'christian music', u'christian punk', u'christian rock', u'emo', u'modern rock', u'neo mellow', u'pop christmas', u'pop punk', u'pop rock', u'punk christmas'], 'popularity': 63, 'name': u'Relient K', 'id': u'3nJWBJvK7uGvfp4iZh9CkN'}
+{'genres': [u'chanson'], 'popularity': 64, 'name': u'Carla Bruni', 'id': u'1HVwzNriKEjaeE06okqSpx'}
+{'genres': [u'aussietronica', u'australian dance', u'australian hip hop', u'deep australian indie', u'downtempo', u'electronic trap', u'escape room'], 'popularity': 62, 'name': u'Hermitude', 'id': u'3fmMaLC5jjf2N4EC2kTx0u'}
+{'genres': [u'dance pop', u'disco house', u'europop', u'new wave pop', u'pop rock', u'strut', u'synthpop', u'vocal house'], 'popularity': 58, 'name': u'Sophie Ellis-Bextor', 'id': u'2cBh5lVMg222FFuRU7EfDE'}
+{'genres': [], 'popularity': 53, 'name': u'Ben Botfield', 'id': u'3sLeazIw2jhX90UbaDSYPy'}
+{'genres': [u'art pop', u'art rock', u'experimental', u'experimental rock', u'melancholia', u'post-punk', u'psychedelic rock', u'singer-songwriter'], 'popularity': 61, 'name': u'Nico', 'id': u'0IwlY33zbBXN7zlS9DP2Cj'}
+{'genres': [u'comic', u'pop punk', u'pop rock', u'punk', u'ska', u'ska punk', u'skate punk'], 'popularity': 59, 'name': u'Reel Big Fish', 'id': u'3bXhZFreBJF4QDUUiMmtZW'}
+{'genres': [u'alternative emo', u'anthem emo', u'emo', u'melodic hardcore', u'pop punk', u'screamo'], 'popularity': 54, 'name': u'Title Fight', 'id': u'2CnhqfjUG0qzsru0SMuhrk'}
+{'genres': [u'alternative hip hop', u'hardcore hip hop', u'hip hop', u'turntablism'], 'popularity': 55, 'name': u'Souls Of Mischief', 'id': u'5Rzqmz1zAszembFHGZQuAt'}
+{'genres': [u'acoustic pop', u'ccm', u'christian alternative rock', u'christian music', u'christian rock', u'indiecoustica', u'neo mellow', u'pop rock', u'worship'], 'popularity': 69, 'name': u'NEEDTOBREATHE', 'id': u'610EjgFatGvVPtib97jQ8G'}
+{'genres': [u'art rock', u'dance rock', u'disco', u'new romantic', u'new wave', u'new wave pop', u'soft rock', u'synthpop'], 'popularity': 56, 'name': u'ABC', 'id': u'2s79xe5F6eUQkjwjww27Fh'}
+{'genres': [], 'popularity': 55, 'name': u'Blue Foundation', 'id': u'1FWybrAwiSa0zKibdLfZZr'}
+{'genres': [u'alternative metal', u'groove metal', u'industrial metal', u'industrial rock', u'metalcore', u'nu metal', u'post-grunge', u'rap metal', u'rap rock'], 'popularity': 62, 'name': u'Sevendust', 'id': u'35Uu85Pq33mK8x1jYqsHY2'}
+{'genres': [u'adult standards', u'brill building pop', u'bubblegum pop', u'christmas', u'doo-wop', u'folk christmas', u'folk rock', u'lounge', u'mellow gold', u'merseybeat', u'nashville sound', u'rock-and-roll', u'rockabilly', u'traditional country'], 'popularity': 58, 'name': u'Ricky Nelson', 'id': u'73sSFVlM6pkweLXE8qw1OS'}
+{'genres': [u'bossa nova', u'mpb', u'pagode', u'samba'], 'popularity': 66, 'name': u'Seu Jorge', 'id': u'0i1s9WcIu0PrUvHzALgofo'}
+{'genres': [u'art pop', u'metropopolis', u'shimmer pop'], 'popularity': 60, 'name': u'Christine and the Queens', 'id': u'04vj3iPUiVh5melWr0w3xT'}
+{'genres': [u'big room', u'deep big room', u'deep tropical house', u'edm', u'electro house', u'pop', u'progressive electro house', u'tropical house'], 'popularity': 70, 'name': u'Syn Cole', 'id': u'6i1GVNJCyyssRwXmnaeEFH'}
+{'genres': [u'deep tropical house', u'tropical house'], 'popularity': 65, 'name': u'Feder', 'id': u'5KnoVkIUGmK0PiDKMjz2LM'}
+{'genres': [u'alternative hip hop', u'escape room', u'gangster rap', u'hip hop', u'indie r&b', u'pop rap', u'rap', u'southern hip hop', u'trap music', u'underground hip hop'], 'popularity': 69, 'name': u'Ab-Soul', 'id': u'0g9vAlRPK9Gt3FKCekk4TW'}
+{'genres': [u'chamber pop', u'indie folk'], 'popularity': 51, 'name': u'Low Roar', 'id': u'5WoWlP0ihSFIxnppxjwSgE'}
+{'genres': [u'album rock', u'glam metal', u'hard rock', u'heavy christmas', u'rock'], 'popularity': 61, 'name': u'Warrant', 'id': u'7HLvzuM9p11k9lUQfSM4Rq'}
+{'genres': [u'dwn trap', u'rap', u'trap music', u'underground hip hop'], 'popularity': 77, 'name': u'YBN Nahmir', 'id': u'3gGUMEwIX6XodWsYEvKSal'}
+{'genres': [u'indie garage rock'], 'popularity': 55, 'name': u'Teen Suicide', 'id': u'2cAvReLDmjFQtCJFDJbHBU'}
+{'genres': [], 'popularity': 67, 'name': u"Scott Bradlee's Postmodern Jukebox", 'id': u'5HYNPEO2NNBONQkp3Mvwvc'}
+{'genres': [u'britpop', u'madchester'], 'popularity': 54, 'name': u'Cornershop', 'id': u'3Kf7VEIRWquxrNIuyJZnfF'}
+{'genres': [u'abstract beats', u'alternative hip hop', u'chillhop', u'deep indie r&b', u'indie jazz', u'indie r&b', u'indietronica', u'underground hip hop', u'vaporwave', u'wonky'], 'popularity': 54, 'name': u'Mndsgn', 'id': u'4GcpBLY8g8NrmimWbssM26'}
+{'genres': [u'canadian indie'], 'popularity': 63, 'name': u'The Strumbellas', 'id': u'6ujr1NkqbZpYOhquczUUfl'}
+{'genres': [], 'popularity': 51, 'name': u'Francesco Tristano', 'id': u'19CMctG8DNWO0rHPE98ujj'}
+{'genres': [u'acid jazz', u'downtempo', u'electro jazz', u'electro swing', u'electronic', u'ninja', u'nu jazz', u'trip hop'], 'popularity': 56, 'name': u'Waldeck', 'id': u'6596yDTd94cIC3dlBptxDH'}
+{'genres': [u'chiptune', u'scorecore', u'video game music'], 'popularity': 58, 'name': u'Nobuo Uematsu', 'id': u'3V79CTgRnsDdJSTqKitROv'}
+{'genres': [u'emo', u'modern rock', u'pop rock'], 'popularity': 61, 'name': u'Angels & Airwaves', 'id': u'7xklw3WodFZiNNmQt3DIgp'}
+{'genres': [u'trip hop'], 'popularity': 36, 'name': u'Terranova', 'id': u'5ZrGK55yglfGEOvnB2japP'}
+{'genres': [u'groove metal', u'hard rock', u'melodic death metal', u'metal', u'neo classical metal', u'power metal', u'progressive metal', u'speed metal', u'thrash metal'], 'popularity': 55, 'name': u'Iced Earth', 'id': u'3KEixcRfBS5K3E91Vn1Kdy'}
+{'genres': [u'bay area indie', u'chamber pop', u'folk christmas', u'folk-pop', u'indie christmas', u'indie folk', u'indie pop', u'indie rock', u'modern rock', u'noise pop', u'shimmer pop', u'stomp and holler'], 'popularity': 55, 'name': u'Rogue Wave', 'id': u'2JSc53B5cQ31m0xTB7JFpG'}
+{'genres': [u'alternative dance', u'dance-punk', u'electroclash', u'electronic', u'indietronica', u'new rave', u'synthpop'], 'popularity': 49, 'name': u'Fischerspooner', 'id': u'5R7K1GezC0jy24v1R2n4x3'}
+{'genres': [], 'popularity': 77, 'name': u'Ina Wroldsen', 'id': u'7hssUdpvtY5oiARaUDgFZ3'}
+{'genres': [u'deep new americana'], 'popularity': 59, 'name': u'Mt. Joy', 'id': u'69tiO1fG8VWduDl3ji2qhI'}
+{'genres': [u'art pop', u'chamber pop', u'freak folk', u'new rave', u'new weird america'], 'popularity': 52, 'name': u'CocoRosie', 'id': u'05fo024EFotg9songSENOZ'}
+{'genres': [u'classify', u'compositional ambient', u'focus'], 'popularity': 66, 'name': u'Fabrizio Paterlini', 'id': u'0jrFMgW018F1XVnLtCXOKi'}
+{'genres': [u'deep indie r&b', u'escape room', u'indie r&b', u'neo soul', u'r&b'], 'popularity': 59, 'name': u'LION BABE', 'id': u'4VA3EAvncrTucjTmrvd4GE'}
+{'genres': [u'gothic metal', u'gothic symphonic metal', u'latin metal', u'metal', u'neo classical metal', u'power metal', u'progressive metal', u'swedish metal', u'symphonic black metal', u'symphonic metal'], 'popularity': 54, 'name': u'Therion', 'id': u'5c8Cw62ZYj9XO6iDLRDEsi'}
+{'genres': [u'chillwave', u'future funk', u'indie dream pop', u'indie r&b', u'indietronica', u'vapor soul', u'vapor twitch', u'vaporwave'], 'popularity': 55, 'name': u'Giraffage', 'id': u'4kubsO16bEfCADaVUyoYb6'}
+{'genres': [], 'popularity': 60, 'name': u'Gus Dapperton', 'id': u'6sHCvZe1PHrOAuYlwTLNH4'}
+{'genres': [u'dance pop', u'hip hop', u'hip pop', u'neo soul', u'new jack swing', u'r&b', u'rap', u'southern hip hop', u'urban contemporary'], 'popularity': 58, 'name': u'Total', 'id': u'1urjDGTd4iBze91Z1W1gu7'}
+{'genres': [u'big room', u'edm', u'electro house', u'progressive electro house', u'progressive house', u'progressive trance', u'trance', u'uplifting trance'], 'popularity': 63, 'name': u'Gareth Emery', 'id': u'0hprEC0nsWuQPSHag1O2Vi'}
+{'genres': [u'sertanejo universitario'], 'popularity': 82, 'name': u'Jorge & Mateus', 'id': u'1elUiq4X7pxej6FRlrEzjM'}
+{'genres': [u'contemporary country', u'country', u'country christmas', u'country road', u'neo mellow', u'pop rock'], 'popularity': 74, 'name': u'Rascal Flatts', 'id': u'0a1gHP0HAqALbEyxaD5Ngn'}
+{'genres': [u'alternative rock', u'art pop', u'bay area indie', u'chamber psych', u'dance-punk', u'experimental', u'experimental rock', u'folk christmas', u'freak folk', u'garage psych', u'indie christmas', u'indie rock', u'lo-fi', u'math rock', u'neo-psychedelic', u'noise pop', u'noise rock', u'post rock', u'preverb'], 'popularity': 45, 'name': u'Deerhoof', 'id': u'7AZwAitWq1KcFoIJhRWb6V'}
+{'genres': [u'escape room'], 'popularity': 47, 'name': u'Ivy Sole', 'id': u'4NcMrSi3B8eUVy6e1Ni3wu'}
+{'genres': [u'acoustic pop', u'chamber pop', u'folk christmas', u'folk-pop', u'indie christmas', u'indie folk', u'indie pop', u'neo mellow', u'pop christmas', u'singer-songwriter', u'stomp and holler'], 'popularity': 58, 'name': u'Alexi Murdoch', 'id': u'25mrbNwFzoqPWyYXLhiDRw'}
+{'genres': [], 'popularity': 60, 'name': u'La La Land Cast', 'id': u'6T70tWxqyIpdVbsFvPzqM3'}
+{'genres': [u'chicago soul', u'classic funk rock', u'disco', u'funk', u'memphis soul', u'motown', u'post-disco', u'quiet storm', u'soul', u'soul blues', u'soul christmas', u'southern soul', u'urban contemporary'], 'popularity': 62, 'name': u"The O'Jays", 'id': u'38h03gA85YYPeDPd9ER9rT'}
+{'genres': [u'deep german pop rock', u'german indie', u'indie anthem-folk', u'indie folk'], 'popularity': 61, 'name': u'Mighty Oaks', 'id': u'5AVJt6VYXT4hMRP8D3MRAC'}
+{'genres': [u'focus'], 'popularity': 58, 'name': u'Heinz Goldblatt', 'id': u'2huinmkGMFzltmc7Pe7fgf'}
+{'genres': [u'steampunk'], 'popularity': 44, 'name': u'That Handsome Devil', 'id': u'3MIk8tAIzBQ5iZWmlVLCCT'}
+{'genres': [u'folk-pop', u'indie folk', u'indie rock', u'louisville indie', u'modern blues', u'new americana', u'roots rock', u'shiver pop', u'stomp and holler'], 'popularity': 54, 'name': u'Jim James', 'id': u'1MhtYlJvUqfd2EgHSQTGK4'}
+{'genres': [], 'popularity': 45, 'name': u'Plastic Picnic', 'id': u'0oiS9wyrwFOAvNhYhP3udG'}
+{'genres': [u'soundtrack'], 'popularity': 55, 'name': u'Trent Reznor and Atticus Ross', 'id': u'6cadOIa5DTh6a5mGo5r4bh'}
+{'genres': [u'indie poptimism', u'pop', u'post-teen pop', u'viral pop'], 'popularity': 76, 'name': u"Olivia O'Brien", 'id': u'1QRj3hoop9Mv5VvHQkwPEp'}
+{'genres': [u'blues-rock', u'garage rock', u'punk blues'], 'popularity': 54, 'name': u'The Jon Spencer Blues Explosion', 'id': u'2NOhotupwYbKRNJF7LMDPG'}
+{'genres': [u'album rock', u'classic rock', u'glam metal', u'hard rock', u'metal', u'rock', u'wrestling'], 'popularity': 58, 'name': u'Airbourne', 'id': u'6urzdpGY5yUimWZsgJUoTb'}
+{'genres': [u'adult standards', u'blues', u'brill building pop', u'chicago soul', u'christmas', u'classic funk rock', u'classic rock', u'deep funk', u'disco', u'electric blues', u'folk rock', u'funk', u'jazz blues', u'mellow gold', u'memphis blues', u'memphis soul', u'motown', u'new orleans blues', u'rock-and-roll', u'rockabilly', u'roots rock', u'singer-songwriter', u'soul', u'soul blues', u'southern soul', u'traditional blues', u'vocal jazz'], 'popularity': 61, 'name': u'Wilson Pickett', 'id': u'0N5PyKJzS3M1XNlaCL7bbE'}
+{'genres': [u'alternative dance', u'electroclash', u'escape room', u'filter house', u'indietronica', u'new rave', u'strut', u'synthpop'], 'popularity': 54, 'name': u'Yelle', 'id': u'0WbqAlM1WvfUD6dF7omThd'}
+{'genres': [u'dance pop', u'hollywood', u'movie tunes', u'neo mellow', u'pop', u'post-teen pop'], 'popularity': 68, 'name': u'Mandy Moore', 'id': u'2LJxr7Pt3JnP60eLxwbDOu'}
+{'genres': [u'adult standards', u'classic funk rock', u'disco', u'funk', u'jazz christmas', u'jazz funk', u'motown', u'quiet storm', u'soul', u'soul christmas'], 'popularity': 59, 'name': u'Quincy Jones', 'id': u'3rxIQc9kWT6Ueg4BhnOwRK'}
+{'genres': [u'alternative metal', u'post-grunge'], 'popularity': 68, 'name': u'Starset', 'id': u'0kD8IT1CzF7js2XKM9lLLa'}
+{'genres': [u'pop punk', u'pop rock', u'punk', u'ska', u'ska punk', u'skate punk'], 'popularity': 60, 'name': u'Less Than Jake', 'id': u'20oQv3LStCKCjI9oQ0JNha'}
+{'genres': [u'indie anthem-folk', u'indie poptimism', u'modern rock'], 'popularity': 64, 'name': u'BANNERS', 'id': u'4qWnlmXWuGv2TtuxtIWlJX'}
+{'genres': [], 'popularity': 48, 'name': u'The Sneepers', 'id': u'5JpSUY2Zpw62RWAQIejAXx'}
+{'genres': [], 'popularity': 62, 'name': u'Rouge', 'id': u'7oCPozHYsiILeiQlma8EEj'}
+{'genres': [u'bass music', u'bass trip', u'future garage', u'wonky'], 'popularity': 40, 'name': u'Cid Rim', 'id': u'1qsa20MWDjV9QI93zn2i2s'}
+{'genres': [u'folk punk', u'freak folk', u'indie folk', u'indie punk', u'indie rock', u'lo-fi', u'modern rock', u'neo-psychedelic', u'noise pop', u'noise rock'], 'popularity': 44, 'name': u'Titus Andronicus', 'id': u'5lJ4XQ2hlPlxACN7q3xKL1'}
+{'genres': [u'post rock'], 'popularity': 45, 'name': u'Maybeshewill', 'id': u'33qUIIydEBgWpe58IA0o61'}
+{'genres': [u'alternative hip hop', u'escape room', u'hip hop', u'indie r&b', u'southern hip hop', u'underground hip hop'], 'popularity': 62, 'name': u'Rapsody', 'id': u'6NL31G53xThQXkFs7lDpL5'}
+{'genres': [u'indie r&b', u'pop', u'post-teen pop', u'tropical house'], 'popularity': 74, 'name': u'Ella Eyre', 'id': u'66TrUkUZ3RM29dqeDQRgyA'}
+{'genres': [u'alt-indie rock', u'britpop'], 'popularity': 55, 'name': u"The La's", 'id': u'47Z8LEl3LnQkcpva0xSthT'}
+{'genres': [u'bass music', u'electronic', u'escape room', u'fluxwork', u'footwork', u'future garage', u'glitch', u'glitch hop', u'intelligent dance music', u'microhouse', u'ninja', u'uk garage', u'vapor twitch', u'vaporwave', u'wonky'], 'popularity': 51, 'name': u'Machinedrum', 'id': u'06xa1OLBsMQJFXcl2tQkH4'}
+{'genres': [u'deep groove house', u'drum and bass', u'edm', u'electronic', u'house', u'jump up', u'jungle', u'liquid funk', u'tropical house'], 'popularity': 60, 'name': u'Sub Focus', 'id': u'0QaSiI5TLA4N7mcsdxShDO'}
+{'genres': [u'ambient', u'art pop', u'art rock', u'compositional ambient', u'dark jazz', u'drift', u'drone', u'dub techno', u'electronic', u'experimental', u'fourth world', u'freak folk', u'glitch', u'hauntology', u'intelligent dance music', u'mandible', u'minimal', u'modern performance', u'post rock', u'warm drone'], 'popularity': 46, 'name': u'William Basinski', 'id': u'6u5axd0rpDsWSmzhFfb2VB'}
+{'genres': [], 'popularity': 48, 'name': u'Konoba', 'id': u'33B8YdHEKqpNbbKVkQueoF'}
+{'genres': [u'brostep', u'catstep', u'complextro', u'edm', u'electro house', u'tracestep'], 'popularity': 52, 'name': u'KDrew', 'id': u'1DLsogyGi0pwPtwV78D8uZ'}
+{'genres': [u'alternative emo', u'emo', u'folk punk', u'melodic hardcore', u'modern rock', u'orgcore', u'pop punk', u'skate punk'], 'popularity': 60, 'name': u'The Menzingers', 'id': u'7HWFXU9pHBj0u58yoRwwOJ'}
+{'genres': [], 'popularity': 66, 'name': u'Kris Wu', 'id': u'2lbUjuMzHkT4qIECvk2f3L'}
+{'genres': [u'alternative hip hop', u'escape room', u'hip hop', u'underground hip hop', u'wonky'], 'popularity': 55, 'name': u'Jonwayne', 'id': u'3i7IUsb5VsiJAKqX2Md9Fc'}
+{'genres': [u'deep disco house', u'deep house', u'deep melodic euro house', u'funky tech house', u'house', u'minimal tech house', u'minimal techno', u'progressive house', u'tech house', u'tribal house'], 'popularity': 49, 'name': u'Cristoph', 'id': u'532SqCIYmJyXEdEiCJLgYG'}
+{'genres': [u'dwn trap', u'pop rap', u'rap'], 'popularity': 72, 'name': u'Lil Dicky', 'id': u'1tqhsYv8yBBdwANFNzHtcr'}
+{'genres': [u'deep big room', u'deep house', u'deep tropical house', u'edm', u'house', u'progressive electro house', u'progressive house', u'tropical house'], 'popularity': 70, 'name': u'LVNDSCAPE', 'id': u'2QlwnS23KrBeshXFyK5U6M'}
+{'genres': [u'art rock', u'dance rock', u'mellow gold', u'new romantic', u'new wave', u'new wave pop', u'permanent wave', u'power pop', u'pub rock', u'singer-songwriter', u'soft rock', u'synthpop'], 'popularity': 56, 'name': u'Joe Jackson', 'id': u'6KOqPxwfNAmZPkiCnDE9yT'}
+{'genres': [u'indie poptimism', u'neo mellow', u'pop', u'viral pop'], 'popularity': 70, 'name': u'Wrabel', 'id': u'7r2uG6BlFXKcwmh9ItqlII'}
+{'genres': [u'chillwave', u'dream pop', u'garage psych', u'grave wave', u'indietronica', u'noise pop', u'nu gaze', u'preverb'], 'popularity': 51, 'name': u'Black Marble', 'id': u'6Nii4K84ZzBZS8X2MP8c9t'}
+{'genres': [u'dance pop', u'k-pop'], 'popularity': 79, 'name': u'EXO', 'id': u'3cjEqqelV9zb4BYE3qDQ4O'}
+{'genres': [u'folk christmas', u'folk-pop', u'indie christmas', u'indie folk', u'indie pop', u'pop christmas'], 'popularity': 61, 'name': u'She & Him', 'id': u'3CIRif6ZAedT7kZSPvj2A4'}
+{'genres': [u'chiptune', u'deep chiptune', u'nintendocore'], 'popularity': 40, 'name': u'Shirobon', 'id': u'2OgP0RGmDrXN9kOWRNfEuE'}
+{'genres': [u'epicore', u'scorecore', u'soundtrack', u'video game music'], 'popularity': 63, 'name': u'Harry Gregson-Williams', 'id': u'1BxqJ6pOCi8mkSjCbFYjpW'}
+{'genres': [], 'popularity': 53, 'name': u'Nil\xfcfer Yanya', 'id': u'09kXLeOXRyfNQMXRaDO4qA'}
+{'genres': [u'emo', u'modern rock', u'neo mellow', u'piano rock', u'pop emo', u'pop punk', u'pop rock', u'post-teen pop', u'viral pop'], 'popularity': 68, 'name': u'We The Kings', 'id': u'3ao3jf5d70Tf4fPh2bnXVl'}
+{'genres': [u'deep australian indie'], 'popularity': 61, 'name': u'Amy Shark', 'id': u'2DORQjKJVYZMx9uu82UGtT'}
+{'genres': [], 'popularity': 66, 'name': u'Felix Snow', 'id': u'1qskAseW7apRxJBpYAO9Yk'}
+{'genres': [u'art pop', u'chamber psych', u'dance-punk', u'experimental rock', u'freak folk', u'garage psych', u'indie punk', u'indie rock', u'lo-fi', u'neo-psychedelic', u'noise pop', u'noise rock', u'post-punk', u'preverb', u'uk post-punk'], 'popularity': 43, 'name': u'Ought', 'id': u'2VhVBXSB8n2KxuzKVZNxTY'}
+{'genres': [u'bossa nova', u'forro', u'mpb', u'samba', u'world christmas'], 'popularity': 67, 'name': u'Gilberto Gil', 'id': u'7oEkUINVIj1Nr3Wnj8tzqr'}
+{'genres': [u'bubblegum dance', u'eurodance', u'europop', u'hip house'], 'popularity': 60, 'name': u'Corona', 'id': u'26T6b8maqEVltcmE4kSDUl'}
+{'genres': [u'alternative rock', u'garage rock', u'grunge', u'punk blues'], 'popularity': 54, 'name': u'Mark Lanegan', 'id': u'1fpXM23IoNckJ7NDAm8YJQ'}
+{'genres': [u'art rock', u'celtic rock', u'new wave pop', u'rock', u'scottish rock', u'singer-songwriter'], 'popularity': 56, 'name': u'The Waterboys', 'id': u'5TnuP42pw475UrjjeabtwZ'}
+{'genres': [u'grime'], 'popularity': 73, 'name': u'Dave', 'id': u'6Ip8FS7vWT1uKkJSweANQK'}
+{'genres': [u'bossa nova', u'mpb', u'rock gaucho', u'samba'], 'popularity': 59, 'name': u'Rita Lee', 'id': u'7dnT2FUXhjirperXaH22IJ'}
+{'genres': [u'alt-indie rock', u'indie rock'], 'popularity': 56, 'name': u'The Amazons', 'id': u'7243txmysJ4KbRmH8UAMKO'}
+{'genres': [u'alternative dance', u'art pop', u'electroclash', u'escape room', u'indie christmas', u'new rave', u'strut', u'synthpop'], 'popularity': 51, 'name': u'Peaches', 'id': u'1gkSl4XpHIHI4I1WQbfXOE'}
+{'genres': [u'ninja', u'trip hop'], 'popularity': 53, 'name': u'Little People', 'id': u'3cbU0WxlZJTFLTfXEUB433'}
+{'genres': [u'brostep', u'catstep', u'complextro', u'edm', u'electro house', u'electronic trap', u'filthstep', u'moombahton'], 'popularity': 59, 'name': u'Feed Me', 'id': u'5FWi1mowu6uiU2ZHwr1rby'}
+{'genres': [u'norwegian indie', u'norwegian pop', u'norwegian rock'], 'popularity': 45, 'name': u'Moddi', 'id': u'65ltPnFGbTfv1sFjVOZBMM'}
+{'genres': [u'australian dance', u'big room'], 'popularity': 70, 'name': u'Hook N Sling', 'id': u'3iN9k8uvm4WrgdlOigOH8D'}
+{'genres': [u'brostep', u'deep groove house', u'edm', u'electro house', u'electronic trap', u'house', u'progressive house', u'tropical house'], 'popularity': 66, 'name': u'Tchami', 'id': u'1KpCi9BOfviCVhmpI4G2sY'}
+{'genres': [u'contemporary jazz', u'indie jazz', u'nu jazz'], 'popularity': 54, 'name': u'GoGo Penguin', 'id': u'19f2JXwlRU26376TCKmp6L'}
+{'genres': [u'deep chiptune', u'electro house', u'filter house', u'new rave', u'retro electro'], 'popularity': 50, 'name': u'Danger', 'id': u'2o3U0ld93tHYowkoari4Vi'}
+{'genres': [u'acid jazz', u'deep funk', u'electro swing', u'ninja', u'nu jazz', u'trip hop', u'turntablism'], 'popularity': 60, 'name': u'Guts', 'id': u'5mMkUZv8uUrlH0SHX89BeS'}
+{'genres': [u'mellow gold', u'soft rock'], 'popularity': 69, 'name': u'Air Supply', 'id': u'4xXCRXOfQKQ2gjWxNhNzYW'}
+{'genres': [u'big room', u'complextro', u'deep house', u'deep tropical house', u'disco house', u'edm', u'electro house', u'house', u'pop', u'progressive electro house', u'progressive house', u'tropical house'], 'popularity': 65, 'name': u'CAZZETTE', 'id': u'1IELhvOMg5VQlU7syRm6CS'}
+{'genres': [u'dance pop', u'emo', u'modern rock', u'pop punk', u'pop rap', u'post-teen pop'], 'popularity': 60, 'name': u'Cobra Starship', 'id': u'2aYJ5LAta2ScCdfLhKgZOY'}
+{'genres': [u'dance pop', u'pop', u'post-teen pop', u'teen pop', u'viral pop'], 'popularity': 74, 'name': u'Madison Beer', 'id': u'2kRfqPViCqYdSGhYSM9R0Q'}
+{'genres': [u'dance pop', u'hip hop', u'hip pop', u'pop rap', u'r&b', u'rap', u'southern hip hop', u'urban contemporary'], 'popularity': 67, 'name': u'Eve', 'id': u'4d3yvTptO48nOYTPBcPFZC'}
+{'genres': [u'dub', u'reggae', u'reggae fusion', u'roots reggae', u'ska'], 'popularity': 60, 'name': u'Jimmy Cliff', 'id': u'3rJ3m1tM6vUgiWLjfV8sRf'}
+{'genres': [u'brill building pop', u'chicago soul', u'classic funk rock', u'disco', u'funk', u'jazz blues', u'memphis soul', u'motown', u'northern soul', u'quiet storm', u'soul', u'soul blues', u'soul christmas', u'southern soul'], 'popularity': 60, 'name': u'Gladys Knight & The Pips', 'id': u'0TF2NxkJZPQoX1H53rEFM1'}
+{'genres': [u'indie poptimism', u'indie psych-rock', u'indie rockism', u'shimmer pop'], 'popularity': 48, 'name': u'Knox Hamilton', 'id': u'1XyjBsbZBunXsYDTkaYtk9'}
+{'genres': [u'psychedelic doom', u'retro metal', u'sludge metal', u'space rock', u'stoner metal', u'stoner rock'], 'popularity': 36, 'name': u'Karma To Burn', 'id': u'1tMtHqVsdmW0Yj9f4YnnHq'}
+{'genres': [u'screamo'], 'popularity': 69, 'name': u'I Prevail', 'id': u'3Uobr6LgQpBbk6k4QGAb3V'}
+{'genres': [u'mpb', u'samba'], 'popularity': 65, 'name': u'C\xe1ssia Eller', 'id': u'10naVTwNjE50daQVrN0bXh'}
+{'genres': [u'acoustic pop', u'chamber pop', u'folk christmas', u'folk-pop', u'indie anthem-folk', u'indie folk', u'indiecoustica', u'neo mellow', u'pop christmas', u'pop rock', u'stomp and holler'], 'popularity': 62, 'name': u'Andrew Belle', 'id': u'3UAk61T8PItbpgEi9u7ofY'}
+{'genres': [u'australian country', u'contemporary country', u'country', u'country christmas', u'country road'], 'popularity': 77, 'name': u'Keith Urban', 'id': u'0u2FHSq3ln94y5Q57xazwf'}
+{'genres': [u'acoustic pop', u'alternative country', u'chamber pop', u'folk', u'folk-pop', u'indie folk', u'neo mellow', u'new americana', u'roots rock', u'singer-songwriter', u'stomp and holler'], 'popularity': 59, 'name': u'Josh Ritter', 'id': u'6igfLpd8s6DBBAuwebRUuo'}
+{'genres': [u'alternative country', u'anti-folk', u'chamber pop', u'folk-pop', u'freak folk', u'indie folk', u'indie pop', u'indie rock', u'lo-fi', u'melancholia', u'modern rock', u'new americana', u'singer-songwriter', u'slow core', u'stomp and holler'], 'popularity': 54, 'name': u'Conor Oberst', 'id': u'2Z7gV3uEh1ckIaBzTUCE6R'}
+{'genres': [u'alternative metal', u'groove metal', u'melodic death metal', u'melodic metalcore', u'metal', u'metalcore', u'nu metal', u'rap metal', u'swedish metal'], 'popularity': 55, 'name': u'Soilwork', 'id': u'7wqP36o9lqWteOCxBnXlwx'}
+{'genres': [u'dance pop', u'k-pop', u'korean pop'], 'popularity': 64, 'name': u'TAEMIN', 'id': u'13rF01aOogvnkuQXOlgTW8'}
+{'genres': [u'alternative emo', u'anthem emo', u'melodic hardcore', u'pop punk'], 'popularity': 58, 'name': u'Citizen', 'id': u'0znuUIjvP0LXEslfaq0Nor'}
+{'genres': [u'dance pop', u'k-pop'], 'popularity': 57, 'name': u'CLC', 'id': u'6QyO41KctzGc70mVaVnXQO'}
+{'genres': [u'dance pop', u'hip hop', u'hip house', u'hip pop', u'old school hip hop', u'rap'], 'popularity': 63, 'name': u'Salt-N-Pepa', 'id': u'7wqtxqI3eo7Gn1P7SpP6cQ'}
+{'genres': [u'alt-indie rock', u'chamber psych', u'dance-punk', u'garage psych'], 'popularity': 49, 'name': u'IDLES', 'id': u'75mafsNqNE1WSEVxIKuY5C'}
+{'genres': [u'bay area indie', u'blues-rock', u'garage rock', u'modern blues', u'punk blues'], 'popularity': 51, 'name': u'Hanni El Khatib', 'id': u'1HCdPZB0ypEcpDo4T55sMi'}
+{'genres': [u'blues', u'blues-rock', u'classic rock', u'electric blues', u'modern blues', u'southern rock', u'texas blues'], 'popularity': 64, 'name': u'Joe Bonamassa', 'id': u'2SNzxY1OsSCHBLVi77mpPQ'}
+{'genres': [u'underground hip hop'], 'popularity': 70, 'name': u'Pouya', 'id': u'4nXOZlYoAD67hF9aUEncMY'}
+{'genres': [u'adult standards', u'australian dance', u'bubblegum pop', u'country christmas', u'disco', u'hollywood', u'mellow gold', u'new wave pop', u'soft rock', u'soul christmas'], 'popularity': 68, 'name': u'Olivia Newton-John', 'id': u'4BoRxUdrcgbbq1rxJvvhg9'}
+{'genres': [u'chillwave', u'freak folk', u'indie garage rock', u'indietronica', u'kiwi rock', u'neo-psychedelic', u'new weird america'], 'popularity': 54, 'name': u'Connan Mockasin', 'id': u'247AfC9pLuqwgpH8Mo96oA'}
+{'genres': [u'dance pop', u'k-pop', u'korean pop'], 'popularity': 68, 'name': u'JONGHYUN', 'id': u'5rGgflnIpRNizTCozbYBuY'}
+{'genres': [u'big beat', u'deep groove house', u'deep house', u'disco house', u'electronic', u'hip house', u'house', u'speed garage', u'tropical house', u'vocal house'], 'popularity': 63, 'name': u'Armand Van Helden', 'id': u'3cQA9WH8liZfeja1DxcDYE'}
+{'genres': [u'avant-garde jazz', u'bebop', u'contemporary post-bop', u'cool jazz', u'free jazz', u'hard bop', u'italian jazz', u'jazz', u'jazz blues', u'jazz fusion', u'soul jazz', u'stride', u'vocal jazz'], 'popularity': 45, 'name': u'Lee Konitz', 'id': u'4YNvbaOaqp5pzC5US5t48k'}
+{'genres': [u'alternative dance', u'chillwave', u'indie pop', u'indie poptimism', u'indie psych-rock', u'indietronica', u'metropopolis', u'modern rock', u'shimmer pop', u'synthpop'], 'popularity': 60, 'name': u'St. Lucia', 'id': u'5WId4o5jdGVhptNU0uqKxu'}
+{'genres': [u'alternative emo', u'anthem emo', u'pop punk'], 'popularity': 50, 'name': u'WSTR', 'id': u'0ofhRkasSdhp6LUs7tFcF7'}
+{'genres': [u'deep chiptune', u'filter house', u'retro electro', u'vaporwave'], 'popularity': 53, 'name': u'Lazerhawk', 'id': u'3Fobin2AT6OcrkLNsACzt4'}
+{'genres': [u'chillhop'], 'popularity': 60, 'name': u'Joey Pecoraro', 'id': u'44insiIQApkRaCMIbuaISJ'}
+{'genres': [u'underground pop rap'], 'popularity': 51, 'name': u'Aaron Smith', 'id': u'77qukKzmdI5BeMBR7WGUrN'}
+{'genres': [u'chamber psych', u'garage psych', u'noise pop', u'preverb'], 'popularity': 44, 'name': u'Shopping', 'id': u'1UgRlUUZBwiGwqMFHA4Puf'}
+{'genres': [u'alternative dance', u'australian dance', u'dance-punk', u'deep australian indie', u'electroclash', u'electronic', u'indietronica', u'new rave', u'synthpop'], 'popularity': 57, 'name': u'The Presets', 'id': u'1zTAQ6zkGz2L2i6lfR30EX'}
+{'genres': [u'bass music', u'chillstep', u'future garage', u'substep'], 'popularity': 55, 'name': u'Phaeleh', 'id': u'5NkUpXWkeXspvu7iQQOHhP'}
+{'genres': [u'deep new americana', u'folk-pop', u'funk', u'indie folk', u'indie pop', u'modern blues', u'modern rock', u'new americana', u'shimmer pop', u'shiver pop', u'stomp and holler'], 'popularity': 64, 'name': u'Houndmouth', 'id': u'7EGwUS3c5dXduO4sMyLWC5'}
+{'genres': [u'deep disco house', u'deep house', u'disco house', u'german techno', u'groove room', u'house', u'progressive house', u'tropical house'], 'popularity': 64, 'name': u'Claptone', 'id': u'4mncDFjVLUa3s025Tct3Ry'}
+{'genres': [], 'popularity': 28, 'name': u'Big B feat. The Dirty Heads', 'id': u'5mqVp01QToxogKFDjMYFZD'}
+{'genres': [u'dance-punk', u'danish pop', u'dream pop', u'garage rock', u'indie christmas', u'noise pop', u'nu gaze', u'shoegaze'], 'popularity': 48, 'name': u'The Raveonettes', 'id': u'3LTXHU3DhiYzGIgF2PP8Q8'}
+{'genres': [u'filter house', u'french indie pop', u'french indietronica', u'microhouse', u'minimal techno'], 'popularity': 54, 'name': u'Rone', 'id': u'3Dw9w3jnmr58ocgxiwITcq'}
+{'genres': [u'bebop', u'big band', u'contemporary post-bop', u'cool jazz', u'hard bop', u'jazz', u'jazz blues', u'jazz christmas', u'jazz fusion', u'latin jazz', u'soul jazz', u'stride', u'swing', u'vocal jazz'], 'popularity': 55, 'name': u'Dizzy Gillespie', 'id': u'5RzjqfPS0Bu4bUMkyNNDpn'}
+{'genres': [u'acoustic pop', u'chamber pop', u'folk-pop', u'indie folk', u'indie pop', u'modern rock', u'neo mellow', u'new americana', u'portland indie', u'stomp and holler'], 'popularity': 61, 'name': u'Blind Pilot', 'id': u'6qiGjRyN7TJ1GA2nXF68Hi'}
+{'genres': [u'big room', u'edm', u'electro house', u'progressive electro house', u'progressive house', u'progressive trance', u'trance', u'uplifting trance'], 'popularity': 66, 'name': u'Dash Berlin', 'id': u'1xT5p0VBpnZDrvVSjX9sri'}
+{'genres': [u'dance pop', u'k-pop', u'korean pop'], 'popularity': 67, 'name': u'IU', 'id': u'3HqSLMAZ3g3d5poNaI7GOU'}
+{'genres': [u'atmospheric post rock', u'compositional ambient', u'focus', u'post rock'], 'popularity': 57, 'name': u'Lights & Motion', 'id': u'3ff1CmU6qfTqRAmdrq8EEG'}
+{'genres': [u'alternative dance', u'art pop', u'chamber psych', u'chillwave', u'dream pop', u'grave wave', u'indie dream pop', u'indie psych-rock', u'indietronica', u'metropopolis', u'noise pop', u'nu gaze', u'shimmer pop', u'shiver pop', u'synthpop'], 'popularity': 48, 'name': u'Still Corners', 'id': u'4zKYrXs8iN4AeHmO8ZxNqp'}
+{'genres': [u'classic funk rock', u'dance pop', u'disco', u'funk', u'motown', u'neo soul', u'new jack swing', u'quiet storm', u'r&b', u'soul', u'soul christmas', u'urban contemporary'], 'popularity': 67, 'name': u'Luther Vandross', 'id': u'19y5MFBH7gohEdGwKM7QsP'}
+{'genres': [u'classical', u'romantic era'], 'popularity': 59, 'name': u'Richard Wagner', 'id': u'1C1x4MVkql8AiABuTw6DgE'}
+{'genres': [u'alt-indie rock', u'brooklyn indie', u'chamber psych', u'preverb'], 'popularity': 48, 'name': u'Sunflower Bean', 'id': u'1xVcjJ5YsYOClO2Unt3Rm8'}
+{'genres': [u'black metal', u'brutal death metal', u'death metal', u'deathgrind', u'doom metal', u'grindcore', u'groove metal', u'hard rock', u'metal', u'speed metal', u'technical death metal', u'thrash metal'], 'popularity': 49, 'name': u'Morbid Angel', 'id': u'35jmO5o3AhUV70kiR7u4Nw'}
+{'genres': [u'album rock', u'alternative rock', u'blues-rock', u'classic rock', u'electric blues', u'grunge', u'hard rock', u'jam band', u'modern blues', u'pop rock', u'post-grunge', u'rock', u'roots rock', u'southern rock'], 'popularity': 61, 'name': u'The Black Crowes', 'id': u'5krkohEVJYw0qoB5VWwxaC'}
+{'genres': [u'black metal', u'folk metal', u'pagan black metal', u'swedish metal', u'symphonic black metal', u'viking metal'], 'popularity': 34, 'name': u'Vintersorg', 'id': u'6LfdGx71ZHRWgP4tBRmQf6'}
+{'genres': [u'classic russian rock', u'russian hip hop', u'russian rock'], 'popularity': 51, 'name': u'Oxxxymiron', 'id': u'1gCOYbJNUa1LBVO5rlx0jB'}
+{'genres': [u'album rock', u'glam metal', u'hard rock', u'metal', u'nwobhm', u'power metal', u'progressive metal', u'rock', u'speed metal', u'thrash metal'], 'popularity': 56, 'name': u'Saxon', 'id': u'71vVmHeNgCVSa5SVmfvscU'}
+{'genres': [u'art pop', u'indie punk', u'lo-fi', u'noise pop', u'preverb'], 'popularity': 48, 'name': u'Charly Bliss', 'id': u'7axA2bNeZsae6t2mgxoSFh'}
+{'genres': [u'art pop', u'brooklyn indie', u'chamber psych', u'dance-punk', u'experimental', u'experimental rock', u'freak folk', u'garage psych', u'indie rock', u'lo-fi', u'math rock', u'neo-psychedelic', u'new rave', u'new weird america', u'no wave', u'noise pop', u'noise rock', u'nu gaze', u'post rock', u'post-hardcore', u'post-punk', u'slow core'], 'popularity': 43, 'name': u'Liars', 'id': u'2z78AlkdwE2Ghj9EB50M6z'}
+{'genres': [u'indie poptimism', u'pixie', u'pop', u'pop punk', u'post-teen pop', u'teen pop'], 'popularity': 65, 'name': u'Hey Violet', 'id': u'4JNfz6aO9ZFz0gp5GY88am'}
+{'genres': [u'adult standards', u'bebop', u'big band', u'contemporary post-bop', u'cool jazz', u'hard bop', u'jazz', u'jazz blues', u'jazz christmas', u'jazz fusion', u'soul jazz', u'stride', u'swing', u'vocal jazz'], 'popularity': 57, 'name': u'Charlie Parker', 'id': u'4Ww5mwS7BWYjoZTUIrMHfC'}
+{'genres': [u'big room', u'deep big room', u'deep pop edm', u'edm', u'electro house', u'pop', u'progressive electro house', u'progressive house', u'tropical house'], 'popularity': 66, 'name': u'Otto Knows', 'id': u'5fahUm8t5c0GIdeTq0ZaG8'}
+{'genres': [u'alternative metal', u'brutal death metal', u'death metal', u'deathgrind', u'goregrind', u'grindcore', u'groove metal', u'melodic death metal', u'metal', u'speed metal', u'technical death metal', u'thrash metal'], 'popularity': 48, 'name': u'Carcass', 'id': u'5lhaM01nwvsMZpmPY2HVER'}
+{'genres': [u'alternative metal', u'dance-punk', u'emo', u'mathcore', u'modern rock', u'post-hardcore', u'progressive post-hardcore', u'screamo'], 'popularity': 51, 'name': u'Glassjaw', 'id': u'7nt6S4klYHg4I7Q4lTSmc0'}
+{'genres': [u'indie r&b', u'pop', u'post-teen pop', u'rap'], 'popularity': 75, 'name': u'Marc E. Bassy', 'id': u'3tQx1LPXbsYjE9VwN1Peaa'}
+{'genres': [u'deep indie r&b', u'funk', u'indie jazz', u'indie r&b'], 'popularity': 56, 'name': u'Nick Hakim', 'id': u'1Goe2NezNnym45kco2xTk6'}
+{'genres': [u'compositional ambient', u'focus', u'instrumental post rock'], 'popularity': 59, 'name': u'The Echelon Effect', 'id': u'20lGLFmdtadbUYmqzFRcA2'}
+{'genres': [u'hollywood'], 'popularity': 72, 'name': u'Anna Kendrick', 'id': u'6xfqnpe2HnLVUaYXs2F8YS'}
+{'genres': [u'australian alternative rock', u'deep australian indie'], 'popularity': 70, 'name': u'Sticky Fingers', 'id': u'3ZGr7nQBXDU2WhyXgRVbt0'}
+{'genres': [u'axe', u'pagode', u'sertanejo universitario'], 'popularity': 66, 'name': u'Claudia Leitte', 'id': u'2OjoIDVPQKT9B7loZbPEfp'}
+{'genres': [], 'popularity': 76, 'name': u'Quinn XCII', 'id': u'3ApUX1o6oSz321MMECyIYd'}
+{'genres': [u'australian alternative rock', u'deep australian indie'], 'popularity': 65, 'name': u'Gang of Youths', 'id': u'142YBUGmLWCJigFLzgguf8'}
+{'genres': [u'alternative dance', u'indie pop', u'indie poptimism', u'indie psych-rock', u'indietronica', u'modern rock', u'shimmer pop', u'synthpop', u'vapor soul'], 'popularity': 59, 'name': u'VHS Collection', 'id': u'2Nvaq4y2ygxIqfwXyz0HeH'}
+{'genres': [u'k-pop'], 'popularity': 69, 'name': u'Monsta X', 'id': u'4TnGh5PKbSjpYqpIdlW5nz'}
+{'genres': [u'art pop', u'chillwave', u'freak folk', u'indie garage rock', u'indie pop', u'indie psych-rock', u'indie rock', u'indietronica', u'neo-psychedelic', u'noise pop', u'nu gaze', u'preverb'], 'popularity': 50, 'name': u'Ducktails', 'id': u'5FQbU5Lrb4pFcW45ZgZzMx'}
+{'genres': [u'float house', u'german techno', u'microhouse', u'minimal tech house', u'minimal techno', u'tech house'], 'popularity': 53, 'name': u'DJ Koze', 'id': u'1kR99O4MgSTasyeJh8UFCg'}
+{'genres': [u'alternative dance', u'electronic', u'icelandic pop', u'synthpop', u'trip hop'], 'popularity': 51, 'name': u'GusGus', 'id': u'5sL9uDMwceYHPknnCLAAwJ'}
+{'genres': [u'ambient idm', u'bass music', u'chillwave', u'drill and bass', u'electronic', u'glitch', u'intelligent dance music', u'microhouse', u'minimal techno', u'ninja', u'nu jazz', u'wonky'], 'popularity': 48, 'name': u'Lusine', 'id': u'2fMe9lZs5HGGOwh8cMSIub'}
+{'genres': [u'retro metal'], 'popularity': 34, 'name': u'Jess and the Ancient Ones', 'id': u'0Nlzia3Zqp5ykzfWesDqQ2'}
+{'genres': [], 'popularity': 49, 'name': u'Desire', 'id': u'2OuSnRT9BKAvFuw0yoTim0'}
+{'genres': [u'alternative emo', u'pop punk', u'progressive post-hardcore', u'screamo'], 'popularity': 55, 'name': u'La Dispute', 'id': u'7lQKE6HaKQcCsgLRMhsh5W'}
+{'genres': [u'chaotic hardcore', u'mathcore', u'metalcore', u'post-doom metal', u'post-metal', u'sludge metal', u'stoner metal'], 'popularity': 36, 'name': u'Doomriders', 'id': u'4RlnL7aGc9EtzBj6mS02Pq'}
+{'genres': [u'alternative metal', u'melodic death metal', u'metalcore', u'post-grunge', u'rap metal', u'screamo', u'swedish alternative rock'], 'popularity': 61, 'name': u'Dead by April', 'id': u'2otRZcOVNcmdkZ5nEoogy6'}
+{'genres': [u'death core', u'death metal', u'deathgrind', u'groove metal', u'mathcore', u'melodic death metal', u'melodic metalcore', u'metalcore', u'technical death metal'], 'popularity': 56, 'name': u'The Black Dahlia Murder', 'id': u'4xTDPgk4jHCF0qui3dH6BS'}
+{'genres': [u'alternative dance', u'dance-punk', u'indietronica', u'new rave', u'synthpop'], 'popularity': 48, 'name': u'Fujiya & Miyagi', 'id': u'0j2MwhbFTvquOBhs3LeIfU'}
+{'genres': [u'brill building pop', u'bubblegum pop', u'merseybeat', u'motown'], 'popularity': 60, 'name': u'The Foundations', 'id': u'4GITZM5LCR2KcdlgEOrNLD'}
+{'genres': [u'acoustic pop', u'chamber pop', u'folk-pop', u'indie folk', u'indie pop', u'indiecoustica', u'new americana', u'shimmer pop', u'stomp and holler'], 'popularity': 62, 'name': u'The Oh Hellos', 'id': u'3Fe3pszR2t4TOBVz41B1WR'}
+{'genres': [u'crunk', u'dance pop', u'dirty south rap', u'dwn trap', u'hip hop', u'hip pop', u'pop rap', u'rap', u'southern hip hop', u'trap music'], 'popularity': 70, 'name': u'Soulja Boy', 'id': u'6GMYJwaziB4ekv1Y6wCDWS'}
+{'genres': [u'melodic metalcore', u'metalcore', u'post-screamo', u'rap metal', u'screamo'], 'popularity': 64, 'name': u'Motionless In White', 'id': u'6MwPCCR936cYfM1dLsGVnl'}
+{'genres': [u'focus'], 'popularity': 53, 'name': u'Gabriel Femi', 'id': u'5TfOpr1QMPSdpygmQvf1qX'}
+{'genres': [u'deep australian indie'], 'popularity': 60, 'name': u'DOPE LEMON', 'id': u'7oZLKL1GjYiaAgssXsLmW8'}
+{'genres': [u'black metal', u'black thrash', u'crossover thrash', u'death metal', u'doom metal', u'groove metal', u'hard rock', u'metal', u'nwobhm', u'rock', u'speed metal', u'thrash metal'], 'popularity': 47, 'name': u'Venom', 'id': u'5fwaejlOHVBAw1KhIPPaQe'}
+{'genres': [u'dance rock', u'europop', u'new romantic', u'new wave pop', u'soft rock', u'synthpop'], 'popularity': 58, 'name': u'Laura Branigan', 'id': u'4463nfFMmK1cwAWBQDwT5e'}
+{'genres': [u'emo', u'metalcore', u'modern rock', u'pop punk', u'post-hardcore', u'screamo'], 'popularity': 60, 'name': u'Senses Fail', 'id': u'591yCCsZCLXvaJ0Rg38vLZ'}
+{'genres': [u'dwn trap', u'hip hop', u'rap', u'southern hip hop', u'trap music', u'underground hip hop'], 'popularity': 71, 'name': u'Ugly God', 'id': u'3Fdm9TFJQCLmC3AWMuGExi'}
+{'genres': [], 'popularity': 52, 'name': u'Frans Kulick', 'id': u'6RBboCQThobAlgyvheFKEe'}
+{'genres': [u'electronic', u'trance'], 'popularity': 52, 'name': u'Sasha', 'id': u'6u4jLGLPuarS3i2XWHVxoS'}
+{'genres': [u'focus'], 'popularity': 60, 'name': u'At The End Of Times, Nothing', 'id': u'249C09TWxdBKs7Z5BN2MU6'}
+{'genres': [u'jump blues', u'rock-and-roll', u'rockabilly'], 'popularity': 53, 'name': u'Wanda Jackson', 'id': u'5ZKMPRDHc7qElVJFh3uRqB'}
+{'genres': [u'big room', u'brostep', u'deep big room', u'edm', u'electro house', u'electronic trap', u'mashup', u'pop', u'progressive electro house', u'progressive house', u'tropical house'], 'popularity': 67, 'name': u'3LAU', 'id': u'4YLQaW1UU3mrVetC8gNkg5'}
+{'genres': [u'art pop', u'chillwave', u'dream pop', u'freak folk', u'indietronica', u'neo-psychedelic', u'noise pop', u'nu gaze', u'preverb', u'shimmer pop'], 'popularity': 49, 'name': u'Mr Twin Sister', 'id': u'5ltJZgIW3OkY5WvuzX5MYz'}
+{'genres': [u'latin', u'latin hip hop', u'pop', u'reggaeton', u'tropical'], 'popularity': 88, 'name': u'Yandel', 'id': u'0eHQ9o50hj6ZDNBt6Ys1sD'}
+{'genres': [u'alternative roots rock', u'garage rock', u'modern blues', u'modern rock', u'punk blues', u'rock'], 'popularity': 57, 'name': u'Rival Sons', 'id': u'356c8AN5YWKvz86B4Sb1yf'}
+{'genres': [u'chamber pop', u'deep new americana', u'new americana', u'stomp and holler'], 'popularity': 60, 'name': u'The Ballroom Thieves', 'id': u'7kZBQcHbD4IKKEJIMnrRWC'}
+{'genres': [u'alternative country', u'chamber pop', u'folk-pop', u'freak folk', u'indie folk', u'indie pop', u'indie rock', u'lo-fi', u'new americana', u'singer-songwriter', u'slow core', u'stomp and holler'], 'popularity': 57, 'name': u'Damien Jurado', 'id': u'79JJCxCCfJ8HufX6w8q2k4'}
+{'genres': [u'future funk', u'vapor twitch'], 'popularity': 53, 'name': u'Tennyson', 'id': u'3Nb8N20WChM0swo5qWTvm8'}
+{'genres': [u'indie poptimism', u'indie psych-rock', u'vapor soul'], 'popularity': 53, 'name': u'Grace Mitchell', 'id': u'3VjZEaHXvNbCmV5jc0VfZR'}
+{'genres': [u'black metal', u'death metal', u'folk metal', u'gothic metal', u'melodic death metal', u'metal', u'pagan black metal', u'symphonic black metal', u'viking metal'], 'popularity': 49, 'name': u'Rotting Christ', 'id': u'7FhkwcO8Jd7BRWdllBpXBJ'}
+{'genres': [u'strut'], 'popularity': 56, 'name': u'Lia Clark', 'id': u'3bY8SmKlzUFImE0mt0zDjY'}
+{'genres': [u'catstep', u'chillstep', u'complextro', u'edm', u'electro house', u'tracestep'], 'popularity': 60, 'name': u'Feint', 'id': u'6RQ9kYbHisp1UUbnfwHNeU'}
+{'genres': [u'alternative metal', u'alternative rock', u'classic rock', u'glam metal', u'grunge', u'hard rock', u'metal', u'nu metal', u'post-grunge', u'rock'], 'popularity': 58, 'name': u'Velvet Revolver', 'id': u'7CHilrn81OdYjkh4uSVnYM'}
+{'genres': [], 'popularity': 82, 'name': u'Matheus & Kauan', 'id': u'2Z0lRIqr997lIUiPtrpKCr'}
+{'genres': [u'album rock', u'dance rock', u'mellow gold', u'new romantic', u'new wave', u'new wave pop', u'rock', u'soft rock', u'synthpop'], 'popularity': 59, 'name': u'Mr. Mister', 'id': u'7Bah8E0kCETqEpAHI6CPzQ'}
+{'genres': [u'escape room', u'indie r&b', u'vaporwave', u'wonky'], 'popularity': 47, 'name': u'Iglooghost', 'id': u'7LCDnUQYE07fnKbo46SVLB'}
+{'genres': [], 'popularity': 54, 'name': u'B\xfcy\xfck Ev Ablukada', 'id': u'7pUjWNH0hKYpRzWDdNLzAi'}
+{'genres': [u'deep disco house', u'deep house', u'house', u'microhouse', u'minimal tech house', u'tech house'], 'popularity': 56, 'name': u'Maya Jane Coles', 'id': u'6TshTCYwh9ySzOO6Jy4Ux2'}
+{'genres': [u'alternative emo', u'anthem emo', u'emo', u'melodic hardcore', u'modern rock', u'pop punk', u'screamo'], 'popularity': 62, 'name': u'The Wonder Years', 'id': u'0nq64XZMWV1s7XHXIkdH7K'}
+{'genres': [], 'popularity': 63, 'name': u'Oscar and the Wolf', 'id': u'0dLWSYE7my9AbpQYNJ0ABV'}
+{'genres': [u'big room', u'edm', u'electro house', u'progressive electro house', u'progressive house'], 'popularity': 74, 'name': u'Cedric Gervais', 'id': u'4Wjf8diP59VmPG7fi4y724'}
+{'genres': [u'brazilian hip hop', u'mpb', u'samba'], 'popularity': 65, 'name': u'Criolo', 'id': u'37ZflmHTdxkSLQuT8w9NBs'}
+{'genres': [u'dance pop', u'k-pop'], 'popularity': 52, 'name': u'4Minute', 'id': u'6cdC1cwqh3eJAXaxXJt2jv'}
+{'genres': [], 'popularity': 75, 'name': u'Ziv Zaifman', 'id': u'2cQr2KbzdRtIFlfbHGnNsL'}
+{'genres': [u'german indie'], 'popularity': 39, 'name': u'Get Well Soon', 'id': u'747B3lhFN6MsexRBAdYC9s'}
+{'genres': [u'alt-indie rock'], 'popularity': 57, 'name': u'The Academic', 'id': u'3VLf4DlBTN2ZRwygS3TNti'}
+{'genres': [u'deep indie r&b', u'funk', u'indie jazz', u'indie r&b', u'indietronica', u'neo soul', u'soul'], 'popularity': 56, 'name': u'Gabriel Garz\xf3n-Montano', 'id': u'1R4GxRuSVTPSb6oy56SPST'}
+{'genres': [u'compositional ambient'], 'popularity': 57, 'name': u'Jonny Greenwood', 'id': u'0z9s3P5vCzKcUBSxgBDyLU'}
+{'genres': [u'dance pop', u'pop', u'post-teen pop', u'teen pop', u'viral pop'], 'popularity': 75, 'name': u'Austin Mahone', 'id': u'04abdnqPQe2N4fjztDea6z'}
+{'genres': [u'adult standards', u'album rock', u'disco', u'folk rock', u'mellow gold', u'new wave pop', u'quiet storm', u'singer-songwriter', u'soft rock'], 'popularity': 64, 'name': u'Christopher Cross', 'id': u'695W5F2Ih8dYahLdjVOIoH'}
+{'genres': [u'eurodance', u'europop', u'italo dance'], 'popularity': 63, 'name': u"Gigi D'Agostino", 'id': u'1OAjDaKgg00KCUYqDe68un'}
+{'genres': [u'album rock', u'art rock', u'blues', u'blues-rock', u'british blues', u'classic funk rock', u'classic rock', u'delta blues', u'electric blues', u'folk rock', u'hard rock', u'modern blues', u'psychedelic rock', u'rock', u'roots rock', u'southern rock', u'symphonic rock', u'texas blues', u'traditional blues'], 'popularity': 54, 'name': u'Ten Years After', 'id': u'7nkLRaWHImCvWGHdNGnhVE'}
+{'genres': [u'australian alternative rock', u'deep australian indie'], 'popularity': 57, 'name': u'Methyl Ethel', 'id': u'3I3Fz1DeUY0icXFvOjbXm7'}
+{'genres': [u'dwn trap', u'rap', u'trap music', u'underground hip hop'], 'popularity': 75, 'name': u'Tay-K', 'id': u'2ODbg2404zUzTi02qIPEjB'}
+{'genres': [u'latin alternative', u'mpb'], 'popularity': 67, 'name': u'Skank', 'id': u'4C4kpaAdp6aKSkguw40SsU'}
+{'genres': [u'crunk', u'dance pop', u'dirty south rap', u'gangster rap', u'hip hop', u'hip pop', u'pop', u'pop rap', u'r&b', u'rap', u'trap music', u'urban contemporary'], 'popularity': 74, 'name': u'Fabolous', 'id': u'0YWxKQj2Go9CGHCp77UOyy'}
+{'genres': [u'adult standards', u'bebop', u'bossa nova', u'cabaret', u'christmas', u'cool jazz', u'jazz', u'jazz blues', u'jazz christmas', u'lounge', u'soul', u'stride', u'swing', u'vocal jazz'], 'popularity': 61, 'name': u'Sarah Vaughan', 'id': u'1bgyxtWjZwA5PQlDsvs9b8'}
+{'genres': [], 'popularity': 77, 'name': u'Leslie Odom Jr.', 'id': u'3cR4rhS2hBWqI7rJEBacvN'}
+{'genres': [u'grave wave', u'minimal wave'], 'popularity': 36, 'name': u'Hante.', 'id': u'5PhSiNjHZevtfAj9zmvVkU'}
+{'genres': [u'alternative hip hop', u'funk', u'hip hop', u'turntablism'], 'popularity': 67, 'name': u'Madlib', 'id': u'5LhTec3c7dcqBvpLRWbMcf'}
+{'genres': [u'album rock', u'art rock', u'classic rock', u'folk rock', u'mellow gold', u'rock', u'singer-songwriter', u'soft rock', u'symphonic rock'], 'popularity': 64, 'name': u'Wings', 'id': u'3sFhA6G1N0gG1pszb6kk1m'}
+{'genres': [u'post rock', u'post-metal'], 'popularity': 48, 'name': u'Long Distance Calling', 'id': u'3SiCxhceGZgzusCLHd4Zz6'}
+{'genres': [u'alternative dance', u'indietronica', u'new rave'], 'popularity': 60, 'name': u'Crystal Fighters', 'id': u'75EZuo5MHV2572NRpMWotC'}
+{'genres': [u'album rock', u'classic rock', u'folk rock', u'hard rock', u'mellow gold', u'new wave pop', u'pop rock', u'rock', u'singer-songwriter', u'soft rock', u'southern rock'], 'popularity': 63, 'name': u'Eddie Money', 'id': u'4Tw2N3wdvJPGEU7JqMxFfE'}
+{'genres': [u'alternative emo', u'emo', u'indie rock', u'lo-fi', u'modern rock'], 'popularity': 49, 'name': u'The World Is A Beautiful Place & I Am No Longer Afraid To Die', 'id': u'5bCNJ1ICzdnzK0yoCIP2Ip'}
+{'genres': [u'acid jazz', u'big beat', u'electronic', u'ninja', u'nu jazz', u'trip hop'], 'popularity': 53, 'name': u'Bent', 'id': u'59xljcfdN2Z9VX2U5RFKEa'}
+{'genres': [u'acid house', u'ambient', u'art pop', u'bass music', u'chamber psych', u'chillwave', u'detroit techno', u'dub techno', u'electronic', u'escape room', u'float house', u'fluxwork', u'fourth world', u'future garage', u'glitch', u'hauntology', u'indie r&b', u'indietronica', u'intelligent dance music', u'mandible', u'microhouse', u'minimal techno', u'ninja', u'outsider house', u'techno', u'vaporwave', u'wonky'], 'popularity': 43, 'name': u'Actress', 'id': u'3bg5rmICvmA8dmYVAdKGYH'}
+{'genres': [u'compositional ambient', u'focus'], 'popularity': 62, 'name': u'Gabriel Parker', 'id': u'4mo8fqMn19RX8Ekf2yz0t4'}
+{'genres': [], 'popularity': 42, 'name': u'French For Rabbits', 'id': u'0g6VRF5TU1BM5FvK0yKyS2'}
+{'genres': [u'deep groove house', u'drum and bass', u'house', u'liquid funk', u'tropical house'], 'popularity': 62, 'name': u'Wilkinson', 'id': u'6m8itYST9ADjBIYevXSb1r'}
+{'genres': [u'alternative pop', u'alternative rock', u'anti-folk', u'art pop', u'folk-pop', u'indie folk', u'indie punk', u'indie rock', u'lilith', u'lo-fi', u'noise pop', u'preverb', u'riot grrrl', u'singer-songwriter'], 'popularity': 50, 'name': u'Sleater-Kinney', 'id': u'4wLIbcoqmqI4WZHDiBxeCB'}
+{'genres': [u'drum and bass', u'edm', u'electronic', u'grime', u'house', u'jungle', u'liquid funk', u'tropical house'], 'popularity': 63, 'name': u'DJ Fresh', 'id': u'6r20qOqY7qDWI0PPTxVMlC'}
+{'genres': [u'dance rock', u'europop', u'new romantic', u'new wave', u'new wave pop', u'pop christmas', u'soul christmas', u'synthpop'], 'popularity': 58, 'name': u'Kim Wilde', 'id': u'73a6pNH4YtLNgDbPQwXveo'}
+{'genres': [u'alternative hip hop', u'deep indie r&b', u'detroit hip hop', u'hardcore hip hop', u'hip hop', u'neo soul', u'southern hip hop'], 'popularity': 57, 'name': u'Slum Village', 'id': u'1020a42xVklY6c56imNcaa'}
+{'genres': [u'dutch pop', u'dutch rock'], 'popularity': 51, 'name': u'Jacqueline Govaert', 'id': u'7LTI9KZLhnMbrDojlJK7Li'}
+{'genres': [u'escape room', u'future funk', u'j-dance'], 'popularity': 54, 'name': u'Kero Kero Bonito', 'id': u'6OqhFYFJDnBBHas02HopPT'}
+{'genres': [u'austropop', u'german pop', u'neue deutsche welle'], 'popularity': 62, 'name': u'Falco', 'id': u'0hLd40hVpRDGENe4KGZLnW'}
+{'genres': [u'indie garage rock', u'indie psych-rock'], 'popularity': 57, 'name': u'Good Morning', 'id': u'2kMzxA8edU05hvMFU493zJ'}
+{'genres': [u'acoustic pop', u'chamber pop', u'folk-pop', u'indie anthem-folk', u'indie folk', u'indiecoustica', u'new americana', u'stomp and holler'], 'popularity': 60, 'name': u'Liza Anne', 'id': u'426VSUSxx9puUYFgp7l7EQ'}
+{'genres': [u'rap', u'southern hip hop', u'trap music'], 'popularity': 90, 'name': u'Metro Boomin', 'id': u'0iEtIxbK0KxaSlF7G42ZOp'}
+{'genres': [u'alt-indie rock', u'alternative dance', u'british indie rock', u'dance-punk', u'garage rock', u'indie rock', u'indietronica', u'modern rock', u'new rave'], 'popularity': 53, 'name': u'Mystery Jets', 'id': u'09K1H1DgyIXHsMx2j7KTFX'}
+{'genres': [], 'popularity': 64, 'name': u'Pink Guy', 'id': u'3yJnBqAoRUNeDabdYoiYWD'}
+{'genres': [], 'popularity': 66, 'name': u'Zaz', 'id': u'1mbgj8ERPs8lWi7t5cYrdy'}
+{'genres': [u'alt-indie rock'], 'popularity': 58, 'name': u'Pale Waves', 'id': u'0wOej91SVqB1zcYkW6xUtA'}
+{'genres': [u'album rock', u'classic rock', u'glam metal', u'hard rock', u'heavy christmas', u'metal', u'neo classical metal', u'power metal', u'progressive metal', u'rock', u'speed metal', u'thrash metal'], 'popularity': 57, 'name': u'Queensr\xffche', 'id': u'2OgUPVlWYgGBGMefZgGvCO'}
+{'genres': [u'chicago soul', u'classic funk rock', u'disco', u'funk', u'jazz blues', u'jazz christmas', u'memphis soul', u'motown', u'neo soul', u'quiet storm', u'soul', u'soul blues', u'soul christmas', u'southern soul', u'vocal jazz'], 'popularity': 61, 'name': u'Donny Hathaway', 'id': u'0HU0U9kdXEHZVxUNbuQe8S'}
+{'genres': [u'folk-pop', u'indiecoustica', u'modern rock'], 'popularity': 65, 'name': u'Judah & the Lion', 'id': u'3wWtfT7S2uVJJ3hGZlOLkZ'}
+{'genres': [u'alternative country', u'chamber pop', u'deep new americana', u'folk-pop', u'freak folk', u'funk', u'indie folk', u'indie pop', u'indie rock', u'modern blues', u'modern rock', u'new americana', u'roots rock', u'singer-songwriter', u'slow core', u'stomp and holler'], 'popularity': 59, 'name': u'Hiss Golden Messenger', 'id': u'37eqxl8DyLd5sQN54wYJbE'}
+{'genres': [u'focus'], 'popularity': 60, 'name': u'Ceilidh', 'id': u'3c4jBYA9Q6SFvKxMBTACgg'}
+{'genres': [u'swedish pop'], 'popularity': 66, 'name': u'AronChupa', 'id': u'5vCOdeiQt9LyzdI87kt5Sh'}
+{'genres': [u'emo', u'metalcore', u'pixie', u'progressive post-hardcore', u'screamo'], 'popularity': 67, 'name': u'Dance Gavin Dance', 'id': u'6guC9FqvlVboSKTI77NG2k'}
+{'genres': [u'deep chiptune', u'scorecore', u'video game music'], 'popularity': 58, 'name': u'Mick Gordon', 'id': u'13ab1LgQZ3tQOhkDRRYB8Y'}
+{'genres': [], 'popularity': 81, 'name': u'Stefflon Don', 'id': u'2ExGrw6XpbtUAJHTLtUXUD'}
+{'genres': [u'bubblegum dance', u'eurodance', u'europop'], 'popularity': 54, 'name': u"Bomfunk MC's", 'id': u'0NeC6ploeJUq8oDwYQjNPS'}
+{'genres': [u'bossa nova', u'mpb', u'samba'], 'popularity': 63, 'name': u'Tribalistas', 'id': u'4laQz4PaKeh2Hu6QL6evVD'}
+{'genres': [u'big room', u'deep big room', u'disco house', u'edm', u'electro house', u'house', u'progressive electro house', u'progressive house'], 'popularity': 65, 'name': u'Steve Angello', 'id': u'4FqPRilb0Ja0TKG3RS3y4s'}
+{'genres': [], 'popularity': 68, 'name': u'League of Legends', 'id': u'47mIJdHORyRerp4os813jD'}
+{'genres': [u'adult standards', u'big band', u'cabaret', u'christmas', u'easy listening', u'jazz christmas', u'lounge', u'swing', u'vocal jazz'], 'popularity': 59, 'name': u'Glenn Miller', 'id': u'2aAHdB5HweT3mFcRzm0swc'}
+{'genres': [u'acoustic pop', u'folk', u'folk-pop', u'indie folk', u'lilith', u'neo mellow', u'new americana', u'pop rock', u'singer-songwriter'], 'popularity': 63, 'name': u'Brandi Carlile', 'id': u'2sG4zTOLvjKG1PSoOyf5Ej'}
+{'genres': [u'alt-indie rock'], 'popularity': 55, 'name': u'Frank Carter & The Rattlesnakes', 'id': u'3r32a6mMdoPaSP1C7kYhMc'}
+{'genres': [u'austropop', u'german pop'], 'popularity': 61, 'name': u'Andreas Gabalier', 'id': u'4rp8rIXbwp93MnStnqDGQD'}
