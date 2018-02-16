@@ -10,38 +10,22 @@ dir = os.path.dirname(__file__)
 reload(sys)
 sys.setdefaultencoding('utf8')
 covered_artists_file_path = os.path.join(
-    dir, "../../data/prepared/covered_artists.txt")
-if not os.path.exists(covered_artists_file_path):
-    open(covered_artists_file_path, 'a').close()
+    dir, "../../data/assist/covered_artists.txt")
 artist_info_file_path = os.path.join(
     dir, "../../data/prepared/artist_info.txt")
-if not os.path.exists(artist_info_file_path):
-    open(artist_info_file_path, 'a').close()
+artists_file_path = os.path.join(
+    dir, "../../data/prepared/artists.txt")
+helpers.create_file_if_not_exists(covered_artists_file_path)
+helpers.create_file_if_not_exists(artist_info_file_path)
 
 artist_amount = 10000
 counter = 0
-covered_artists = []
-artist_names = []
 
-covered_artists_file = open(os.path.join(
-    dir, "../../data/prepared/covered_artists.txt"), "r")
+covered_artists = helpers.read_lines_from_file(covered_artists_file_path)
+artist_names = helpers.read_lines_from_file(artists_file_path)
 
-for line in covered_artists_file:
-    covered_artists.append(line.strip())
-
-covered_artists_file.close()
-
-covered_artists_file = open(os.path.join(
-    dir, "../../data/prepared/covered_artists.txt"), "a")
-
-artist_info_file = open(os.path.join(
-    dir, "../../data/prepared/artist_info.txt"), "a")
-
-artist_file = open(os.path.join(dir, "../../data/prepared/artists.txt"))
-
-for line in artist_file:
-    line = line.rstrip()
-    artist_names.append(line)
+covered_artists_file = open(covered_artists_file_path, "a")
+artist_info_file = open(artist_info_file_path, "a")
 
 covered_artists_amount = len(covered_artists)
 found_artists_amount = helpers.file_len(artist_info_file_path)

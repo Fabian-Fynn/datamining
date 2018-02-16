@@ -52,16 +52,11 @@ while True:
         "chart.gettopartists", page=str(page), limit=str(limit))
     raw = helpers.make_api_call(url).read()
     data = json.loads(raw)
-    # print data
-    # print int(data["artists"]["@attr"]["page"])
     artists = data["artists"]["artist"]
-    # print data
     for artist in artists:
-        # print artist["name"]
         artist_file.write("%s\n" % artist["name"])
         covered_artists_amount += 1
 
-    # print page
     # progress = ((page - last_page + 0.0) / pages) * 100
     # helpers.progress(progress)
 

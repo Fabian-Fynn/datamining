@@ -86,7 +86,7 @@ def make_spotify_api_call(url, max_retries=5):
                 os.execl(sys.executable, sys.executable, *sys.argv)
                 continue
             elif e.code == 502:
-                print '502'
+                # print '502'
                 continue
             elif e.code == 429:
                 print 'too many requests'
@@ -129,10 +129,12 @@ def create_file_if_not_exists(path):
         open(path, 'a').close()
 
 
-def read_lines_from_file(file):
+def read_lines_from_file(path):
+    file = open(path, "r")
     array = []
     for line in file:
         array.append(line.strip())
+    file.close()
     return array
 
 
